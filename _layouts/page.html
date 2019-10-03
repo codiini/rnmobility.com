@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+
+    {% include header.html %}
+
+    <!-- Page content -->
+    <p class="lead">
+        {{ page.motto }}  
+    </p>
+    <hr>
+    {% if page.compact %}
+      {% include compact-state.html %}
+    {% endif %}
+    {{ content }}
+    {% include footer.html %}
+</div>
+  </body>
+
+</html>

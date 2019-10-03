@@ -1,0 +1,162 @@
+
+<div class="w-100">
+        <h2>Online ACLS Recertification in 2-5 hours</h2>
+
+        <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="form-inline courses-btns-form">
+          <input name="source_website" type="hidden" value="rnmobility.com">
+          <p>
+            <button type="button" class="btn btn-primary mb-1 course" id="prechecked" style="font-size:25px; background:red; border-color:darkred" data-course="2">
+              <i class="fa fa-check-square-o"></i>
+              ACLS <span class="tex-muted">$175</span>
+            </button>
+            <button type="button" class="btn btn-primary mb-1 course" style="font-size:25px; background:purple; border-color:purple" data-course="4">
+              <i class="fa fa-square-o"></i>
+              PALS <span class="tex-muted">$175</span>
+            </button>
+            <button type="button" class="btn btn-primary mb-1 course" style="font-size:25px; background:blue; border-color:darkblue" data-course="6">
+              <i class="fa fa-square-o"></i>
+              BLS <span class="tex-muted">$65</span>
+            </button>
+          </p>
+          <div class="w-100">
+            <button id="buynow" type="submit" class="btn btn-outline-secondary"><i class="fa fa-shopping-cart"></i> Buy now</button> <em>10% off with 2 courses, 15% off with 3</em>
+          </div>
+          <p>
+            <a href="https://www.acls.net/signup.php">... see our other courses and group discounts</a>
+          </p>
+        </form>
+      </div>
+
+<footer class="text-center">
+  <p>
+    &copy; 2019 RNMobility.com, a service of acls.net
+  </p>
+</footer>
+<!-- javascript -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>
+
+  // Code below is used to include acls recertification in shopping cart
+  // When code is initially loaded (This is pre checked option) 
+  $(document).ready(function () {
+    $('<input>').attr({
+                type: 'hidden',
+                id: 'courseHidden2',
+                name: 'courses[2][course_id]',
+                class: 'courseHidden',
+                value: 2
+            }).appendTo('form.courses-btns-form');
+            $('<input>').attr({
+                type: 'hidden',
+                id: 'courseHiddenQuantity2',
+                name: 'courses[2][quantity]',
+                class: 'courseHidden',
+                value: 1
+            }).appendTo('form.courses-btns-form');
+});
+// This code will only execute and create event for add to cart when prechecked course is bought.
+$('#buynow').on('click', function(){
+  if ($('#prechecked').find('i.fa-check-square-o').length !== 0){
+    let courseNum = 2;
+    gtag('event', 'add_to_cart', {
+                    'items': [{
+                        'id': 'course_' + courseNum,
+                        'name': products[courseNum]['name'],
+                        'price': products[courseNum]['price'],
+                        'quantity': '1'
+                    }]
+                  });
+  }
+});
+
+    $(function(){
+      $('.courses-btns-form button[data-course]').on('click', function(event){
+          event.stopPropagation();
+          var courseNum = $(this).data('course');
+          if ($('#courseHidden'+courseNum).length) {
+            $('#courseHidden'+courseNum).remove();
+            $('#courseHiddenQty'+courseNum).remove();
+            $(this).find("i").addClass('fa-square-o').removeClass('fa-check-square-o');
+          } else {
+            $('<input>').attr({
+                type: 'hidden',
+                id: 'courseHidden'+courseNum,
+                name: 'courses['+courseNum+'][course_id]',
+                class: 'courseHidden',
+                value: courseNum
+            }).appendTo('form.courses-btns-form');
+            $('<input>').attr({
+                type: 'hidden',
+                id: 'courseHiddenQuantity'+courseNum,
+                name: 'courses['+courseNum+'][quantity]',
+                class: 'courseHidden',
+                value: 1
+            }).appendTo('form.courses-btns-form');
+            $(this).find("i").addClass('fa-check-square-o').removeClass('fa-square-o');
+          }
+          change_submit_class();
+      });
+
+    /**
+     * Function change_submit_class
+     * This function is used to change submit button classes and animate it if there is at least one active checkbox.
+     *
+    */
+    function change_submit_class(){
+        var count = $('.courseHidden').length;
+        var buynow_btn = $('.courses-btns-form').find('#buynow');
+        buynow_btn.fadeTo(80,0).fadeTo(80,1).fadeTo(80,0).fadeTo(80,1).fadeTo(80,0).fadeTo(80,1);
+        if(count){
+          buynow_btn.addClass('btn-primary').removeClass('btn-outline-secondary');
+        }else{
+          buynow_btn.addClass('btn-outline-secondary').removeClass('btn-primary');
+        }
+    }
+  });
+
+  const products = {
+            2: {
+                  "name": 'ACLS Recertification Course',
+                  "price": '175.0'
+              },
+            6: {
+                  "name": 'BLS Recertification Course',
+                  "price": '65.0'
+                },
+                4: {
+                  "name": 'PALS Recertification Course',
+                  "price": '175.0'
+                }
+        };
+
+  // This code sends event to GA when courses are added to cart.
+  $(".course").click(function(){
+    if ($(this).find('i.fa-check-square-o').length == 0){
+            var courseNum = $(this).data('course');
+            if(courseNum !== null) {
+                  gtag('event', 'add_to_cart', {
+                    'items': [{
+                        'id': 'course_' + courseNum,
+                        'name': products[courseNum]['name'],
+                        'price': products[courseNum]['price'],
+                        'quantity': '1'
+                    }]
+                  });
+              }
+          }
+        });
+
+// This will create event when someone clicks on email
+$(function(){
+$('.email').mousedown(function(event){
+gtag('event', 'select_content', {'items':'email','content_type': 'mailto link clicked'})
+  })
+});
+
+// This will create event when someone clicks on phone number
+$(function(){
+$('.phone-number').mousedown(function(event){
+  gtag('event', 'select_content', {'items':'call','event_label': 'Phone Number Selected'})
+  })
+});
+</script>
