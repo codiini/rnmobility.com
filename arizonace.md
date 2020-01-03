@@ -70,7 +70,7 @@ application and fees by mail. Emailed and faxed applications will not be
 accepted. A verification of the applicants original state of licensure
 should also be included. These can be found at
 [www.nursys.com](https://www.nursys.com/) or at
-[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/RNLPNEndorsement)
+[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license)
 Applicants should provide proof of lawful presence in the United States.
 Click [here](https://www.azbn.gov/Citizenship)for a list of acceptable
 documents.
