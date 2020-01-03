@@ -41,7 +41,7 @@ five years.
 
 ​3. While RN applicants do need to have a diploma or degree, there are
 some exceptions. They can be found by clicking
-[here](https://www.azbn.gov/RNLPNExceptions).
+[here](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license).
 
 ​4. Applicants require approval by the Arizona Board if they are under
 investigation.
