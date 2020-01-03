@@ -53,7 +53,7 @@ Fingerprint fee is \$50. To view the instruction card, click
 
 If your state does not participate in the Nursys Verification system you
 must complete the [verification
-form](https://www.azbn.gov/licenses-and-certifications/verification-for-endorsement "link to Arizona State Board of Nursing Verification Form")
+form](https://www.azbn.gov/sites/default/files/forms/verification-form-042017.pdf "link to Arizona State Board of Nursing Verification Form")
 and mail it to the state of your original license.
 
 To view the Endorsement application packet, click
