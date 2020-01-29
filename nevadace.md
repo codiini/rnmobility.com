@@ -41,7 +41,7 @@ Social Security number, passing NCLEX scores, and current, permanent
 licensure.
 
 More specific information on endorsement can be found
-[here](https://nevadanursingboard.org/wp-content/uploads/2017/09/Final-app-for-lic-by-end.pdf).
+[here](https://nevadanursingboard.org/wp-content/uploads/2019/10/RNLPNbyEndorsementAppInstructions.pdf).
 It includes fingerprint instructions along with the endorsement
 application and instructions. Application fee is \$105,
 Fingerprint/Background check fee is \$40.
