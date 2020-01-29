@@ -64,7 +64,7 @@ For more information regarding continuing education, including approved
 providers, can be found
 [here](https://nevadanursingboard.org/education-and-continuing-education/continuing-education/).
 Approved Continuing Education Providers
-[link](https://nevadanursingboard.org/education-and-continuing-education/continuing-education/ce-approved-providers/)
+[link](https://nevadanursingboard.org/continuing-education/)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/nevada-acls-pals-bls.htm)
 
