@@ -37,7 +37,7 @@ page.
     Report](https://www.cgfns.org/services/ces-professional-report/)
 
 -   Two contact hours regarding [Category A, Ohio Law and
-    Rules](http://www.nursing.ohio.gov/PDFS/Education/Category_A_Law_Rules.pdf)
+    Rules](http://codes.ohio.gov/oac/4723-14-03v1)
 
 -   For more information and to view the application, click
     [here](http://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
