@@ -24,9 +24,9 @@ Click
 view [online endorsement application
 instructions](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Instr%20Grad%20Exam%20GTPP.pdf).
 Fees must be paid with credit or debit cards. You may also click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement%20App.pdf)to
+[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)to
 view the [paper
-application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement%20App.pdf)
+application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)
 and instructions. Foreign educated nurses may need to complete the
 [Application for Licensure by Endorsement with Exam for Internationally
 Educated Practical
@@ -35,7 +35,7 @@ You may use this as a guide for the online application.
 
 Below are some of the general requirements for endorsement. View the
 [paper
-application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement%20App.pdf)
+application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)
 or call the PA State Board for more details.
 
 -   You will need to complete three hours of [board approved education
