@@ -30,7 +30,7 @@ application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nurs
 and instructions. Foreign educated nurses may need to complete the
 [Application for Licensure by Endorsement with Exam for Internationally
 Educated Practical
-Nurses](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement%20INT%20Exam%20App.pdf).
+Nurses](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement_Out_of_State.pdf).
 You may use this as a guide for the online application.
 
 Below are some of the general requirements for endorsement. View the
