@@ -26,7 +26,7 @@ page.
     system.](https://elicense.ohio.gov/OH_CommunitiesLogin)
 
 -   [Criminal records
-    check](http://www.nursing.ohio.gov/PDFS/CRC_Process.pdf%20)
+    check](http://nursing.ohio.gov/wp-content/uploads/2019/07/CRC_Process.pdf)
 
 -   A representative informed me that it may be easier to get your
     background check done in Ohio. Verification of license via paper
