@@ -56,9 +56,9 @@ If your endorsement will cause you to have less than 12 months of
 practice by the time of your renewal, you will only need 12 contact
 hours.
 
-Click [here](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf)for
+Click [here](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf)for
 [continuing education
-FAQ](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf).
+FAQ](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/ohio-acls-pals-bls.htm)
 
@@ -87,8 +87,8 @@ Fax: 614.466.0388
 
 ### FAQ
 
-Click [here](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf)for
+Click [here](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf)for
 [continuing education
-FAQ](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf).
+FAQ](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf).
 
 * * * * *
