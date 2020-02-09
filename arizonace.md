@@ -41,7 +41,7 @@ five years.
 
 ​3. While RN applicants do need to have a diploma or degree, there are
 some exceptions. They can be found by clicking
-[here](https://www.azbn.gov/RNLPNExceptions).
+[here](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license).
 
 ​4. Applicants require approval by the Arizona Board if they are under
 investigation.
@@ -53,7 +53,7 @@ Fingerprint fee is \$50. To view the instruction card, click
 
 If your state does not participate in the Nursys Verification system you
 must complete the [verification
-form](https://www.azbn.gov/media/2817/verification-form-042017.pdf "link to Arizona State Board of Nursing Verification Form")
+form](https://www.azbn.gov/sites/default/files/forms/verification-form-042017.pdf "link to Arizona State Board of Nursing Verification Form")
 and mail it to the state of your original license.
 
 To view the Endorsement application packet, click
@@ -70,7 +70,7 @@ application and fees by mail. Emailed and faxed applications will not be
 accepted. A verification of the applicants original state of licensure
 should also be included. These can be found at
 [www.nursys.com](https://www.nursys.com/) or at
-[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/RNLPNEndorsement)
+[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license)
 Applicants should provide proof of lawful presence in the United States.
 Click [here](https://www.azbn.gov/Citizenship)for a list of acceptable
 documents.

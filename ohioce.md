@@ -26,7 +26,7 @@ page.
     system.](https://elicense.ohio.gov/OH_CommunitiesLogin)
 
 -   [Criminal records
-    check](http://www.nursing.ohio.gov/PDFS/CRC_Process.pdf%20)
+    check](http://nursing.ohio.gov/wp-content/uploads/2019/07/CRC_Process.pdf)
 
 -   A representative informed me that it may be easier to get your
     background check done in Ohio. Verification of license via paper
@@ -37,7 +37,7 @@ page.
     Report](https://www.cgfns.org/services/ces-professional-report/)
 
 -   Two contact hours regarding [Category A, Ohio Law and
-    Rules](http://www.nursing.ohio.gov/PDFS/Education/Category_A_Law_Rules.pdf)
+    Rules](http://codes.ohio.gov/oac/4723-14-03v1)
 
 -   For more information and to view the application, click
     [here](http://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
@@ -51,14 +51,14 @@ Ohio state law.
 
 You will need to complete at least 24 contact hours and at least one
 must be from [Category
-A](http://www.nursing.ohio.gov/PDFS/Education/Category_A_Law_Rules.pdf%20).
+A](http://codes.ohio.gov/oac/4723-14-03v1).
 If your endorsement will cause you to have less than 12 months of
 practice by the time of your renewal, you will only need 12 contact
 hours.
 
-Click [here](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf)for
+Click [here](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf)for
 [continuing education
-FAQ](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf).
+FAQ](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/ohio-acls-pals-bls.htm)
 
@@ -87,8 +87,8 @@ Fax: 614.466.0388
 
 ### FAQ
 
-Click [here](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf)for
+Click [here](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf)for
 [continuing education
-FAQ](http://www.nursing.ohio.gov/PDFS/Education/CE_FAQ.pdf).
+FAQ](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf).
 
 * * * * *

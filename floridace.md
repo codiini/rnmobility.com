@@ -62,7 +62,7 @@ current license will expire at midnight, Eastern Standard Time, July 31,
 Standard Time, April 30, 2017.
 
 You may [renew
-online](https://appsmqa.doh.state.fl.us/MQAPathways/MqaServices/index?page=renew)
+online](https://mqaonline.doh.state.fl.us/datamart/voservicesportal/)
 or by mail. You will not have to submit any continuing competency
 documents unless you are audited. The Florida Board's website recommends
 you hold on to these documents for at least four years.

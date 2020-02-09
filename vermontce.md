@@ -16,7 +16,7 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
 
 *   Complete [application](https://cms.sec.state.vt.us:8443/share/s/D_J2OWJdQJiz2tEUcy8sqw) with $150 application fee
     
-*   Verification of licensure from your original state of licensure and your last state of employment as an RN. You may use [www.nursys.com](https://www.nursys.com) or the Verification of Initial Licensure form on the [application](https://www.sec.state.vt.us/media/378818/LNA-Endorsement-Application.pdf).
+*   Verification of licensure from your original state of licensure and your last state of employment as an RN. You may use [www.nursys.com](https://www.nursys.com) or the Verification of Initial Licensure form on the [application](https://cms.sec.state.vt.us:8443/share/s/SIm29CVnQoSHDJrmT1sWAA).
     
 *   Copy of one of the following forms of ID
     

@@ -61,7 +61,7 @@ continuing education details. You may also click
 view continuing competency alternatives.
 
 Click here for renewal
-[FAQ](https://nebraska.mylicense.com/).
+[FAQ](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-FAQs.aspx).
 
 Verification of licensure can be obtained at
 [Nursys](https://www.nursys.com/). If your state does not participate in

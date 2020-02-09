@@ -23,7 +23,7 @@ page.
 #### Endorsements
 
 Below is a general list of requirements for endorsements. Click
-[here](https://mbn.hlb.state.mn.us/%20)to view the [endorsement
+[here](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp)to view the [endorsement
 application
 page](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp).
 Nurses can also apply online [here.](https://mbn.hlb.state.mn.us/)
