@@ -3,7 +3,6 @@ title: RN Mobility
 url: https://rnmobility.com/
 #permalink: pretty
 google_analytics_id: UA-37916519-1
-google_analytics_domains: ['acls.net', 'aclscertification.ca', 'renewacls.com', 'rnmobility.com', 'emtadvantage.com']
 
 exclude:
   - README.md
