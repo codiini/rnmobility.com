@@ -4,6 +4,9 @@ require 'lightning_sites' # https://github.com/fulldecent/lightning-sites
 @source_dir = '.'
 @build_excludes.push('README.md','LICENSE','CONTRIBUTING.md')
 
+desc "Perform website build"
+task :build => ['jekyll:build']
+
 desc "Perform all testing on the built HTML"
 task :test do
   begin
