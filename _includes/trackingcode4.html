@@ -1,12 +1,39 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RJB2BBT9M7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
+{% comment %}
 
-  gtag("config", "G-RJB2BBT9M7");
+This include should be used in the HTML->HEAD section. It should come immediately
+after the <meta charset="utf-8"> line.
+
+References:
+- https://support.google.com/analytics/answer/1008080?hl=en&ref_topic=1008079
+- https://support.google.com/360suite/optimize/answer/7513085
+
+{% endcomment %}
+{% if page.google_optimize %}
+<!-- Page hiding snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',800,
+{'{{ page.google_optimize }}':true});</script>
+{% endif %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}" data-proofer-ignore></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{ site.google_analytics_id }}', {
+{% if page.google_optimize %}
+  'optimize_id': '{{ page.google_optimize }}',
+{% endif %}
+{% if site.google_analytics_domains %}
+  'linker': {
+    'domains': [{% for domain in site.google_analytics_domains %}'{{domain}}',{% endfor %}],
+    'accept_incoming': true,
+    'bob': false,
+    'decorate_forms': true
+  },
+{% endif %}
+});
 </script>
-<!-- Required meta tags -->
