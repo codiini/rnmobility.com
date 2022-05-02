@@ -58,14 +58,20 @@
 $('#buynow').on('click', function(){
   if ($('#prechecked').find('i.fa-check-square-o').length !== 0){
     let courseNum = 2;
-    gtag('event', 'add_to_cart', {
-                    'items': [{
-                        'id': 'course_' + courseNum,
-                        'name': products[courseNum]['name'],
-                        'price': products[courseNum]['price'],
-                        'quantity': '1'
-                    }]
-                  });
+    // GA4
+    gtag("event", "add_to_cart", {
+      currency: "USD",
+      value: courses[courseNum]["price"],
+      items: [
+        {
+          item_id: "course_" + courseNum,
+          item_name: courses[courseNum]["name"],
+          currency: "USD",
+          price: courses[courseNum]["price"],
+          quantity: 1,
+        },
+      ],
+    });
   }
 });
 
@@ -114,7 +120,7 @@ $('#buynow').on('click', function(){
     }
   });
 
-  const products = {
+  const courses = {
             2: {
                   "name": 'ACLS Recertification Course',
                   "price": '175.0'
@@ -132,31 +138,23 @@ $('#buynow').on('click', function(){
   // This code sends event to GA when courses are added to cart.
   $(".course").click(function(){
     if ($(this).find('i.fa-check-square-o').length == 0){
-            var courseNum = $(this).data('course');
-            if(courseNum !== null) {
-                  gtag('event', 'add_to_cart', {
-                    'items': [{
-                        'id': 'course_' + courseNum,
-                        'name': products[courseNum]['name'],
-                        'price': products[courseNum]['price'],
-                        'quantity': '1'
-                    }]
-                  });
-              }
-          }
-        });
-
-// This will create event when someone clicks on email
-$(function(){
-$('.email').mousedown(function(event){
-gtag('event', 'select_content', {'items':'email','content_type': 'mailto link clicked'})
-  })
-});
-
-// This will create event when someone clicks on phone number
-$(function(){
-$('.phone-number').mousedown(function(event){
-  gtag('event', 'select_content', {'items':'call','event_label': 'Phone Number Selected'})
-  })
-});
+      var courseNum = $(this).data('course');
+      if(courseNum !== null) {
+        // GA4
+        gtag("event", "add_to_cart", {
+          currency: "USD",
+          value: courses[courseNum]["price"],
+          items: [
+            {
+              item_id: "course_" + courseNum,
+              item_name: courses[courseNum]["name"],
+              currency: "USD",
+              price: courses[courseNum]["price"],
+              quantity: 1,
+            },
+          ],
+        });  
+      }
+    }
+  });
 </script>
