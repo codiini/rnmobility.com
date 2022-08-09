@@ -157,6 +157,6 @@ Your feedback can improve \
 Phone: Call us at 1-877-560-2940
 
 Email:
-[robert@pacificmedicaltraining.com](mailto:robert@pacificmedicaltraining.com?subject=Alabama%20state%20page&body=Hi%2C%20I%20had%20questions%20about%20the%20Alabama%20state%20page.%20I%20would%20also%20like%20to%20buy%20your%20ACLS%2C%20PALS%2C%20and%20BLS%20courses!)
+[support@PacificMedicalTraining.com](mailto:support@PacificMedicalTraining.com?subject=Alabama%20state%20page&body=Hi%2C%20I%20had%20questions%20about%20the%20Alabama%20state%20page.%20I%20would%20also%20like%20to%20buy%20your%20ACLS%2C%20PALS%2C%20and%20BLS%20courses!)
 
 * * * * *
