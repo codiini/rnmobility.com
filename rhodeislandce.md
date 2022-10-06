@@ -18,7 +18,7 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
 
 *   Completed, notarized [application](https://healthri.mylicense.com/)
     
-*   Application Requirements [link.](http://health.ri.gov/publications/requirements/NursingApplicationRequirements.pdf) This also includes information about foreign educated applicants.
+*   Application Requirements [link.](https://health.ri.gov/publications/requirements/NursingApplicationRequirements.pdf) This also includes information about foreign educated applicants.
     
 *   Application fee of $135
     
@@ -55,7 +55,7 @@ You must complete ten contact hours of continuing education in the two years pre
 
 #### Contact Information
 
-[Rhode Island Nursing Licensing web address](http://health.ri.gov/licenses/detail.php?id=231)
+[Rhode Island Nursing Licensing web address](https://health.ri.gov/licenses/detail.php?id=231)
 
 Location
 

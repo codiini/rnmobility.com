@@ -26,7 +26,7 @@ page.
     system.](https://elicense.ohio.gov/OH_CommunitiesLogin)
 
 -   [Criminal records
-    check](http://nursing.ohio.gov/wp-content/uploads/2019/07/CRC_Process.pdf)
+    check](https://nursing.ohio.gov/wp-content/uploads/2019/07/CRC_Process.pdf)
 
 -   A representative informed me that it may be easier to get your
     background check done in Ohio. Verification of license via paper
@@ -37,10 +37,10 @@ page.
     Report](https://www.cgfns.org/services/ces-professional-report/)
 
 -   Two contact hours regarding [Category A, Ohio Law and
-    Rules](http://codes.ohio.gov/oac/4723-14-03v1)
+    Rules](https://codes.ohio.gov/oac/4723-14-03v1)
 
 -   For more information and to view the application, click
-    [here](http://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
+    [here](https://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
     scroll down to endorsement applicants.
 
 RN renewal takes place every two years during odd numbered years.License
@@ -51,7 +51,7 @@ Ohio state law.
 
 You will need to complete at least 24 contact hours and at least one
 must be from [Category
-A](http://codes.ohio.gov/oac/4723-14-03v1).
+A](https://codes.ohio.gov/oac/4723-14-03v1).
 If your endorsement will cause you to have less than 12 months of
 practice by the time of your renewal, you will only need 12 contact
 hours.
@@ -64,7 +64,7 @@ FAQ](http://www.nursing.test.ohio.gov/PDFS/education/CE_FAQ.pdf).
 
 #### Contact Information
 
-[Ohio Board of Nursing web address](http://www.nursing.ohio.gov/)
+[Ohio Board of Nursing web address](https://www.nursing.ohio.gov/)
 
 Business hours are 8 a.m. 5 p.m.
 

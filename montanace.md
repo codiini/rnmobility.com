@@ -117,13 +117,13 @@ E-mail:
 [cgustafson@mt.gov](mailto:cgustafson@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20for%20the%20Montana%20Board%20Management%20Bureau%20here.)
 
 [Montana Board of Nursing web
-address](http://boards.bsd.dli.mt.gov/nur)
+address](https://boards.bsd.dli.mt.gov/nur)
 
 * * * * *
 
 ### FAQ
 
 A link to the Montana State Nursing Board's frequently asked questions
-can be found [here](http://boards.bsd.dli.mt.gov/nur#18)
+can be found [here](https://boards.bsd.dli.mt.gov/nur#18)
 
 * * * * *

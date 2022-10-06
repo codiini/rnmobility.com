@@ -61,7 +61,7 @@ between each renewal period.
 
 For more information on CE, visit the [Continuing Education Frequently
 Asked Questions (FAQs)
-page.](http://nursing.illinois.gov/PDF/2015-04_IL_RN_CE_Relicensure_FAQ.pdf)
+page.](https://nursing.illinois.gov/PDF/2015-04_IL_RN_CE_Relicensure_FAQ.pdf)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/illinois-acls-pals-bls.htm)
 
@@ -75,6 +75,6 @@ Phone: 312-814-2715
 Fax: 312-814-3145
 
 For more information, visit the [Illinois Center for Nursing
-page](http://nursing.illinois.gov/)
+page](https://nursing.illinois.gov/)
 
 * * * * *

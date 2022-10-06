@@ -77,7 +77,7 @@ renew. If you have had your license over two years you will need 30
 contact hours to renew. If you had your Delaware license less than a
 year before your first renewal, you will not need any continuing
 education contact hours. Visit the [1900 Board of Nursing
-page](http://regulations.delaware.gov/AdminCode/title24/1900.shtml)
+page](https://regulations.delaware.gov/AdminCode/title24/1900.shtml)
 and read section 9.0 for rules and regulations pertaining to mandatory
 continuing education
 

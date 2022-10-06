@@ -30,7 +30,7 @@ Below are general guidelines for endorsement.
 -   You must be a graduate of an approved nursing program
 
 -   Provide [proof of
-    citizenship](http://dhhs.ne.gov/licensure/Documents/ExaminationRNLPN.pdf)
+    citizenship](https://dhhs.ne.gov/licensure/Documents/ExaminationRNLPN.pdf)
 
 -   Meet one of the following criteria
 
@@ -41,27 +41,27 @@ Below are general guidelines for endorsement.
 -   Complete a refresher course
 
 -   Criminal background check. Fee is \$28.75. See
-    [link](http://dhhs.ne.gov/licensure/Documents/ExaminationRNLPN.pdf)
+    [link](https://dhhs.ne.gov/licensure/Documents/ExaminationRNLPN.pdf)
     for information and instructions.
 
 -   You must have passing NCLEX or SBTPE scores
 
 -   Submit a complete
-    [application](http://dhhs.ne.gov/licensure/Documents/EndorsementRNLPN.pdf).
+    [application](https://dhhs.ne.gov/licensure/Documents/EndorsementRNLPN.pdf).
     The fee is \$123
 
 Licenses expire on the 31st of October during odd numbered years.
-[Renewals](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)cost
+[Renewals](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)cost
 \$123. You must maintaing continuing competence by working at least 500
 hours as an RN and completing 20 contact hours of continuing education.
 Click
-[here](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)for
+[here](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)for
 continuing education details. You may also click
-[here](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)to
+[here](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Renewal-and-Continuing-Education.aspx)to
 view continuing competency alternatives.
 
 Click here for renewal
-[FAQ](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-FAQs.aspx).
+[FAQ](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-FAQs.aspx).
 
 Verification of licensure can be obtained at
 [Nursys](https://www.nursys.com/). If your state does not participate in
@@ -71,7 +71,7 @@ to your original state of licensure, along with the required fee. You
 will need to contact your state for determination of fees.
 
 If you graduated from a foreign education program please see this
-[Website](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Foreign-Educated-Nurse-Information.aspx)
+[Website](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing-Foreign-Educated-Nurse-Information.aspx)
 for further information. Graduates of a foreign education program must
 also pass an English-language proficiency exam with either:
 
@@ -85,7 +85,7 @@ CRNE. Link [here](https://www.ncsbn.org/4702.htm)
 #### Contact Information
 
 [Nebraska Board of
-Nursing](http://dhhs.ne.gov/licensure/Pages/Nurse-Licensing.aspx)
+Nursing](https://dhhs.ne.gov/licensure/Pages/Nurse-Licensing.aspx)
 
 Licensure Unit, Nursing
 PO Box 94986

@@ -30,7 +30,7 @@ eligible for endorsement.
 You will need to submit your endorsement application with fees. A \$110
 application fee will be required. Fees for fingerprints and license
 verification vary from one provider to the next. A [Livescan service
-provider](http://www.flhealthsource.gov/background-screening/) must take
+provider](https://www.flhealthsource.gov/background-screening/) must take
 your fingerprints as well. Livescan electronic fingerprinting is
 required for all initial licensure. You will need to download and print
 the [Nursing Electronic Fingerprint
