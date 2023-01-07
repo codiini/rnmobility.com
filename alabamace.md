@@ -154,7 +154,7 @@ FAQs regarding temporary licensure by endorsement.
 Your feedback can improve \
  the quality of this site.
 
-Phone: Call us at 1-877-560-2940
+Phone: Call us at 1-425-842-4010
 
 Email:
 [support@PacificMedicalTraining.com](mailto:support@PacificMedicalTraining.com?subject=Alabama%20state%20page&body=Hi%2C%20I%20had%20questions%20about%20the%20Alabama%20state%20page.%20I%20would%20also%20like%20to%20buy%20your%20ACLS%2C%20PALS%2C%20and%20BLS%20courses!)
