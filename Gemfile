@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "lightning_sites", ">= 1.4.9"
+gem 'github-pages'
+gem 'webrick' # https://stackoverflow.com/a/68492996

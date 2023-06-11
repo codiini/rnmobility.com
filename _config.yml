@@ -12,3 +12,6 @@ exclude:
   - Gemfile.lock
   - Rakefile
   - BACKUPS
+
+destination: build
+source: source
