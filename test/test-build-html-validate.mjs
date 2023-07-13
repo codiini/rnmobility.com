@@ -9,6 +9,7 @@ const formatter = formatterFactory("text");
 const targets = glob.sync("./build/**/*.html");
 const startTime = Date.now();
 const timeLimit = 60; // seconds
+var exitCode = 0;
 targets.forEach((target) => {
   if (Date.now() - startTime > timeLimit * 1000) {
     console.log("Time limit exceeded, exiting");
@@ -17,8 +18,10 @@ targets.forEach((target) => {
   const report = htmlValidate.validateFile(target);
   if (!report.valid) {
     console.log(formatter(report.results));
+    exitCode = 1;
   } else {
     //emoji
     console.log("✅ " + target);
   }
 });
+process.exit(exitCode);
