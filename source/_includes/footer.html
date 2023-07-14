@@ -33,113 +33,79 @@
   </p>
 </footer>
 <!-- javascript -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script>
-
   // Code below is used to include acls recertification in shopping cart
   // When code is initially loaded (This is pre checked option) 
-  $(document).ready(function () {
-    $('<input>').attr({
-                type: 'hidden',
-                id: 'courseHidden2',
-                name: 'courses[2][course_id]',
-                class: 'courseHidden',
-                value: 2
-            }).appendTo('form.courses-btns-form');
-            $('<input>').attr({
-                type: 'hidden',
-                id: 'courseHiddenQuantity2',
-                name: 'courses[2][quantity]',
-                class: 'courseHidden',
-                value: 1
-            }).appendTo('form.courses-btns-form');
-});
-// This code will only execute and create event for add to cart when prechecked course is bought.
-$('#buynow').on('click', function(){
-  if ($('#prechecked').find('i.fa-check-square-o').length !== 0){
-    let courseNum = 2;
-    // GA4
-    gtag("event", "add_to_cart", {
-      currency: "USD",
-      value: courses[courseNum]["price"],
-      items: [
-        {
-          item_id: "course_" + courseNum,
-          item_name: courses[courseNum]["name"],
-          currency: "USD",
-          price: courses[courseNum]["price"],
-          quantity: 1,
-        },
-      ],
-    });
-  }
-});
+  document.addEventListener('DOMContentLoaded', () => {
+    const courseHiddenInput = document.createElement('input');
+    courseHiddenInput.setAttribute('type', 'hidden');
+    courseHiddenInput.setAttribute('id', 'courseHidden2');
+    courseHiddenInput.setAttribute('name', 'courses[2][course_id]');
+    courseHiddenInput.setAttribute('class', 'courseHidden');
+    courseHiddenInput.setAttribute('value', '2');
+    document.querySelector('form.courses-btns-form').appendChild(courseHiddenInput);
 
-    $(function(){
-      $('.courses-btns-form button[data-course]').on('click', function(event){
-          event.stopPropagation();
-          var courseNum = $(this).data('course');
-          if ($('#courseHidden'+courseNum).length) {
-            $('#courseHidden'+courseNum).remove();
-            $('#courseHiddenQty'+courseNum).remove();
-            $(this).find("i").addClass('fa-square-o').removeClass('fa-check-square-o');
-          } else {
-            $('<input>').attr({
-                type: 'hidden',
-                id: 'courseHidden'+courseNum,
-                name: 'courses['+courseNum+'][course_id]',
-                class: 'courseHidden',
-                value: courseNum
-            }).appendTo('form.courses-btns-form');
-            $('<input>').attr({
-                type: 'hidden',
-                id: 'courseHiddenQuantity'+courseNum,
-                name: 'courses['+courseNum+'][quantity]',
-                class: 'courseHidden',
-                value: 1
-            }).appendTo('form.courses-btns-form');
-            $(this).find("i").addClass('fa-check-square-o').removeClass('fa-square-o');
-          }
-          change_submit_class();
+    const courseHiddenQuantityInput = document.createElement('input');
+    courseHiddenQuantityInput.setAttribute('type', 'hidden');
+    courseHiddenQuantityInput.setAttribute('id', 'courseHiddenQuantity2');
+    courseHiddenQuantityInput.setAttribute('name', 'courses[2][quantity]');
+    courseHiddenQuantityInput.setAttribute('class', 'courseHidden');
+    courseHiddenQuantityInput.setAttribute('value', '1');
+    document.querySelector('form.courses-btns-form').appendChild(courseHiddenQuantityInput);
+  });
+
+  // This code will only execute and create event for add to cart when prechecked course is bought.
+  document.querySelector('#buynow').addEventListener('click', () => {
+    if (document.querySelector('#prechecked i.fa-check-square-o')) {
+      const courseNum = 2;
+      // GA4
+      gtag("event", "add_to_cart", {
+        currency: "USD",
+        value: courses[courseNum]["price"],
+        items: [
+          {
+            item_id: "course_" + courseNum,
+            item_name: courses[courseNum]["name"],
+            currency: "USD",
+            price: courses[courseNum]["price"],
+            quantity: 1,
+          },
+        ],
       });
-
-    /**
-     * Function change_submit_class
-     * This function is used to change submit button classes and animate it if there is at least one active checkbox.
-     *
-    */
-    function change_submit_class(){
-        var count = $('.courseHidden').length;
-        var buynow_btn = $('.courses-btns-form').find('#buynow');
-        buynow_btn.fadeTo(80,0).fadeTo(80,1).fadeTo(80,0).fadeTo(80,1).fadeTo(80,0).fadeTo(80,1);
-        if(count){
-          buynow_btn.addClass('btn-primary').removeClass('btn-outline-secondary');
-        }else{
-          buynow_btn.addClass('btn-outline-secondary').removeClass('btn-primary');
-        }
     }
   });
 
-  const courses = {
-            2: {
-                  "name": 'ACLS Recertification Course',
-                  "price": '175.0'
-              },
-            6: {
-                  "name": 'BLS Recertification Course',
-                  "price": '65.0'
-                },
-                4: {
-                  "name": 'PALS Recertification Course',
-                  "price": '175.0'
-                }
-        };
 
-  // This code sends event to GA when courses are added to cart.
-  $(".course").click(function(){
-    if ($(this).find('i.fa-check-square-o').length == 0){
-      var courseNum = $(this).data('course');
-      if(courseNum !== null) {
+  document.querySelectorAll('.courses-btns-form button[data-course]').forEach(button => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
+      const courseNum = button.getAttribute('data-course');
+
+      if (document.querySelector('#courseHidden' + courseNum)) {
+        document.querySelector('#courseHidden' + courseNum).remove();
+        document.querySelector('#courseHiddenQuantity' + courseNum).remove();
+        button.querySelector('i').classList.remove('fa-check-square-o');
+        button.querySelector('i').classList.add('fa-square-o');
+      } else {
+        const courseHiddenInput = document.createElement('input');
+        courseHiddenInput.setAttribute('type', 'hidden');
+        courseHiddenInput.setAttribute('id', 'courseHidden' + courseNum);
+        courseHiddenInput.setAttribute('name', 'courses[' + courseNum + '][course_id]');
+        courseHiddenInput.setAttribute('class', 'courseHidden');
+        courseHiddenInput.setAttribute('value', courseNum);
+        document.querySelector('form.courses-btns-form').appendChild(courseHiddenInput);
+
+        const courseHiddenQuantityInput = document.createElement('input');
+        courseHiddenQuantityInput.setAttribute('type', 'hidden');
+        courseHiddenQuantityInput.setAttribute('id', 'courseHiddenQuantity' + courseNum);
+        courseHiddenQuantityInput.setAttribute('name', 'courses[' + courseNum + '][quantity]');
+        courseHiddenQuantityInput.setAttribute('class', 'courseHidden');
+        courseHiddenQuantityInput.setAttribute('value', '1');
+        document.querySelector('form.courses-btns-form').appendChild(courseHiddenQuantityInput);
+
+        button.querySelector('i').classList.remove('fa-square-o');
+        button.querySelector('i').classList.add('fa-check-square-o');
+
         // GA4
         gtag("event", "add_to_cart", {
           currency: "USD",
@@ -153,8 +119,32 @@ $('#buynow').on('click', function(){
               quantity: 1,
             },
           ],
-        });  
+        });
+
+        const buynowBtn = document.querySelector('.courses-btns-form #buynow');
+        for (let i = 0; i < 8; i++) {
+          setTimeout(() => {
+            buynow.style.opacity = i % 2;
+          }, i * 80);
+        }
       }
-    }
+    });
   });
+
+
+  const courses = {
+    2: {
+      "name": 'ACLS Recertification Course',
+      "price": '175.0'
+    },
+    6: {
+      "name": 'BLS Recertification Course',
+      "price": '65.0'
+    },
+    4: {
+      "name": 'PALS Recertification Course',
+      "price": '175.0'
+    }
+  };
+
 </script>
