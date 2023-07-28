@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in New Jersey | ACLS Training Center"
+title:
+  New Jersey: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in New Jersey.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in New Jersey. Stay compliant and enhance your nursing knowledge and skills.
 heading: "New Jersey"
 state: NJ
 statename: New Jersey

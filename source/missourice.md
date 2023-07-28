@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Missouri | ACLS Training Center"
+title:
+  Missouri: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Missouri.
+  Stay updated on registered nurse license endorsement, renewal, and continuing education in Missouri. Ensure the longevity of your nursing profession.
 heading: "Missouri"
 state: MO
 statename: Missouri

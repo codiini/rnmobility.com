@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Indiana | ACLS Training Center"
+title:
+  Indiana: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Indiana.
+  Understand the process of registered nurse license endorsement, renewal, and continuing education in Indiana. Maintain your nursing license with ease.
 heading: "Indiana"
 state: IN
 statename: Indiana

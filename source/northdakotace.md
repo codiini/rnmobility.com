@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in North Dakota | ACLS Training Center"
+title:
+  North Dakota: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in North Dakota.
+  Get the facts about registered nurse license endorsement, renewal, and continuing education in North Dakota. Keep your nursing credentials valid and up to date.
 heading: "North Dakota"
 state: ND
 statename: North Dakota

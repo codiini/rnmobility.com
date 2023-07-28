@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Nevada | ACLS Training Center"
+title:
+  Nevada: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Nevada.
+  Learn about registered nurse license endorsement, renewal, and continuing education in Nevada. Stay current in your nursing profession and fulfill the necessary requirements.
 heading: "Nevada"
 state: NV
 statename: Nevada

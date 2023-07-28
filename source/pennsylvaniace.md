@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Pennsylvania | ACLS Training Center"
+title:
+  Pennsylvania: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Pennsylvania.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Pennsylvania. Stay compliant and advance your nursing career in the state.
 heading: "Pennsylvania"
 state: PA
 statename: Pennsylvania

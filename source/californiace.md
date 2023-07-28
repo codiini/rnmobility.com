@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Arkansas | ACLS Training Center'
+title:
+  California: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in California.
+  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in California. Stay current in your nursing profession.
 heading: 'California'
 state: CA
 statename: California

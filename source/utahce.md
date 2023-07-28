@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Utah | ACLS Training Center"
+title:
+  Utah: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Utah.
+  Discover the essentials of registered nurse license endorsement, renewal, and continuing education in Utah. Stay compliant and advance your nursing career in the state.
 heading: "Utah"
 state: UT
 statename: Utah

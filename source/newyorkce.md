@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in New York | ACLS Training Center"
+title:
+  New York: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in New York.
+  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in New York. Stay updated and maintain your nursing license with ease.
 heading: "New York"
 state: NY
 statename: New York

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Rhode Island | ACLS Training Center"
+title:
+  Rhode Island: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Rhode Island.
+  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Rhode Island. Keep your nursing license current and meet the necessary criteria.
 heading: "Rhode Island"
 state: RI
 statename: Rhode Island

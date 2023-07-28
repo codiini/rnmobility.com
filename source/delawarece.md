@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Delaware | ACLS Training Center'
+title:
+  Delaware: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Delaware.
+  Learn the essentials of registered nurse license endorsement, renewal, and continuing education in Delaware. Stay compliant with your nursing license.
 heading: 'Delaware'
 state: DE
 statename: Delaware

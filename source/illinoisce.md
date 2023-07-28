@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Illinois | ACLS Training Center"
+title:
+  Illinois: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Illinois.
+  Stay updated on registered nurse license endorsement, renewal, and continuing education in Illinois. Ensure the longevity of your nursing profession.
 heading: "Illinois"
 state: IL
 statename: Illinois

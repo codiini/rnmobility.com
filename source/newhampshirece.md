@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in New Hampshire | ACLS Training Center"
+title: "Registered Nurse License Endorsement, Renewal, and Continuing Education in New Hampshire"
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in New Hampshire.
+  Familiarize yourself with the process of registered nurse license endorsement, renewal, and continuing education in New Hampshire.
 heading: "New Hampshire"
 state: NH
 statename: New Hampshire

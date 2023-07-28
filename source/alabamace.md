@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license transfer, renewal, and continuing education in Alabama | ACLS Training Center'
+title:
+  Alabama: Registered nurse license transfer, renewal, and continuing education
 description: >-
-  Learn the basics of registered nurse license transfer, renewal, and continuing education in Alabama.
+  Apprenez les bases du transfert de licence, du renouvellement et de la formation continue pour les infirmières autorisées en Alabama. Suivez les étapes pour maintenir votre licence à jour.
 heading: 'Alabama'
 state: AL
 statename: Alabama

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in New Mexico | ACLS Training Center"
+title: "Continuing Education for Nurses in New Mexico"
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in New Mexico.
+  Stay updated on the process of registered nurse license endorsement, renewal, and continuing education in New Mexico. Explore the requirements and opportunities available for nurses in the state.
 heading: "New Mexico"
 state: NM
 statename: New Mexico

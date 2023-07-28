@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Kentucky | ACLS Training Center"
+title:
+  Kentucky: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Kentucky.
+  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kentucky. Maintain your nursing license with ease.
 heading: "Kentucky"
 state: KY
 statename: Kentucky

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Connecticut | ACLS Training Center'
+title:
+  Connecticut: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Connecticut.
+  Understand the process of registered nurse license endorsement, renewal, and continuing education in Connecticut. Ensure the longevity of your nursing career.
 heading: 'Connecticut'
 state: CT
 statename: Connecticut

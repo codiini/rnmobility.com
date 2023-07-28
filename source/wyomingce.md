@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Wisconsin | ACLS Training Center"
+title:
+  Wyoming: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Wisconsin.
+  Explore the essentials of registered nurse license endorsement, renewal, and continuing education in Wyoming. Stay compliant and advance your nursing career in the state.
 heading: "Wisconsin"
 state: WI
 statename: Wisconsin

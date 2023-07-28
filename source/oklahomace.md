@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Oklahoma | ACLS Training Center"
+title: "Registered nurse license and continuing education in Oklahoma"
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Oklahoma.
+  Learn how registered nurse license endorsement works in Oklahoma. Including transferring from another state and online training requirements.
 heading: "Oklahoma"
 state: OK
 statename: Oklahoma

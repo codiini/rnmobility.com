@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Florida | ACLS Training Center'
+title:
+  Georgia: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Georgia.
+  Get the facts about registered nurse license endorsement, renewal, and continuing education in Georgia. Maintain your nursing credentials with ease.
 heading: 'Georgia'
 state: GA
 statename: Georgia

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Kansas | ACLS Training Center"
+title:
+  Kansas: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Kansas.
+  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kansas. Stay up-to-date with your nursing credentials.
 heading: "Kansas"
 state: KS
 statename: Kansas

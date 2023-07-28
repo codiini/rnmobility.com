@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Washington State | ACLS Training Center"
+title:
+  Washington State: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Washington State.
+  Discover the basics of registered nurse license endorsement, renewal, and continuing education in Washington State. Stay up to date and fulfill the necessary requirements for maintaining your nursing license in the state.
 heading: "Washington State"
 state: WA
 statename: Washington State
