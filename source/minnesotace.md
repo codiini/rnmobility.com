@@ -1,11 +1,9 @@
 ---
 layout: page
-title: >-
-  Registered nurse license endorsement, renewal and continuing education in
-  Minnesota | ACLS Training Center
+title:
+  Minnesota: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and
-  continuing education in Minnesota.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Minnesota. Stay compliant with your nursing license.
 heading: Minnesota
 state: MN
 statename: Minnesota

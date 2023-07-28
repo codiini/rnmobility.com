@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Florida | ACLS Training Center'
+title:
+  Florida: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Florida.
+  Explore the details of registered nurse license endorsement, renewal, and continuing education in Florida. Enhance your nursing knowledge and skills.
 heading: 'Florida'
 state: FL
 statename: Florida

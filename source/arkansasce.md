@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Arkansas | ACLS Training Center'
+title:
+  Arkansas: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Arkansas.
+  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arkansas. Maintain your nursing license with ease.
 heading: 'Arkansas'
 state: AR
 statename: Arkansas

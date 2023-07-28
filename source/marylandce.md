@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Maryland | ACLS Training Center"
+title:
+  Maryland: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Maryland.
+  Understand the process of registered nurse license endorsement, renewal, and continuing education in Maryland. Ensure the longevity of your nursing career.
 heading: "Maryland"
 state: MD
 statename: Maryland

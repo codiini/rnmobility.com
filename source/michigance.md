@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Michigan | ACLS Training Center"
+title:
+  Michigan: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Michigan.
+  Get the facts about registered nurse license endorsement, renewal, and continuing education in Michigan. Maintain your nursing credentials with ease.
 heading: "Michigan"
 state: MI
 statename: Michigan

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license transfer, renewal, and continuing education in Alaska | ACLS Training Center'
+title:
+  Alaska: Registered nurse license transfer, renewal, and continuing education
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Alaska.
+  Apprenez les bases du transfert de licence, du renouvellement et de la formation continue pour les infirmières autorisées en Alaska. Obtenez les informations nécessaires pour poursuivre votre pratique infirmière.
 heading: 'Alaska'
 state: AK
 statename: Alaska

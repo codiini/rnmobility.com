@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Montana | ACLS Training Center"
+title:
+  Montana: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Montana.
+  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Montana. Stay informed and meet the requirements for your nursing career.
 heading: "Montana"
 state: MT
 statename: Montana

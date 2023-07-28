@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in South Dakota | ACLS Training Center"
+title:
+  South Dakota: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in South Dakota.
+  Get the facts about registered nurse license endorsement, renewal, and continuing education in South Dakota. Keep your nursing credentials valid and up to date.
 heading: "South Dakota"
 state: SD
 statename: South Dakota

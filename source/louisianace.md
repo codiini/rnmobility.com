@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Louisiana | ACLS Training Center"
+title:
+  Louisiana: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Louisiana.
+  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Louisiana. Stay current in your nursing profession.
 heading: "Louisiana"
 state: LA
 statename: Louisiana

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Alabama | ACLS Training Center'
+title:
+  Arizona: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Arizona.
+  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arizona. Stay up-to-date with your nursing credentials.
 heading: 'Arizona'
 state: AZ
 statename: Arizona

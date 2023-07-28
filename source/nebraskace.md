@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Nebraska | ACLS Training Center"
+title:
+  Nebraska: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Nebraska.
+  Discover the essentials of registered nurse license endorsement, renewal, and continuing education in Nebraska. Keep your nursing license up to date and maintain your professional status.
 heading: "Nebraska"
 state: NE
 statename: Nebraska

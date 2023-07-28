@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Vermont | ACLS Training Center"
+title:
+  Vermont: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Vermont.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Vermont. Stay updated and meet the necessary requirements for your nursing profession.
 heading: "Vermont"
 state: VT
 statename: Vermont

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Oregon | ACLS Training Center"
+title:
+  Oregon: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Oregon.
+  Learn about registered nurse license endorsement, renewal, and continuing education in Oregon. Stay updated and fulfill the necessary requirements for maintaining your nursing license.
 heading: "Oregon"
 state: OR
 statename: Oregon

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Maine | ACLS Training Center"
+title:
+  Maine: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Maine.
+  Stay informed about registered nurse license endorsement, renewal, and continuing education in Maine. Keep your nursing license active and valid.
 heading: "Maine"
 state: ME
 statename: Maine

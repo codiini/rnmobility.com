@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Hawai'i | ACLS Training Center"
+title:
+  Hawai'i: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Hawai'i.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Hawai'i. Stay current in your nursing profession.
 heading: "Hawai'i"
 state: HI
 statename: Hawai'i

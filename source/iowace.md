@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Iowa | ACLS Training Center"
+title:
+  Iowa: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Iowa.
+  Explore the details of registered nurse license endorsement, renewal, and continuing education in Iowa. Enhance your nursing knowledge and skills.
 heading: "Iowa"
 state: IA
 statename: Iowa

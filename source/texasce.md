@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Texas | ACLS Training Center"
+title:
+  Texas: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Texas.
+  Learn about registered nurse license endorsement, renewal, and continuing education in Texas. Stay informed and meet the requirements for your nursing profession in the state.
 heading: "Texas"
 state: TX
 statename: Texas

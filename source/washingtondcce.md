@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Washington DC | ACLS Training Center"
+title:
+  Washington DC: Continuing education and endorsement for registered nurse license renewal
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Washington DC.
+  Learn the fundamentals of registered nurse license endorsement, renewal, and continuing education in Washington DC. Stay informed and meet the requirements for your nursing career in the District of Columbia.
 heading: "Washington DC"
 state: DC
 statename: Washington DC

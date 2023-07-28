@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Maryland | ACLS Training Center"
+title:
+  Massachusetts: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Massachusetts.
+  Explore the details of registered nurse license endorsement, renewal, and continuing education in Massachusetts. Enhance your nursing knowledge and skills.
 heading: "Massachusetts"
 state: MA
 statename: Massachusetts

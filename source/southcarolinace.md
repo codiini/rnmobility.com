@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in South Carolina | ACLS Training Center"
+title:
+  South Carolina: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in South Carolina.
+  Explore the basics of registered nurse license endorsement, renewal, and continuing education in South Carolina. Stay informed and meet the requirements for your nursing profession.
 heading: "South Carolina"
 state: SC
 statename: South Carolina

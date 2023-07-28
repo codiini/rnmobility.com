@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in Ohio | ACLS Training Center"
+title:
+  Ohio: Renewal and continuing education for registered nurse license endorsement
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Ohio.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Ohio. Stay informed and meet the necessary criteria for your nursing profession.
 heading: "Ohio"
 state: OH
 statename: Ohio

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Registered nurse license endorsement, renewal and continuing education in West Virgina | ACLS Training Center"
+title:
+  West Virginia: Endorsement, renewal, and continuing education for registered nurse license
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in West Virgina.
+  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in West Virginia. Stay compliant and advance your nursing career in the state.
 heading: "West Virgina"
 state: WV
 statename: West Virgina

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'Registered nurse license endorsement, renewal and continuing education in Colorado | ACLS Training Center'
+title: 'Continuing Education for Nurses in Colorado'
 description: >-
-  Learn the basics of registered nurse license endorsement, renewal and continuing education in Colorado.
+  Gain knowledge about the process of registered nurse license endorsement, renewal, and continuing education in Colorado. Stay updated with the latest requirements and regulations for nurses in the state.
 heading: 'Colorado'
 state: CO
 statename: Colorado
