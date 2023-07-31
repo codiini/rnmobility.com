@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Virginia: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Virginia. Stay informed and meet the requirements for your nursing career in the state.
+title: 'Virginia RN: Endorsement, renewal & CE for license'
+description: "Virginia RN license: endorsement, renewal & continuing education explained. Stay informed & meet nursing requirements.\r"
 heading: "Virginia"
 state: VA
 statename: Virginia

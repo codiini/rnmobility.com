@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Ohio: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Ohio. Stay informed and meet the necessary criteria for your nursing profession.
+title: 'Ohio RN: Renewal & CE for license endorsement'
+description: "Ohio RN license: Endorsement, renewal, & continuing ed. Stay informed & meet criteria for your profession.\r"
 heading: "Ohio"
 state: OH
 statename: Ohio

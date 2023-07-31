@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Texas: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Learn about registered nurse license endorsement, renewal, and continuing education in Texas. Stay informed and meet the requirements for your nursing profession in the state.
+title: 'Texas RN: Endorsement, renewal & CE for license'
+description: "Texas RN license: endorsement, renewal & continuing education info. Stay informed & meet nursing requirements in the state.\r"
 heading: "Texas"
 state: TX
 statename: Texas

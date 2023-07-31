@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Registered nurse license and continuing education in Oklahoma"
-description: >-
-  Learn how registered nurse license endorsement works in Oklahoma. Including transferring from another state and online training requirements.
+description: "Learn how registered nurse license endorsement works in Oklahoma. Including transferring from another state and online training requirements.\r"
 heading: "Oklahoma"
 state: OK
 statename: Oklahoma

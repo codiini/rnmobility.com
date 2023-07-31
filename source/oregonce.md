@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Oregon: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Learn about registered nurse license endorsement, renewal, and continuing education in Oregon. Stay updated and fulfill the necessary requirements for maintaining your nursing license.
+title: 'Oregon RN: Endorsement, renewal & CE for license'
+description: "Oregon RN license: Endorsement, renewal, & continuing ed. Stay updated & meet nursing license requirements.\r"
 heading: "Oregon"
 state: OR
 statename: Oregon

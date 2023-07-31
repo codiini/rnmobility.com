@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Maine: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Stay informed about registered nurse license endorsement, renewal, and continuing education in Maine. Keep your nursing license active and valid.
+title: 'Maine: RN License Endorsement, Renewal & Ed'
+description: "Stay informed about registered nurse license endorsement, renewal, and continuing education in Maine. Keep your nursing license active and valid.\r"
 heading: "Maine"
 state: ME
 statename: Maine

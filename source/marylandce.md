@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Maryland: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Understand the process of registered nurse license endorsement, renewal, and continuing education in Maryland. Ensure the longevity of your nursing career.
+title: 'Maryland: RN License Renewal & Endorsement Education'
+description: "Understand the process of registered nurse license endorsement, renewal, and continuing education in Maryland. Ensure the longevity of your nursing career.\r"
 heading: "Maryland"
 state: MD
 statename: Maryland

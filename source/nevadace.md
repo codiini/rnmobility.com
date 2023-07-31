@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Nevada: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Learn about registered nurse license endorsement, renewal, and continuing education in Nevada. Stay current in your nursing profession and fulfill the necessary requirements.
+title: 'Nevada RN: Endorsement, renewal & CE for license'
+description: "Nevada RN license: Endorsement, renewal, & continuing ed. Stay current & meet nursing profession needs.\r"
 heading: "Nevada"
 state: NV
 statename: Nevada

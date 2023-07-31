@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Missouri: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Stay updated on registered nurse license endorsement, renewal, and continuing education in Missouri. Ensure the longevity of your nursing profession.
+title: 'Missouri RN: Endorsement, renewal & continuing education.'
+description: "Stay updated on registered nurse license endorsement, renewal, and continuing education in Missouri. Ensure the longevity of your nursing profession.\r"
 heading: "Missouri"
 state: MO
 statename: Missouri

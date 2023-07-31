@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  South Carolina: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Explore the basics of registered nurse license endorsement, renewal, and continuing education in South Carolina. Stay informed and meet the requirements for your nursing profession.
+title: 'South Carolina RN: Endorsement, renewal & CE for license'
+description: "South Carolina RN license: Endorsement, renewal, & continuing ed. Stay informed & meet profession requirements.\r"
 heading: "South Carolina"
 state: SC
 statename: South Carolina

@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Tennessee: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Understand the basics of registered nurse license endorsement, renewal, and continuing education in Tennessee. Stay compliant and advance your nursing career in the state.
+title: 'Tennessee RN: Renewal & CE for license endorsement'
+description: "Tennessee RN license: endorsement, renewal & continuing education basics. Comply & advance your nursing career in the state.\r"
 heading: "Tennessee"
 state: TN
 statename: Tennessee

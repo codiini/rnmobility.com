@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Montana: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Montana. Stay informed and meet the requirements for your nursing career.
+title: 'Montana RN: CE & endorsement for license renewal'
+description: "Montana RN license: Endorsement, renewal, & continuing ed. Stay informed and meet nursing career requirements.\r"
 heading: "Montana"
 state: MT
 statename: Montana

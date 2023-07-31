@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Pennsylvania: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Pennsylvania. Stay compliant and advance your nursing career in the state.
+title: 'Pennsylvania RN: CE & endorsement for license renewal'
+description: "Pennsylvania RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career.\r"
 heading: "Pennsylvania"
 state: PA
 statename: Pennsylvania

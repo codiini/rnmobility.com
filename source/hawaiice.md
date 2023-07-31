@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Hawai'i: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Hawai'i. Stay current in your nursing profession.
+title: '''Hawai''''i: RN License Renewal & Continuing Ed'''
+description: "'Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Hawai''i. Stay current in your nursing profession.'\r"
 heading: "Hawai'i"
 state: HI
 statename: Hawai'i

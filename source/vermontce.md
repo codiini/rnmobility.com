@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Vermont: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Vermont. Stay updated and meet the necessary requirements for your nursing profession.
+title: 'Vermont RN: Renewal & CE for license endorsement'
+description: "Vermont RN license: endorsement, renewal & continuing education guide. Stay updated & meet nursing requirements.\r"
 heading: "Vermont"
 state: VT
 statename: Vermont

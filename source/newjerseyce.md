@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  New Jersey: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in New Jersey. Stay compliant and enhance your nursing knowledge and skills.
+title: 'New Jersey RN: CE & endorsement for license renewal'
+description: "New Jersey RN license: Endorsement, renewal, & continuing ed. Stay compliant & enhance nursing skills.\r"
 heading: "New Jersey"
 state: NJ
 statename: New Jersey

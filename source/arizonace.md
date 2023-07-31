@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Arizona: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arizona. Stay up-to-date with your nursing credentials.
+title: 'Arizona: RN License Renewal & Endorsement Education'
+description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arizona. Stay up-to-date with your nursing credentials.\r"
 heading: 'Arizona'
 state: AZ
 statename: Arizona

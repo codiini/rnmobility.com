@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Nebraska: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Discover the essentials of registered nurse license endorsement, renewal, and continuing education in Nebraska. Keep your nursing license up to date and maintain your professional status.
+title: 'Nebraska RN: Renewal & CE for license endorsement'
+description: "Nebraska RN license: Endorsement, renewal, & continuing ed. Keep license updated & maintain professional status.\r"
 heading: "Nebraska"
 state: NE
 statename: Nebraska

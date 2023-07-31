@@ -18,7 +18,7 @@ Gemfile.lock
 # For GitHub Pages
 # because the production environment does not honor lockfile versions
 /Gemfile.lock
-
+/vendor
 # For Jekyll
 .jekyll-metadata
 .jekyll-cache

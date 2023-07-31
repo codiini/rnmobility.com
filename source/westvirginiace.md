@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  West Virginia: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in West Virginia. Stay compliant and advance your nursing career in the state.
+title: 'West Virginia RN: Endorsement, renewal & CE for license'
+description: "West Virginia RN license: endorsement, renewal & continuing education info. Comply & advance your nursing career.\r"
 heading: "West Virgina"
 state: WV
 statename: West Virgina

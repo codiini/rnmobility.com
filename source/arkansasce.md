@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Arkansas: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arkansas. Maintain your nursing license with ease.
+title: 'Arkansas: RN License Renewal & Continuing Ed'
+description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Arkansas. Maintain your nursing license with ease.\r"
 heading: 'Arkansas'
 state: AR
 statename: Arkansas

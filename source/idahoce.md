@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Idaho: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Idaho. Keep your nursing career on track.
+title: 'Idaho: RN License Endorsement, Renewal & Ed'
+description: "Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Idaho. Keep your nursing career on track.\r"
 heading: "Idaho"
 state: ID
 statename: Idaho

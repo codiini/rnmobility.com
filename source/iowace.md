@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Iowa: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Explore the details of registered nurse license endorsement, renewal, and continuing education in Iowa. Enhance your nursing knowledge and skills.
+title: 'Iowa: RN License Renewal & Continuing Ed'
+description: "Explore the details of registered nurse license endorsement, renewal, and continuing education in Iowa. Enhance your nursing knowledge and skills.\r"
 heading: "Iowa"
 state: IA
 statename: Iowa

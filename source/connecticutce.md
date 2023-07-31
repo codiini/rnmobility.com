@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Connecticut: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Understand the process of registered nurse license endorsement, renewal, and continuing education in Connecticut. Ensure the longevity of your nursing career.
+title: 'Connecticut: RN License Renewal & Endorsement Education'
+description: "Understand the process of registered nurse license endorsement, renewal, and continuing education in Connecticut. Ensure the longevity of your nursing career.\r"
 heading: 'Connecticut'
 state: CT
 statename: Connecticut

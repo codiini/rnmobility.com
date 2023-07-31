@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Rhode Island: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Rhode Island. Keep your nursing license current and meet the necessary criteria.
+title: 'Rhode Island RN: Renewal & CE for license endorsement'
+description: "Rhode Island RN license: Endorsement, renewal, & continuing ed. Keep license current & meet criteria.\r"
 heading: "Rhode Island"
 state: RI
 statename: Rhode Island

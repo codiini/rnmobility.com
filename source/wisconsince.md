@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Wisconsin: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Gain an understanding of registered nurse license endorsement, renewal, and continuing education in Wisconsin. Stay informed and meet the requirements for your nursing profession in the state.
+title: 'Wisconsin RN: CE & endorsement for license renewal'
+description: "Wisconsin RN license: endorsement, renewal & continuing education essentials. Stay informed & meet nursing requirements.\r"
 heading: "Wisconsin"
 state: WI
 statename: Wisconsin

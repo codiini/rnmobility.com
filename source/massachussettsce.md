@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Massachusetts: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Explore the details of registered nurse license endorsement, renewal, and continuing education in Massachusetts. Enhance your nursing knowledge and skills.
+title: 'Massachusetts: RN License Renewal & Continuing Ed'
+description: "Explore the details of registered nurse license endorsement, renewal, and continuing education in Massachusetts. Enhance your nursing knowledge and skills.\r"
 heading: "Massachusetts"
 state: MA
 statename: Massachusetts

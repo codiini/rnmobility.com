@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  New York: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in New York. Stay updated and maintain your nursing license with ease.
+title: 'New York RN: Renewal & CE for license endorsement'
+description: "New York RN license: Endorsement, renewal, & continuing ed. Stay updated & maintain nursing license.\r"
 heading: "New York"
 state: NY
 statename: New York

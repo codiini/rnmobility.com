@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  North Carolina: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Learn the essentials of registered nurse license endorsement, renewal, and continuing education in North Carolina. Stay compliant and advance your nursing career.
+title: 'North Carolina RN: Endorsement, renewal & CE for license'
+description: "North Carolina RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career.\r"
 heading: "North Carolina"
 state: NC
 statename: North Carolina

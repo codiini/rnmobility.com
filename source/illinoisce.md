@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Illinois: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Stay updated on registered nurse license endorsement, renewal, and continuing education in Illinois. Ensure the longevity of your nursing profession.
+title: 'Illinois: RN License Renewal & Endorsement Education'
+description: "Stay updated on registered nurse license endorsement, renewal, and continuing education in Illinois. Ensure the longevity of your nursing profession.\r"
 heading: "Illinois"
 state: IL
 statename: Illinois

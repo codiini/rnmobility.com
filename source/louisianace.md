@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Louisiana: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Louisiana. Stay current in your nursing profession.
+title: 'Louisiana: RN License Renewal & Continuing Ed'
+description: "Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Louisiana. Stay current in your nursing profession.\r"
 heading: "Louisiana"
 state: LA
 statename: Louisiana

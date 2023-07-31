@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Georgia: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Get the facts about registered nurse license endorsement, renewal, and continuing education in Georgia. Maintain your nursing credentials with ease.
+title: 'Georgia: RN License Renewal & Endorsement Education'
+description: "Get the facts about registered nurse license endorsement, renewal, and continuing education in Georgia. Maintain your nursing credentials with ease.\r"
 heading: 'Georgia'
 state: GA
 statename: Georgia

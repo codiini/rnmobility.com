@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Michigan: Endorsement, renewal, and continuing education for registered nurse license
-description: >-
-  Get the facts about registered nurse license endorsement, renewal, and continuing education in Michigan. Maintain your nursing credentials with ease.
+title: 'Michigan: RN License Endorsement, Renewal & Ed'
+description: "Get the facts about registered nurse license endorsement, renewal, and continuing education in Michigan. Maintain your nursing credentials with ease.\r"
 heading: "Michigan"
 state: MI
 statename: Michigan

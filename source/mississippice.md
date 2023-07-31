@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Mississippi: Renewal and continuing education for registered nurse license endorsement
-description: >-
-  Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Mississippi. Keep your nursing career on track.
+title: 'Mississippi: RN License Renewal & Continuing Ed'
+description: "Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Mississippi. Keep your nursing career on track.\r"
 heading: "Mississippi"
 state: MS
 statename: Mississippi

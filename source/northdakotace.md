@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  North Dakota: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Get the facts about registered nurse license endorsement, renewal, and continuing education in North Dakota. Keep your nursing credentials valid and up to date.
+title: 'North Dakota RN: CE & endorsement for license renewal'
+description: "North Dakota RN license: Endorsement, renewal, & continuing ed. Keep credentials valid & up to date.\r"
 heading: "North Dakota"
 state: ND
 statename: North Dakota

@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Utah: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Discover the essentials of registered nurse license endorsement, renewal, and continuing education in Utah. Stay compliant and advance your nursing career in the state.
+title: 'Utah RN: CE & endorsement for license renewal'
+description: "Utah RN license: endorsement, renewal & continuing education essentials. Comply & advance your nursing career in the state.\r"
 heading: "Utah"
 state: UT
 statename: Utah

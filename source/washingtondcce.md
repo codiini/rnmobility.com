@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-  Washington DC: Continuing education and endorsement for registered nurse license renewal
-description: >-
-  Learn the fundamentals of registered nurse license endorsement, renewal, and continuing education in Washington DC. Stay informed and meet the requirements for your nursing career in the District of Columbia.
+title: 'Washington DC RN: CE & endorsement for license renewal'
+description: "Washington DC RN license: endorsement, renewal & continuing education details. Stay informed & meet requirements.\r"
 heading: "Washington DC"
 state: DC
 statename: Washington DC
