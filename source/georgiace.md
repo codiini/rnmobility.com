@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Georgia: RN License Renewal & Endorsement Education'
-description: "Get the facts about registered nurse license endorsement, renewal, and continuing education in Georgia. Maintain your nursing credentials with ease.\r"
+title: 'RN license in Georgia, endorsements and ACLS certification you need'
+description: "RNs must complete continuing education and competency requirements. Be sure to complete the continuing education requirements before 31 January if your license expires in that month."
 heading: 'Georgia'
 state: GA
 statename: Georgia
