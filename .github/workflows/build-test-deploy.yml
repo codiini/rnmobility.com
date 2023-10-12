@@ -20,8 +20,43 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-test:
-    name: Test
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Ruby # See https://www.ruby-lang.org/en/downloads/branches/
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2 # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+          cache: "yarn"
+      - name: Install node packages
+        run: yarn install --immutable
+      - name: Build site
+        run: bundle exec jekyll build
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: build/          
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+  test:
+    name: Build-Test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -59,14 +94,3 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: build/          
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build-test
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
