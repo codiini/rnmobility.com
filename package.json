@@ -1,7 +1,7 @@
 {
   "license": "UNLICENSED",
   "devDependencies": {
-    "better-sqlite3": "^8.3.0",
+    "better-sqlite3": "^9.1.1",
     "glob": "^7.1.7",
     "html-validate": "^7.12.0"
   },
