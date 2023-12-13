@@ -82,7 +82,7 @@ jobs:
           key: ${{ runner.os }}-external-links
       - name: Test suite
         run: |
-          yarn run test-build-html-validate
+          yarn run test
       - name: Save cache for external links
         uses: actions/cache/save@v3
         if: always()
