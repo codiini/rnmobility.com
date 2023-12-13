@@ -9,6 +9,8 @@ const htmlValidate = new HtmlValidate({
   rules: {
     "mailto-awesome": "error",
     "external-links": "error",
+    "internal-links": "error",
+    "https-links": "error",
     "no-jquery": "error",
     "canonical-link": "error",
     "latest-packages": "error",    
@@ -38,13 +40,43 @@ const specifications = [
       {
         "ruleId": "external-links",
         "severity": 2,
-        "message": "external link is broken: http://freehorses.example.com/free-horses-on-1998-04-01-only.html",
+        "message": "external link is broken: https://freehorses.example.com/free-horses-on-1998-04-01-only.html",
         "offset": 196,
         "line": 9,
         "column": 6,
         "size": 1,
         "selector": "html > body > a",
         "ruleUrl": "https://github.com/fulldecent/github-pages-template/#external-links"
+      }
+    ],
+  }, {
+    filePath: "test/fixtures/internal-link-broken.html",
+    messages: [
+      {
+        "ruleId": "internal-links",
+        "severity": 2,
+        "message": "Internal link /free-horses-on-1998-04-01-only.html is broken in file test/fixtures/internal-link-broken.html at line 9, column 6",
+        "offset": 196,
+        "line": 9,
+        "column": 6,
+        "size": 1,
+        "selector": "html > body > a",
+        "ruleUrl": "https://github.com/fulldecent/github-pages-template/#internal-links"
+      }
+    ],
+  }, {
+    filePath: "test/fixtures/ensure-https.html",
+    messages: [
+      {
+        "ruleId": "https-links",
+        "severity": 2,
+        "message": "external link is insecure and accessible via HTTPS: http://en.wikipedia.org/wiki/Horse",
+        "offset": 196,
+        "line": 9,
+        "column": 6,
+        "size": 1,
+        "selector": "html > body > a",
+        "ruleUrl": "https://github.com/fulldecent/github-pages-template/#https-links"
       }
     ],
   }, { 
