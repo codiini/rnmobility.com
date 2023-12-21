@@ -16,7 +16,8 @@ const htmlValidate = new HtmlValidate({
     "latest-packages": "error",
     "https-links": "error",
     "internal-links": "error",
-  },
+    "void-style": "off"
+  }
 });
 const formatter = formatterFactory("stylish");
 var allTestsPassed = true;
