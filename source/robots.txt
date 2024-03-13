@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /login
+Disallow: /login/
+
+Sitemap: https://rnmobility.com/sitemap.xml
