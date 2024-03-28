@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Washington State RN: Renewal & CE for license endorsement'
-description: "Washington State RN license: endorsement, renewal & continuing education explained. Stay updated & fulfill nursing license requirements.\r"
+title: 'Washington State RN: Renewal & CE for License Endorsement'
+description: "Washington State RN license: endorsement, renewal & continuing education explained. Stay updated & fulfill nursing license requirements."
 heading: "Washington State"
 state: WA
 statename: Washington State
@@ -9,38 +9,32 @@ published: true
 motto: 'Welcome to the Evergreen state!'
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's citizens. However, the requirements for some health care professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some health care professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
 #### Endorsements
 
-Generally, the following items are required for endorsement:
+To apply for a license via endorsement in Washington, you need:
 
-*   A registered nurse license - you may retrieve verification from [www.nursys.com](https://www.nursys.com/)
-    
-*   Proof of your completion of a nursing program - either a transcript or verification from [www.nursys.com](https://www.nursys.com/)
-    
-*   Provide proof of your TOEFL or IELTS scores if your program was not in the US, UK, Canada, Australia, Ireland, New Zealand, or a commonwealth area in the Carribean.
-    
-*   Verification of passing NCLEX scores
-    
-*   Your license must be active and current
-    
-*   You must have a valid social security number. Applicants without a valid number should click [here](https://www.doh.wa.gov/Portals/1/Documents/6000/669316.pdf) to discover their options.
-    
+* Verification of your RN license from [Nursys.com](https://www.nursys.com/).
+* Proof of completion of a nursing program (transcript or verification).
+* TOEFL or IELTS scores if your program was outside the US, UK, Canada, Australia, Ireland, New Zealand, or some Caribbean Commonwealth territories.
+* Verification of passing NCLEX scores.
+* An active and current license.
+* A valid social security number. Those without can find guidance [here](https://www.doh.wa.gov/Portals/1/Documents/6000/669316.pdf).
 
-For questions regarding endorsement, call the main number located at the bottom of the page. You will be presented with options. You will most likely choose option two first, which sounds like "For nursing commission unit for RN, LPN, advance registered nurse practitioners, or nursing technicians, press two" and then choose option three for applications.
-
-Click [here](https://www.doh.wa.gov/Portals/1/Documents/Pubs/669240.pdf) to see the endorsement application.
+See the endorsement application [here](https://www.doh.wa.gov/Portals/1/Documents/Pubs/669240.pdf).
 
 #### Continuing Competency
 
-Washington state's Nursing Commission requires nurses seeking endorsement to take a seven our AIDS course. Information on courses can be found by clicking [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/FrequentlyAskedQuestions/ContinuingCompetency).
+For endorsement, a seven-hour AIDS course is required. No minimum practice hours are necessary unless you trained at Excelsior or outside the US. For those trained outside the US, the Nursing Commission may require a minimum of 1,000 practice hours.
 
-There are no minimum required practice hours for nurses seeking endorsement unless they attended Excelsior for their training or trained outside the US. If you trained outside the US, the Nursing commission may require you to have a minimum of 1,000 hours practicing as a nurse.
+After endorsement, you'll need to meet continuing competency requirements, including:
+- 8 continuing education hours annually for RNs and LPNs, with 2 of these being health equity CE.
+- A one-time, 6-hour training in suicide assessment, treatment, and management.
+- ARNPs need 30 continuing education hours and an additional 15 hours related to pharmacology if they have prescriptive authority.
+- All nurses must complete e-Notify registration and survey online at Nursys®.
 
-After your endorsement, you will be required to take continuing competency training.
-
-Please click [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/ContinuingCompetency) for more information on the continuing competency requirements.
+More on continuing competency [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/ContinuingCompetency).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/washington-acls-pals-bls.htm)
 
@@ -51,12 +45,12 @@ Mail correspondence with any fees to:
 P.O. Box 1099
 Olympia, WA 98507-1099
 
-If you are not mailing any fees, send mail to:
+If not mailing fees, send mail to:
 
 P.O. Box 47864
 Olympia, WA 98504-7864
 
-Hours at the Nursing Commissions counter are from 8 a.m. to 4:30 P.M. The physical address to the Nursing Commission is:
+For visiting in person or other inquiries:
 
 111 Israel Rd. S.E.
 Tumwater, WA
@@ -64,16 +58,12 @@ Tumwater, WA
 
 Email, phone, fax:
 
-nursing@doh.wa.gov
-
-Phone: 360-236-4700
-
-Fax: 320-236-4738
+- Email: nursing@doh.wa.gov
+- Phone: 360-236-4700
+- Fax: 360-236-4738
 
 * * *
 
 ### FAQ
 
-A link to the Washington State State Nursing Board's frequently asked questions can be found [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/FrequentlyAskedQuestions/ContinuingCompetency)
-
-* * *
+For frequently asked questions, visit the [Washington State Nursing Board's FAQ page](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/FrequentlyAskedQuestions/ContinuingCompetency).
