@@ -20,7 +20,7 @@ Texas is a compact state. If you are moving to Texas or claiming it as your prim
     
 *   Passing NCLEX or SBTPE scores
     
-*   Complete [online](https://txapps.texas.gov/app/orig/index.jsp?AGENCY_NAME=bne&CONFIG_ID=BNE_END&LICENSE_ID=01) or [paper](https://www.bon.texas.gov/licensure_endorsement.asp#paper) application with fee of $186
+*   Complete [online](https://www.bon.texas.gov/texasnurseportal/) or [paper](https://www.bon.texas.gov/licensure_endorsement.asp.html) application with fee of $186
     
 *   Criminal background checks
     
@@ -29,7 +29,7 @@ Texas is a compact state. If you are moving to Texas or claiming it as your prim
     *   You may verify via www.nursys.com if your original state of licensure participates in the site
         
 
-You may renew your license [online](https://txapps.texas.gov/NASApp/bnexam/BNExamManager) or by using the [paper application](https://www.bon.texas.gov/pdfs/licensure_pdfs/license_renewal_pdfs/RenewRN2013.pdf) for $60. Renewals take place every two years.
+You may renew your license [online](https://www.bon.texas.gov/texasnurseportal/) or by using the [paper application](https://www.bon.texas.gov/texasnurseportal/index.html) for $60. Renewals take place every two years.
 
 You must complete 20 hours of continuing education to renew your license. Click [here](https://www.bon.texas.gov/education_continuing_education.asp) for more information on continuing education.
 
@@ -50,7 +50,7 @@ Fax number: 512.305.7401
 
 ### FAQ
 
-Click [here](https://www.bon.texas.gov/faq_licensure.asp) for endorsement FAQs.
+Click [here](https://www.bon.texas.gov/faq_education_continuing_ed_and_competency.asp.html) for endorsement FAQs.
 
 Click [here](https://www.bon.texas.gov/education_continuing_education.asp) for continuing competency FAQs.
 
