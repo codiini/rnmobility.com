@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
-  {% include head.html %}
+  {%- include head.html -%}
 
   <body>
     <div class="container">
 
-    {% include header.html %}
+    {%- include header.html -%}
 
     <!-- Page content -->
     <p class="lead">
         {{ page.motto }}  
     </p>
     <hr>
-    {% if page.compact %}
-      {% include compact-state.html %}
-    {% endif %}
+    {%- if page.compact -%}
+      {%- include compact-state.html -%}
+    {%- endif -%}
     {{ content }}
-    {% include public-feedback.html %}
-    {% include footer.html %}
+    {%- include public-feedback.html -%}
+    {%- include footer.html -%}
 </div>
   </body>
 

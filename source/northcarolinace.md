@@ -90,9 +90,9 @@ to renew your license:
 -   Two semester hours of nursing-related academic coursework
 
 To view other options, click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-continuing-competence-requirements)to
+[here](https://www.ncbon.com/licensure-listing-continuing-competence)to
 go to the [Continuing Competency Requirements
-page](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-continuing-competence-requirements).
+page](https://www.ncbon.com/licensure-listing-continuing-competence).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/north-carolina-acls-pals-bls.htm)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Wyoming RN: Renewal & CE for license endorsement'
-description: "Wyoming RN license: endorsement, renewal & continuing education basics. Comply & advance your nursing career in the state.\r"
+title: 'Wyoming RN: Renewal &amp; CE for license endorsement'
+description: "Wyoming RN license: endorsement, renewal &amp; continuing education basics. Comply &amp; advance your nursing career in the state.\r"
 heading: "Wisconsin"
 state: WI
 statename: Wisconsin
