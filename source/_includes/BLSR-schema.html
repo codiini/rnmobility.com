@@ -10,8 +10,8 @@
     "educationalCredentialAwarded": "up to 8 AMA PRA Category 1 Credits, 8 CME/CE credits.",   
     "datePublished": "2021-06-01T09:00:00Z",
     "dateCreated": "2021-06-01T09:00:00Z",
-    "dateModified": "2023-07-01T09:00:00Z",
-    "expires": "2024-06-01T09:00:00Z",
+    "dateModified": "{{ 'now' | date: '%Y-%m' }}-01T09:00:00Z",
+    "expires": "2030-06-01T09:00:00Z",
     "discussionUrl" : "https://medtalk.pacificmedicaltraining.com/", 
     "headline": "Learn about Basic life support (BLS)",
     "teaches" : "Basic life support (BLS) & first aid (Cardiopulmonary resuscitation (CPR), automated external defibrillator (AED), and first aid)",
@@ -70,14 +70,19 @@
    },
     "hasCourseInstance": [
       {
+        "courseSchedule": {
+          "@type": "Schedule",
+          "duration": "PT1H-PT3H",
+          "repeatFrequency": "Daily",
+          "repeatCount": 1,
+          "startDate": "2021-06-01T09:00:00Z",
+          "endDate": "2030-06-01T09:00:00Z"
+        },
         "@type": "CourseInstance",
         "name": "BLS Recertification",
         "description": "Complete your BLS certification or recertification online and self-paced in 2–5 hours. Our class is accepted in every US state and Canadian province, as well as over 60 countries in the Eurozone, Asia and Africa. Our ACLS course is certified for up to 8 AMA PRA Category 1 Credits&trade;. This course also offers ACPE, ANCC and ADA credits.",
-        "courseMode": [
-          "MOOC",
-          "Online"
-        ],
-        "startDate": "{{ "now" | date: "%Y-%m" }}",
+        "courseMode": "Online",
+        "startDate": "2021-06-01T09:00:00Z",
         "location": {
       "@type": "Place",
       "name": "ACLS Training Center",
@@ -90,7 +95,7 @@
     },
         "offers": {
           "@type": "Offer",
-          "validFrom": "{{ "now" | date: "%Y-%m" }}",
+          "validFrom": "2021-06-01T09:00:00Z",
           "price": "65",
           "url": "https://rnmobility.com/",
           "availability": "https://schema.org/InStock",
@@ -118,6 +123,15 @@
       "name": "Basic life support",
       "publisher": "wikipedia",
       "url": "http:\/\/www.wikidata.org\/entity\/Q16250470"
+    },
+    "offers": {
+      "@type": "Offer",
+      "validFrom": "2021-06-01T09:00:00Z",
+      "category": "BLS recertification",
+      "price": "65",
+      "url": "https://rnmobility.com/",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "USD"
     }
   }
 </script>
