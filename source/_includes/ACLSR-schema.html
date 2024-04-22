@@ -10,8 +10,8 @@
     "educationalCredentialAwarded": "up to 8 AMA PRA Category 1 Credits, 8 CME/CE credits.",   
     "datePublished": "2021-06-01T09:00:00Z",
     "dateCreated": "2021-06-01T09:00:00Z",
-    "dateModified": "2023-07-01T09:00:00Z",
-    "expires": "2024-06-01T09:00:00Z",
+    "dateModified": "{{ 'now' | date: '%Y-%m' }}-01T09:00:00Z",
+    "expires": "2030-06-01T09:00:00Z",
     "discussionUrl" : "https://medtalk.pacificmedicaltraining.com/", 
     "headline": "Learn about ventricular fibrillation and more rhythms (advanced class) and responses.",
     "teaches" : "Advanced cardiac life support, ventricular fibrillation and more rhythms and responses.",
@@ -90,14 +90,19 @@
   },
     "hasCourseInstance": [
       {
+        "courseSchedule": {
+          "@type": "Schedule",
+          "duration": "PT2H-PT5H",
+          "repeatFrequency": "Daily",
+          "repeatCount": 1,
+          "startDate": "2021-06-01T09:00:00Z",
+          "endDate": "2030-06-01T09:00:00Z"
+        },
         "@type": "CourseInstance",
         "name": "ACLS Recertification",
         "description": "Complete your ACLS certification or recertification online and self-paced in 2–5 hours. Our class is accepted in every US state and Canadian province, as well as over 60 countries in the Eurozone, Asia and Africa. Our ACLS course is certified for up to 8 AMA PRA Category 1 Credits&trade;. This course also offers ACPE, ANCC and ADA credits.",
-        "courseMode": [
-          "MOOC",
-          "Online"
-        ],
-        "startDate": "{{ "now" | date: "%Y-%m" }}",
+        "courseMode": "Online",
+        "startDate": "2021-06-01T09:00:00Z",
         "location": {
       "@type": "Place",
       "name": "ACLS Training Center",
@@ -110,7 +115,7 @@
     },
         "offers": {
           "@type": "Offer",
-          "validFrom": "{{ "now" | date: "%Y-%m" }}",
+          "validFrom": "2021-06-01T09:00:00Z",
           "price": "175",
           "url": "https://rnmobility.com/",
           "availability": "https://schema.org/InStock",
@@ -128,6 +133,15 @@
       "name": "Advanced cardiac life support",
       "publisher": "wikipedia",
       "url": "http:\/\/www.wikidata.org\/entity\/Q379607"
+    },
+    "offers": {
+      "@type": "Offer",
+      "validFrom": "2021-06-01T09:00:00Z",
+      "category": "ACLS recertification",
+      "price": "175",
+      "url": "https://rnmobility.com/",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "USD"
     }
   }
 </script>
