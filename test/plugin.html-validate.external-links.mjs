@@ -17,7 +17,7 @@ const TIMEOUT_SECONDS = 5;
  * @param {number} parallelism - The maximum number of tasks that can be processed concurrently. Must be greater than zero.
  * @returns {Promise} A promise that resolves when all tasks have completed.
  */
-async function runPromiseFunctionsWithParallelism(promiseFunctions, parallelism) {
+ async function runPromiseFunctionsWithParallelism(promiseFunctions, parallelism) {
   const promisesInProgress = new Set();
   for (const promiseFunction of promiseFunctions) {
     if (promisesInProgress.size >= parallelism) {
@@ -32,6 +32,23 @@ async function runPromiseFunctionsWithParallelism(promiseFunctions, parallelism)
 }
 
 export default class ExternalLinksRule extends Rule {
+  constructor(options) {
+    super(options);
+    this.skipUrlsRegex = this.loadSkipUrls();
+  }
+
+  loadSkipUrls() {
+    try {
+      const skipUrlsFile = fs.readFileSync("./test/skip-urls.regex.txt", "utf-8");
+      const skipUrls = skipUrlsFile.split("\n").filter(url => url.trim() !== "");
+      // Convert each skip URL pattern to a regex object
+      return skipUrls.map(pattern => new RegExp(pattern));
+    } catch (error) {
+      console.error("Error loading skip URLs:", error);
+      return [];
+    }
+  }
+
   documentation() {
     return {
       description: "Require all external links to be live.",
@@ -57,7 +74,12 @@ export default class ExternalLinksRule extends Rule {
 
   check(url, element) {
     if (!url || !url.startsWith("http")) {
-      return
+      return;
+    }
+
+    // Check if the URL matches any of the skip URL regex patterns
+    if (this.skipUrlsRegex.some(regex => regex.test(url))) {
+      return;
     }
 
     const row = this.db.prepare("SELECT found, time FROM urls WHERE url = ?").get(url);
@@ -74,9 +96,9 @@ export default class ExternalLinksRule extends Rule {
 
     try {
       const result = execSync(`curl --head --silent --fail --max-time ${TIMEOUT_SECONDS} --location \
-        --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9999.999 Safari/537.36" \
-        --header "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" \
-        "${url}"`);
+      --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9999.999 Safari/537.36" \
+      --header "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" \
+      "${url}"`);
       // Success: link is good
       this.db.prepare("REPLACE INTO urls (url, found, time) VALUES (?, 1, unixepoch())").run(url);
     } catch (error) {
