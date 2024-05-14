@@ -3,7 +3,7 @@
         <h2>Online ACLS Recertification in 2-5 hours</h2>
 
         <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="form-inline courses-btns-form">
-          <input name="source_website" type="hidden" value="{%- if page.canonical-link -%}{{site.url}}{{page.canonical-link}}{%- else -%}{{site.url}}{{page.url}}{%- endif -%}" />
+          <input name="source_website" type="hidden" value="{%- if page.experiment -%}{{site.url}}{{page.url | escape}}{%- elsif page.canonical-link -%}{{site.url}}{{page.canonical-link | escape}}{%- else -%}{{site.url}}{{page.url | escape}}{%- endif -%}" />
           <p>
             <button type="button" class="btn btn-primary mb-1 course" id="prechecked" style="font-size:25px; background:red; border-color:darkred" data-course="2">
               <i class="bi bi-check2-square"></i>
