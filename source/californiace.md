@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'California: RN License Endorsement, Renewal & Education'
-description: "Discover the requirements for registered nurse license endorsement, renewal, and continuing education in California. Stay current in your nursing profession.\r"
+title: 'California RN: License endorsement, renewal & education'
+description: "Discover the requirements for RN license endorsement, renewal, and continuing education in California. Stay current."
 heading: 'California'
 state: CA
 statename: California

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Alaska: RN License Transfer, Renewal & Continuing Ed'
-description: "Learn license transfer, renewal, and continuing education for registered nurses in Alaska. Get info to advance your nursing practice.\r"
+title: 'Alaska: RN license transfer, renewal & continuing education'
+description: "Learn about RN license transfer, renewal, and continuing education in Alaska. Get info to advance your nursing practice."
 heading: 'Alaska'
 state: AK
 statename: Alaska

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'South Carolina RN: Endorsement, renewal & CE for license'
-description: "South Carolina RN license: Endorsement, renewal, & continuing ed. Stay informed & meet profession requirements.\r"
+title: 'South Carolina RN: Endorsement, renewal & CE'
+description: "South Carolina RN license: Endorsement, renewal, & continuing education details. Stay informed & meet requirements."
 heading: "South Carolina"
 state: SC
 statename: South Carolina

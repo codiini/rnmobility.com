@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Montana RN: CE & endorsement for license renewal'
-description: "Montana RN license: Endorsement, renewal, & continuing ed. Stay informed and meet nursing career requirements.\r"
+description: "Montana RN license: Endorsement, renewal, & continuing education. Stay informed and meet career requirements."
 heading: "Montana"
 state: MT
 statename: Montana

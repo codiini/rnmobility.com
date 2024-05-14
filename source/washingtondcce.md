@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Washington DC RN: CE & endorsement for license renewal'
-description: "Washington DC RN license: endorsement, renewal & continuing education details. Stay informed & meet requirements.\r"
+description: "Washington DC RN license: Endorsement, renewal & continuing education details. Stay informed & meet requirements."
 heading: "Washington DC"
 state: DC
 statename: Washington DC

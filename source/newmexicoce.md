@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Continuing education for nurses in New Mexico"
-description: "Stay updated on the process of registered nurse license endorsement, renewal, and continuing education in New Mexico. Explore the opportunities.\r"
+description: "Stay updated on the RN license endorsement, renewal, and continuing education in New Mexico. Explore opportunities."
 heading: "New Mexico"
 state: NM
 statename: New Mexico

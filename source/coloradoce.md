@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Continuing education for nurses in Colorado'
-description: "Gain knowledge about the process of registered nurse license endorsement, renewal, and continuing education in Colorado. Stay updated.\r"
+description: "Learn about the process of RN license endorsement, renewal, and continuing education in Colorado."
 heading: 'Colorado'
 state: CO
 statename: Colorado

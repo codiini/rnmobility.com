@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Ohio RN: Renewal & CE for license endorsement'
-description: "Ohio RN license: Endorsement, renewal, & continuing ed. Stay informed & meet criteria for your profession.\r"
+description: "Ohio RN license: Endorsement, renewal, & continuing education. Stay informed & meet criteria for your profession."
 heading: "Ohio"
 state: OH
 statename: Ohio
