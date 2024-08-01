@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": false,
+    "prettier.tabWidth": 2,
+    "prettier.useEditorConfig": false,
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#04342C",
+      "titleBar.activeBackground": "#05493E",
+      "titleBar.activeForeground": "#ECFEFB"
+    },
+    "[javascript][json][css][html][htm][md][markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.prettier": "explicit"
+    },
+    "editor.codeActionsOnPaste": {
+      "source.fixAll.prettier": true
+    }
+  }
