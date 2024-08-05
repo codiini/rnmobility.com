@@ -39,15 +39,15 @@ jobs:
         run: yarn install --immutable
       - name: Build site
         run: bundle exec jekyll build
-      - name: Install xml2js
-        run: npm install xml2js
+      - name: Install dependencies
+        run: npm install xml2js front-matter
       - name: Generate sitemap
         run: node generate-sitemap.js
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
         with:
-          path: build/          
+          path: build/
   # Deployment job
   deploy:
     environment:
@@ -97,4 +97,4 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
         with:
-          path: build/          
+          path: build/
