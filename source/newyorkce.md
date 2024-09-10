@@ -68,7 +68,7 @@ Phone: 518-474-3817, ext. 280
 
 Fax: 518-474-3398
 
-Email: opunit4@nysed.gov
+Email: <opunit4@nysed.gov>
 
 Office hours are from 8:30 am to 4:45 pm, EST, Monday - Friday, except
 on holidays.
@@ -84,6 +84,6 @@ Phone: 518-474-3817, ext. 570
 
 Fax: 518-474-1449
 
-Email: op4info@nysed.gov
+Email: <op4info@nysed.gov>
 
 * * * * *

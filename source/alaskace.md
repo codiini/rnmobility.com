@@ -27,8 +27,8 @@ requirements for endorsement are listed below.
     passport type photo taken within six months of submitting your
     application
 -   Submit appropriate fees via check or money order
--   -   Application for Endorsement Total: \$275.00
-    -   Total if temporary is permit included: \$325.00
+  -   Application for Endorsement Total: \$275.00
+  -   Total if temporary is permit included: \$325.00
 -   Completed fingerprint card provided or approved by the Alaska Board
     of Nursing.
 -   Licence verification is required. It may be send from or made
@@ -150,7 +150,7 @@ Alaska Board of Nursing website address:
 Lisa Maroney
 Records & Licensing Supervisor
 
-lisa.maroney@alaska.gov
+<lisa.maroney@alaska.gov>
 
 Phone: (907) 268-8892
 

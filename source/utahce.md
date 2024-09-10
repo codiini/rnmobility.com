@@ -20,15 +20,15 @@ Utah is a compact state. If you are moving to Utah or claiming it as your primar
     
 *   verification of licensure
     
-    *   must include education and exam details
+  *   must include education and exam details
         
 *   Foreign graduates must include [CGFNS](https://www.cgfns.org) and [CES](https://www.cgfns.org/services/ces-academic-report/) reports as well as one of the following criteria has been met in the last five years:
     
-    *   960 hours of practice as an RN
+  *   960 hours of practice as an RN
         
-    *   Graduation from an approved nursing school
+  *   Graduation from an approved nursing school
         
-    *   Complete a nationally recognized refresher course
+  *   Complete a nationally recognized refresher course
         
 *   Foreign graduates may also demonstrate that they have practiced for 6,000 hours as a licensed RN
     

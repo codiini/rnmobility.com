@@ -51,7 +51,7 @@ A link to approved distance programs can be found [here](https://nursing-online.
 
 Email questions for licensing to:
 
-wsbn-info-licensing@wyo.gov
+<wsbn-info-licensing@wyo.gov>
 
 Address
 

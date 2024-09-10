@@ -41,11 +41,11 @@ General instructions are listed below.
 
 -   Proof of your home state of residence
 
-    -   Drivers license
+  -   Drivers license
 
-    -   tax return
+  -   tax return
 
-    -   Form W-2
+  -   Form W-2
 
 -   Copy or print out of your current license (expiration date must be
     visible)
@@ -101,7 +101,7 @@ Phone: 302.744.4500
 
 Fax: 302.739.2711
 
-Email: customerservice.dpr@state.de.us
+Email: <customerservice.dpr@state.de.us>
 
 * * * * *
 

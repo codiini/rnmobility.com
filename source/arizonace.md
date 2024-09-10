@@ -110,7 +110,7 @@ Phone number: 602-771-7800
 
 Fax number: 602-771-7888 Fax
 
-Email Address: arizona@azbn.gov
+Email Address: <arizona@azbn.gov>
 
 Office Hours: 8:00AM-5:00PM Mon-Fri
 

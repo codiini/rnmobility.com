@@ -29,10 +29,10 @@ See the endorsement application [here](https://www.doh.wa.gov/Portals/1/Document
 For endorsement, a seven-hour AIDS course is required. No minimum practice hours are necessary unless you trained at Excelsior or outside the US. For those trained outside the US, the Nursing Commission may require a minimum of 1,000 practice hours.
 
 After endorsement, you'll need to meet continuing competency requirements, including:
-- 8 continuing education hours annually for RNs and LPNs, with 2 of these being health equity CE.
-- A one-time, 6-hour training in suicide assessment, treatment, and management.
-- ARNPs need 30 continuing education hours and an additional 15 hours related to pharmacology if they have prescriptive authority.
-- All nurses must complete e-Notify registration and survey online at Nursys®.
+* 8 continuing education hours annually for RNs and LPNs, with 2 of these being health equity CE.
+* A one-time, 6-hour training in suicide assessment, treatment, and management.
+* ARNPs need 30 continuing education hours and an additional 15 hours related to pharmacology if they have prescriptive authority.
+* All nurses must complete e-Notify registration and survey online at Nursys®.
 
 More on continuing competency [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/ContinuingCompetency).
 
@@ -58,9 +58,9 @@ Tumwater, WA
 
 Email, phone, fax:
 
-- Email: nursing@doh.wa.gov
-- Phone: 360-236-4700
-- Fax: 360-236-4738
+* Email: <nursing@doh.wa.gov>
+* Phone: 360-236-4700
+* Fax: 360-236-4738
 
 * * *
 

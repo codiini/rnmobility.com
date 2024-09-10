@@ -77,4 +77,4 @@ Phone number: 860-509-7603 - Press Menu Option Two
 
 Fax number: (860) 707-1984
 
-Email: oplc.dph@ct.gov
+Email: <oplc.dph@ct.gov>

@@ -74,13 +74,13 @@ DCCA-PVL
 P.O. Box 3469
 Honolulu, HI 96801
 
-Professional and Vocational Licensing email: pvl@dcca.hawaii.gov
+Professional and Vocational Licensing email: <pvl@dcca.hawaii.gov>
 
 Phone number: 808.586.3000
 
 Fax number: 808.586.2689
 
-Email: nursing@dcca.hawaii.gov
+Email: <nursing@dcca.hawaii.gov>
 
 For more information, please visit the [Hawaii Nursing Licensing Home
 Page.](https://cca.hawaii.gov/pvl/boards/nursing/)

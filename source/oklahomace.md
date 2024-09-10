@@ -23,33 +23,33 @@ General requirements for endorsement in Oklahoma are listed below.
 
 -   Complete application with fees
 
-    -   \$85.00 application fee
+  -   \$85.00 application fee
 
-    -   \$10.00 for temporary license
+  -   \$10.00 for temporary license
 
-    -   Application fee is \$125 for foreign applicants. \$85 for
+  -   Application fee is \$125 for foreign applicants. \$85 for
         endorsement + \$40 Education Equivalence Evaluation.
 
-    -   [Online
+  -   [Online
         Application](https://pay.apps.ok.gov/nursing/licensing/app/index.php)
         and [Instructions](https://nursing.ok.gov/endorseused07.pdf)
 
 -   Proof of lawful presence in the US
 
-    -   Nurses educated outside the US should click
+  -   Nurses educated outside the US should click
         [here](https://www.ok.gov/nursing/endorforeign07.pdf)for
         instructions.
 
 -   Proof of graduation from an approved program located in the US or in
     a US territory. Curriculum must include:
 
-    -   Adult care
+  -   Adult care
 
-    -   Child care
+  -   Child care
 
-    -   Maternal and newborn nursing
+  -   Maternal and newborn nursing
 
-    -   Nursing for psychiatric and mental health
+  -   Nursing for psychiatric and mental health
 
 -   Generally, a passing NCLEX score is required; however, for further
     exam information, click
@@ -64,13 +64,13 @@ General requirements for endorsement in Oklahoma are listed below.
 
 -   Proof of continuing education and experience
 
-    -   [Board approved refresher course
+  -   [Board approved refresher course
         work](https://ok.gov/nursing/nrefresher.pdf)
 
-    -   Passing NCLEX or 105 credit hours of classroom and clinical
+  -   Passing NCLEX or 105 credit hours of classroom and clinical
         nursing coursework
 
-    -   520 hours of work experience as an RN over the last two years
+  -   520 hours of work experience as an RN over the last two years
 
 -   Criminal Background Check
 
@@ -97,9 +97,9 @@ qualification and renewal purposes:
 
 -   Board approved refresher course
 
-    -   Click here for board approved refresher courses
+  -   Click here for board approved refresher courses
 
-    -   For more details on the refresher course policy, click
+  -   For more details on the refresher course policy, click
         [here](https://www.ok.gov/nursing/refresher.pdf)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oklahoma-acls-pals-bls.htm)

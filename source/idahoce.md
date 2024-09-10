@@ -43,7 +43,7 @@ renewal, and continuing competency:
 -   Complete, notarized
     [application](https://ibn.idaho.gov/IBNPortal/IBN/UPDATED%20FORMS%202009/Licensure_by_Endorsement_RN.pdf)(\$110)
 
-    -   Temporary license fee costs an additional \$25
+  -   Temporary license fee costs an additional \$25
 
 -   2x2 photo (only include head and shoulders)
 
@@ -85,7 +85,7 @@ For general frequently asked questions, visit [the Board's FAQ
 Additional
 page.](https://ibn.idaho.gov/IBNPortal/BoardAdditional.aspx?Board=IBON&BureauLinkID=150)
 
-Email address: info@ibn.idaho.gov
+Email address: <info@ibn.idaho.gov>
 
 Hours of Operation: 8:00AM to 5:00PM, Monday through Friday
 

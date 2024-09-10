@@ -1,25 +1,22 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
-
   {%- include head.html -%}
 
   <body>
     <div class="container">
+      {%- include header.html -%}
 
-    {%- include header.html -%}
-
-    <!-- Page content -->
-    <p class="lead">
-        {{ page.motto }}  
-    </p>
-    <hr>
-    {%- if page.compact -%}
-      {%- include compact-state.html -%}
-    {%- endif -%}
-    {{ content }}
-    {%- include public-feedback.html -%}
-    {%- include footer.html -%}
-</div>
+      <!-- Page content -->
+      <p class="lead">
+        {{ page.motto }}
+      </p>
+      <hr>
+      {%- if page.compact -%}
+        {%- include compact-state.html -%}
+      {%- endif -%}
+      {{ content }}
+      {%- include public-feedback.html -%}
+      {%- include footer.html -%}
+    </div>
   </body>
-
 </html>

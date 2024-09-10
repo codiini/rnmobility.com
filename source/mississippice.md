@@ -36,12 +36,12 @@ Licensure form to the licensing agency in your state.
 
 -   Verification of original licensure form
 
-    -   You may also use [www.nursys.com](https://www.nursys.com/) if
+  -   You may also use [www.nursys.com](https://www.nursys.com/) if
         your original state participates
 
 -   Official transcripts
 
-    -   foreign transcripts must be evaluated by
+  -   foreign transcripts must be evaluated by
         [CGFNS](https://www.cgfns.org/)
 
 -   Fingerprints and criminal background check (\$75)

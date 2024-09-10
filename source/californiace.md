@@ -32,7 +32,7 @@ endorsement:
 -   License verification
 
 License verification can be obtained through the Nursys Verification
-system. - link: https://www.nursys.com/NLV/NLVTerms.aspx
+system. - link: <https://www.nursys.com/NLV/NLVTerms.aspx>
 
 For foreign educated nurses see [California RN Licensure Qualifications
 for Graduates of International Nursing
@@ -59,7 +59,7 @@ choose to mail in your endorsement application
 
 Further details can be found
 [here](https://www.rn.ca.gov/licensees/lic-renewal.shtml) or you may
-email Renewals.BRN@dca.ca.gov for questions regarding licensure
+email <Renewals.BRN@dca.ca.gov> for questions regarding licensure
 
 Cost of application is \$100 with Live Scan fingerprinting method and
 applicable Live Scan site processing fees. For information about the
@@ -121,10 +121,10 @@ The main line for phone inquiries is:
 
 TTY for the Hearing Impaired: (800) 326-2297
 
-Email for Applicant Services: brn.licensing@dca.ca.gov
+Email for Applicant Services: <brn.licensing@dca.ca.gov>
 
 Fax number for Applicant Services: (916) 574-7697
 
-Email for Licensee Services: renewals.brn@dca.ca.gov
+Email for Licensee Services: <renewals.brn@dca.ca.gov>
 
 Fax number for Applicant Services: (916) 574-7699

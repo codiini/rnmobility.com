@@ -1,0 +1,97 @@
+name: Build, test, deploy
+
+on: push
+
+jobs:
+  # Build using Jekyll, and Node.js, and upload the build artifact
+  build:
+    name: Jekyll build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Ruby # See https://www.ruby-lang.org/en/downloads/branches/
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2 # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - name: Build site
+        run: bundle exec jekyll build
+      - name: Enable Corepack
+        run: corepack enable
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: "yarn"
+          check-latest: true
+      - name: Install dependencies
+        run: yarn install --immutable
+      - name: Generate sitemap
+        run: yarn run generate-sitemap
+      - name: Upload build artifact, ready for testing and publishing
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-artifact
+          path: build/ # the Jekyll build directory
+          include-hidden-files: true # Workaround https://github.com/actions/upload-artifact/issues/610
+
+  # Test the build artifact
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enable Corepack
+        run: corepack enable
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: "yarn"
+          check-latest: true
+      - name: Install dependencies
+        run: yarn install --immutable
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifact
+          path: build/
+      - name: Restore testing cache
+        uses: actions/cache/restore@v4
+        with:
+          path: cache/
+          key: test-cache
+      - name: Test suite
+        run: yarn run test
+      - name: Save testing cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: cache/
+          key: test-cache
+
+  # Publish the build artifact
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/acls.net'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifact
+          path: build/
+      - name: Publish
+        run: |
+          eval $(ssh-agent) # Create agent and environment variables ## https://stackoverflow.com/a/5527157
+          ssh-add - <<< "$SSH_KEY"
+          echo "$KNOWN_HOST" >> /tmp/known_hosts
+          rsync --recursive --checksum --verbose --ignore-times --chmod=ugo=rwX --delete build/ "$PUBLISH_TARGET"
+        env:
+          SSH_KEY: ${{ secrets.NAMECRANE_NEWYORK_DEPLOY_KEY }}
+          RSYNC_RSH: "ssh -v -v -p 53667 -o UserKnownHostsFile=/tmp/known_hosts"
+          KNOWN_HOST: "* ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBCOyojBG9niAp9NaSSRjq2t2ZYyalDiBcM7rBUuSAF4G2KvQQvnm62ajU/CO3c+4098zTSTNjiuix/FMERddSFs=" # ssh-keyscan -H -p 53667 -t ecdsa lv-shared02.dapanel.net
+          PUBLISH_TARGET: aaclsnet1@ny-shared01.dapanel.net:domains/acls.net/public_html/

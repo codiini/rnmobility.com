@@ -30,7 +30,7 @@ Nurses can also apply online [here.](https://mbn.hlb.state.mn.us/)
     licensed in and from the state you are currently licensed in (if it
     is a different state)
 
-    -   Verifications may be obtainable from
+  -   Verifications may be obtainable from
         [www.nursys.com](https://www.nursys.com/)
 
 -   [Confirmation of Nursing Employment for Licensure by Endorsement

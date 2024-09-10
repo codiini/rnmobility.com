@@ -43,7 +43,7 @@ The following is a list of general requirements for continuing competency:
     
 *   three credit hours of relevant, academic education.
     
-    *   college or university must be regionally accredited, or
+  *   college or university must be regionally accredited, or
         
 *   Completion of a refresher course that is approved by the Board
     
@@ -51,33 +51,33 @@ The following is a list of general requirements for continuing competency:
     
 *   Teaching three semester hours of college coursework
     
-    *   must be nursing-related
+  *   must be nursing-related
         
-    *   must be a 15 week course or,
+  *   must be a 15 week course or,
         
-    *   a specialty certification
+  *   a specialty certification
         
 *   Teaching 30 contact-hours of continuing education
     
 *   640 hours of active practice as an RN and 15 contact hours including
     
-    *   workshops
+  *   workshops
         
-    *   conferences
+  *   conferences
         
-    *   seminars
+  *   seminars
         
-    *   relevant coursework, or
+  *   relevant coursework, or
         
 *   30 contact hours including
     
-    *   workshops
+  *   workshops
         
-    *   conferences
+  *   conferences
         
-    *   seminars
+  *   seminars
         
-    *   relevant coursework
+  *   relevant coursework
         
 
 You will be exempt from competency requirements for your first renewal. Maintain documents proving your participation in a continuing education program for at least two years. For more information on continuing education, down load the [Regulations Governing the Practice of Nursing](https://www.dhp.virginia.gov/nursing/leg/Nursing04082015.doc) and click on Continuing competency requirements for renewal of an active license in the table of contents.

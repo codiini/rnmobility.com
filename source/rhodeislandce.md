@@ -29,11 +29,11 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
     
 *   Copy of document proving your primary address
     
-    *   Tax return
+  *   Tax return
         
-    *   Driver's license
+  *   Driver's license
         
-*   Verification of licensure of all states you have been licensed in from www.nursys.com or using the Interstate Verification form on the [application](http://www.health.ri.gov/forms/NurseVerificationForm.pdf)
+*   Verification of licensure of all states you have been licensed in from <www.nursys.com> or using the Interstate Verification form on the [application](http://www.health.ri.gov/forms/NurseVerificationForm.pdf)
     
 *   2x2 passport style photo
     

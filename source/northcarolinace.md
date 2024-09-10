@@ -49,7 +49,7 @@ North Carolina. General instructions are listed below.
     [Nursys](https://www.ncbon.com/MyFiles/Downloads/NURSYS-Information.pdf)
     website.
 
-    -   For those states that do not participate in the Nursys
+  -   For those states that do not participate in the Nursys
         verification system, use the verification forms included on your
         confirmation page.
 

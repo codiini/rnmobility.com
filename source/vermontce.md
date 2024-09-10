@@ -19,11 +19,11 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
     
 *   Copy of one of the following forms of ID
     
-    *   Government issued ID
+  *   Government issued ID
         
-    *   Passport
+  *   Passport
         
-    *   Driver's license
+  *   Driver's license
         
 *   2x2 passport style photo (within the last six months)
     

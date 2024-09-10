@@ -28,7 +28,7 @@ General instructions are listed below.
     Application](https://ssla.state.ky.us/kbnursing/RNLicensureAPRNApplication.aspx)
     with \$165 application fee
 
-    -   You may also complete a paper application request form. The
+  -   You may also complete a paper application request form. The
         application request costs an additional \$40 and the application
         will be mailed to you.
 

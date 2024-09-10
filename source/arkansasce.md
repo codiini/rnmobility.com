@@ -35,7 +35,7 @@ For more details on [continuing education](https://www.arsbn.org/continuing-educ
 
 #### Contact Information
 
-Web Address: https://www.healthy.arkansas.gov/programs-services/topics/arkansas-board-of-nursing
+Web Address: <https://www.healthy.arkansas.gov/programs-services/topics/arkansas-board-of-nursing>
 
 Arkansas State Board of Nursing
 University Tower Bldg.

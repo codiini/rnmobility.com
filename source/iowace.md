@@ -32,16 +32,16 @@ instructions are listed below.
     [online](https://eservices.iowa.gov/PublicPortal/Iowa/IBON/common/index.jsp)or,
     paper application
 
-    -   Fee of \$169 (Application fee includes \$119 for the application
-        + \$50 Criminal Background Check fee)
+  -   Fee of \$169 (Application fee includes \$119 for the application
+    - \$50 Criminal Background Check fee)
 
-    -   Paper application can be requested by phone or email
+  -   Paper application can be requested by phone or email
 
-        -   newnurse@iowa.gov
+    -   <newnurse@iowa.gov>
 
-        -   515.281.4826
+    -   515.281.4826
 
-    -   You may also download the paper application
+  -   You may also download the paper application
         [here](https://nursing.iowa.gov/sites/default/files/media/Endorsement%20Form%2011%202014.pdf).
 
 -   [Fingerprint

@@ -37,7 +37,7 @@ one.
 
 -   \$49.75 for criminal background check
 
-    -   Authorization Form for Criminal Background Check is included in
+  -   Authorization Form for Criminal Background Check is included in
         the endorsement packet.
 
 -   \$120 application fee
@@ -47,10 +47,10 @@ one.
 
 -   Verification of original licensure
 
-    -   You may use [www.nursys.com](https://www.nursys.com/) if your
+  -   You may use [www.nursys.com](https://www.nursys.com/) if your
         original state of licensure participates in Nursys
 
-    -   You may use the request form in the [paper
+  -   You may use the request form in the [paper
         application](https://www.oplc.nh.gov/nursing/forms-publications.htm#aprn).
 
 You may [renew your license

@@ -32,7 +32,7 @@ page.
 
 -   Official transcripts
 
-    -   Non-US training programs may need a Professional Report made
+  -   Non-US training programs may need a Professional Report made
         available by the [Commission on Graduates of Foreign Nursing
         Schools Credentials Evaluation Service.](https://www.cgfns.org/)
 
@@ -96,7 +96,7 @@ Georgia 31217 For more information, visit the [Georgia Board of Nursing
 web site](https://sos.ga.gov/index.php/licensing/plb/45) The Professional
 Licensing Boards Division can be contacted at 478-207-2440. You may send
 fax information to 877-371-5712. Emails may be sent to
-nursing@sos.ga.gov. It may take up to ten business days to receive a
+<nursing@sos.ga.gov>. It may take up to ten business days to receive a
 reply via email.
 
 * * * * *

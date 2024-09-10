@@ -1,0 +1,46 @@
+# Ignore files referenced by .gitignore (only valid at root)
+gitignore: true
+
+# Disable banner message on stdout (only valid at root)
+noBanner: true
+
+# Disable progress on stdout (only valid at root)
+noProgress: true
+
+extends: "markdownlint/style/prettier"
+
+config:
+  # PMT house rules
+  MD041: false # First line in file should be a top level header
+  MD033: false # Inline HTML
+  MD031: false # Fenced code blocks should be surrounded by blank lines (excluding as workaround for kramdown attributes)
+  MD058: false # Tables should be surrounded by blank lines (excluding as workaround for kramdown attributes)
+  MD024: false # Multiple headers with the same content (because we use "Additional resources" parts in multiple places)
+  MD036: false # Emphasis used instead of a header (we like this in some places)
+  MD025: false # Multiple top level headers in the same document (rule does not seem to be working properly)
+  MD051: false # Link fragments must be valid (rule fails to detect our <span id="..."> fragments)
+
+  # Don't conflict with Prettier rules
+  blanks-around-fences: false
+  blanks-around-headings: false
+  blanks-around-lists: false
+  code-fence-style: false
+  emphasis-style: false
+  heading-start-left: false
+  heading-style: false
+  hr-style: false
+  line-length: false
+  list-indent: false
+  list-marker-space: false
+  no-blanks-blockquote: false
+  no-hard-tabs: false
+  no-missing-space-atx: false
+  no-missing-space-closed-atx: false
+  no-multiple-blanks: false
+  no-multiple-space-atx: false
+  no-multiple-space-blockquote: false
+  no-multiple-space-closed-atx: false
+  no-trailing-spaces: false
+  ol-prefix: false
+  strong-style: false
+  ul-: false

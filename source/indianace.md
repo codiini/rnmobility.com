@@ -86,7 +86,7 @@ Indianapolis, Indianna
 
 Phone: 317-234-2043
 
-Email: pla2@pla.IN.gov
+Email: <pla2@pla.IN.gov>
 
 For more information, visit the [Indiana State Board of Nursing
 page.](https://www.in.gov/pla/nursing.htm)

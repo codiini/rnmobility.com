@@ -48,8 +48,8 @@ Phone: (304) 558-3596
 
 Fax: (304) 558-3666
 
-Web Address: www.wvrnboard.com
+Web Address: <www.wvrnboard.com>
 
-Email: rnboard@wv.gov
+Email: <rnboard@wv.gov>
 
 * * *

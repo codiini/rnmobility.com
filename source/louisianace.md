@@ -44,13 +44,13 @@ application](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/RNEndorsemen
 
 -   Proof of licensure from the last state you worked in if applicable
 
-    -   licensure verification may be obtainable from www.nursys.com,
+  -   licensure verification may be obtainable from <www.nursys.com>,
         otherwise, contact your original and prior state's nursing
         boards for verification
 
 -   Proof you have completed an approved nursing program
 
-    -   Excelsior graduates should contact the Louisiana Board directly
+  -   Excelsior graduates should contact the Louisiana Board directly
 
 -   Either a passing score on the NCLEX or a score of at least 1600, or
 
@@ -72,10 +72,10 @@ application](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/RNEndorsemen
 
 -   Application Fees
 
-    -   \$140.75 for mailed application (\$240.75 if requesting
+  -   \$140.75 for mailed application (\$240.75 if requesting
         temporary permit)
 
-    -   150.75 for hand delivered applications (\$250.75 if requesting
+  -   150.75 for hand delivered applications (\$250.75 if requesting
         temporary permit)
 
 Licenses are renewed yearly in Louisiana from October to the last day of
@@ -112,17 +112,17 @@ FAX:(225)-755-7584
 E-mail:lsbn@lsbn.state.la.us
 
 Education/Licensure Patricia Dufrene (225)755-7522
-dufrenep@lsbn.state.la.us
+<dufrenep@lsbn.state.la.us>
 
 Endorsements/Volunteer Nurses/Foreign Nurses (225)755-7520 (225)755-7581
-endorsements@lsbn.state.la.us
+<endorsements@lsbn.state.la.us>
 
 Education: Students & Continuing Education (225)755-7522 (225)755-7580
-education@lsbn.state.la.us
+<education@lsbn.state.la.us>
 
-General Questions (225)755-7500 (225)755-7584 lsbn@lsbn.state.la.us
+General Questions (225)755-7500 (225)755-7584 <lsbn@lsbn.state.la.us>
 
-License Renewal (225)755-7500 (225)755-7584 renewals@lsbn.state.la.us
+License Renewal (225)755-7500 (225)755-7584 <renewals@lsbn.state.la.us>
 
 * * * * *
 

@@ -29,9 +29,9 @@ listed below.
 -   Complete application (you will need a Social Security Number to
     complete the application)
 -   Pay required fees
-    -   Application: \$100
-    -   Temporary Permit: \$50
-    -   Transaction Fee: \$3.50
+  -   Application: \$100
+  -   Temporary Permit: \$50
+  -   Transaction Fee: \$3.50
 -   You must be a nursing school graduate. Your education program must
     be either an RN or PN program.
 -   Original nursing school transcript to be mailed (not faxed) to ABN
@@ -148,7 +148,7 @@ Please click
 [here](https://www.abn.alabama.gov/faq_category/byendorsementtemp/) for
 FAQs regarding temporary licensure by endorsement.
 
-### Help other nurses.
+### Help other nurses
 
 Your feedback can improve \
  the quality of this site.

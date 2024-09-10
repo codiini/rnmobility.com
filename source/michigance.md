@@ -30,7 +30,7 @@ found
 
 -   Criminal background check
 
-    -   Once the Board had received and reviewed your application you
+  -   Once the Board had received and reviewed your application you
         will be mailed an Application Confirmation letter which will
         contain instructions on how to complete the Criminal Background
         Check.

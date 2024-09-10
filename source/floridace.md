@@ -44,7 +44,7 @@ tips](https://floridasnursing.gov/forms/top-10-endorsement-quick-tips.pdf)
 from Florida's Nursing Board.
 
 Verification can be obtained through Nursys - link:
-https://www.nursys.com/ or if your state does not participate in the
+<https://www.nursys.com/> or if your state does not participate in the
 Nursys system you can download and print a [Florida Board of Nursing
 License Verification
 Form.](https://floridasnursing.gov/forms/nurse-lic-ver-request-info.pdf)
@@ -110,7 +110,7 @@ transcripts for four years in case you are audited.
 
 Web Address
 
-www.floridasnursing.gov/
+<www.floridasnursing.gov/>
 
 Physical Address
 
@@ -126,11 +126,11 @@ The following options may be useful:
 
 -   Renewals or continuing education press three
 
-    -   Online renewal press 1
+  -   Online renewal press 1
 
-    -   Mail renewal press 2
+  -   Mail renewal press 2
 
-    -   Continuing education 3
+  -   Continuing education 3
 
 -   Becoming licensed, requesting an application, or for application
     status press four
