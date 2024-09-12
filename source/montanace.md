@@ -60,8 +60,7 @@ For more information, click
 RN's must take 24 hours of continuing education after their first
 renewal. Renewals occur during even numbered years on December 31 and
 the cost of renewal is \$100. For more information, Click
-[here](http://www.mtrules.org/gateway/Subchapterhome.asp?scn=24.159.21).
-Renewal application can be found
+for the Renewal application can be found
 [here](http://b.bsd.dli.mt.gov/license/bsd_boards/nur_board/pdf/RN_LPN_renew.pdf)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/montana-acls-pals-bls.htm)

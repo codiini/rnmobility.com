@@ -25,7 +25,7 @@ their license in another state. The requirements for endorsement are
 listed below.
 
 -   Apply for [licensure
-    endorsement](https://abn.alabama.gov/abnonline/ABNOnline_Endorsement.aspx)
+    endorsement](https://www.abn.alabama.gov/licensing/apply/licensure-by-endorsement/endorsement-basic-requirements/)
 -   Complete application (you will need a Social Security Number to
     complete the application)
 -   Pay required fees
@@ -79,7 +79,7 @@ July 5, 2016
 Visit [ABN for more information regarding license
 cards](https://www.abn.alabama.gov/2016/06/27/license-cards-advanced-practice-approval-cards-discontinued/)
 
-### [Nursing License Renewal](https://abn.alabama.gov/MyABNProfile/Account/RenewalLogin.aspx)
+### [Nursing License Renewal](https://www.abn.alabama.gov/licensing/renewal/)
 
 Renewal costs \$103.50
 

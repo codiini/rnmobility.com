@@ -39,7 +39,7 @@ Tennessee is a compact state. If you are moving to Tennessee or claiming it as y
 *   All applicants must complete and submit a notarized Declaration of Citizenship form.
     
 
-Licences must be renewed every two years. You can do it online through [here.](https://apps.tn.gov/hlrs-app/loginProfessional.jsp;jsessionid=RMcZFGaZC7TIXbemthC4+Mwv ) Cost of renewal is $100.
+Licenses must be renewed every two years. You can do it online through [here.](https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board.html) Cost of renewal is $100.
 
 Foreign educated nurses must provide a Professional Report from the Commission on Graduates of [Foreign Nursing School (CGFNS)](https://www.cgfns.org/) or an official school transcript.
 

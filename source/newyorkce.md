@@ -23,16 +23,16 @@ you will have a few more steps to take in addition to filling out the
 initial application for a license in New York.
 
 Below are a few general [requirements you will need for
-licensure](http://www.op.nysed.gov/prof/nurse/nursing.htm):
+licensure](https://www.op.nysed.gov/professions-index/nursing):
 
 Proof of completion of an [approved RN training
-program](http://www.op.nysed.gov/prof/nurse/nursing.htm)
+program](https://www.op.nysed.gov/professions-index/nursing)
 
 Completion of a mandatory course in [identification and reporting of
-child abuse](http://www.op.nysed.gov/training/camemo.htm)
+child abuse](https://www.op.nysed.gov/training/camemo.htm)
 
 Completion of an [infectious control
-course](http://www.op.nysed.gov/training/icmemo.htm)
+course](https://www.op.nysed.gov/about/training-continuing-education/infection-control)
 
 Complete application with fee of \$143.00.
 

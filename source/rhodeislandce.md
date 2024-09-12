@@ -39,7 +39,7 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
     
 *   Background Check
     
-*   For information about fingerprinting along with state and federal background checks visit this [link.](http://www.riag.state.ri.us/homeboxes/BackgroundChecks.php )
+*   For information about fingerprinting along with state and federal background checks visit this [link.](https://riag.ri.gov/i-want/get-background-check )
     
 
 Licenses are renewed every two years. To do it online click [here.](https://healthri.mylicense.com/)
