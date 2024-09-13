@@ -29,7 +29,7 @@ instructions are listed below.
 -   Passing NCLEX results
 
 -   Completed
-    [online](https://eservices.iowa.gov/PublicPortal/Iowa/IBON/common/index.jsp)or,
+    [online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index)or,
     paper application
 
   -   Fee of \$169 (Application fee includes \$119 for the application
@@ -68,7 +68,7 @@ click
 [here](https://nursing.iowa.gov/licensure/endorsement-licensure-another-state).
 
 You may renew your license
-[online](https://eservices.iowa.gov/PublicPortal/Iowa/IBON/common/index.jsp)for
+[online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index)for
 \$99. Renewal occurs every three years. Renewal must occur 30 days prior
 to the 15th of licensee’s birth month; after this date it will be
 considered late and an additional \$50 late fee will be incurred.
