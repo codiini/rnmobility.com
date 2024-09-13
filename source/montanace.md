@@ -123,6 +123,6 @@ address](https://boards.bsd.dli.mt.gov/nursing/)
 ### FAQ
 
 A link to the Montana State Nursing Board's frequently asked questions
-can be found [here](https://boards.bsd.dli.mt.gov/nursing/sing/#18)
+can be found [here](https://boards.bsd.dli.mt.gov/nursing/faq)
 
 * * * * *
