@@ -72,7 +72,7 @@ information.
 Maryland does not have any continuing education requirements. An
 approved refresher course may be needed if you do not have the required
 amount of hours for endorsement. [Link for approved refresher
-courses](https://mbon.maryland.gov/Documents/refresh_course.pdf)
+courses](https://mbon.maryland.gov/Documents/approved-nurse-refresher-preceptorship-programs.pdf)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/maryland-acls-pals-bls.htm)
 

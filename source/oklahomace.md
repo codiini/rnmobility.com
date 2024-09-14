@@ -106,7 +106,7 @@ qualification and renewal purposes:
 
 #### Contact Information
 
-[Oklahoma Board of Nursing](https://nursing.ok.gov/)
+[Oklahoma Board of Nursing](https://oklahoma.gov/nursing.html)
 
 2915 N Classen, Ste. 524
 Oklahoma City, OK 73106

@@ -29,7 +29,7 @@ listed below:
 
 -   International nursing school graduates must pass the
     [TOEFL](https://www.ets.org/toefl) or [Pearson Test of English
-    Academic](https://pearsonpte.com/) if they have been licensed less
+    Academic](https://www.pearsonpte.com/) if they have been licensed less
     than five years in the US
 
 -   Verification/endorsement of original state of licensure at
@@ -61,7 +61,7 @@ However, all RNs must take a one-time, four-hour bioterrorism CE class.
 
 For more information regarding continuing education, including approved
 providers, can be found
-[here](https://nevadanursingboard.org/education-and-continuing-education/continuing-education/).
+[here](https://nevadanursingboard.org/continuing-education/).
 Approved Continuing Education Providers
 [link](https://nevadanursingboard.org/continuing-education/)
 

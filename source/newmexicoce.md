@@ -42,20 +42,20 @@ General guidelines for endorsement are listed below.
 
 -   [3M Cogent Background](https://www.aps.gemalto.com/index.htm) and
     fingerprinting through this
-    [link](https://nmbon.sks.com/fingerprint-card-request.aspx)
+    [link](https://www.bon.nm.gov/fingerprinting/)
 
 Renewals cost \$93 and take place every two years. Click
-[here](https://nmbon.sks.com/nurse-license-renewal.aspx)
+[here](https://www.bon.nm.gov/fees/)
 to view the paper renewal form and
 [here](https://nmbn.boardsofnursing.org/nmbn) for Online License
 Renewal. You must complete 30 contact hours of [continuing
-education](https://nmbon.sks.com/continuing-education.aspx).
+education](https://www.bon.nm.gov/ceu/).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-mexico-acls-pals-bls.htm)
 
 #### Contact Information
 
-[New Mexico Board of Nursing](https://nmbon.sks.com/)
+[New Mexico Board of Nursing](https://www.bon.nm.gov/)
 
 Hours: 8:00am-5:00pm Monday through Friday excluding Holidays
 
