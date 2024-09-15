@@ -73,7 +73,7 @@ You may renew your license
 to the 15th of licensee’s birth month; after this date it will be
 considered late and an additional \$50 late fee will be incurred.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/iowa-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/iowa-acls-pals-bls)
 
 #### Continuing Competency
 

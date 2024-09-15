@@ -82,7 +82,7 @@ International Association for Continuing Education. Click
 to see what type of coursework is acceptable. Page 27 is where you will
 find more details.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-jersey-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-jersey-acls-pals-bls)
 
 #### Contact Information
 

@@ -37,7 +37,7 @@ Renewals cost $86 and take place every even year on the last day of February. Yo
 
 Wisconsin does not have any continuing education requirements
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/wisconsin-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/wisconsin-acls-pals-bls)
 
 #### Contact Information
 

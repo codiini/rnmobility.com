@@ -64,7 +64,7 @@ the cost of renewal is \$100. For more information, Click
 Renewal application can be found
 [here](http://b.bsd.dli.mt.gov/license/bsd_boards/nur_board/pdf/RN_LPN_renew.pdf)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/montana-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/montana-acls-pals-bls)
 
 #### Contact Information
 

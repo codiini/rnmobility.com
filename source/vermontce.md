@@ -38,7 +38,7 @@ You must also demonstrate that you have graduated within the last five years fro
 
 Vermont does not have any mandatory continuing education requirements.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/vermont-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/vermont-acls-pals-bls)
 
 #### Contact Information
 

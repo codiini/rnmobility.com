@@ -51,7 +51,7 @@ to view the paper renewal form and
 Renewal. You must complete 30 contact hours of [continuing
 education](https://www.bon.nm.gov/ceu/).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-mexico-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-mexico-acls-pals-bls)
 
 #### Contact Information
 

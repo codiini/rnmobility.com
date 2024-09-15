@@ -94,7 +94,7 @@ To view other options, click
 go to the [Continuing Competency Requirements
 page](https://www.ncbon.com/licensure-listing-continuing-competence).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/north-carolina-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/north-carolina-acls-pals-bls)
 
 #### Contact Information
 

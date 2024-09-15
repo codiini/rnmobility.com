@@ -75,7 +75,7 @@ education](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nurs
 CE must include training on the issue of domestic and sexual violence as
 a condition of licensure and renewal.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/massachusetts-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/massachusetts-acls-pals-bls)
 
 #### Contact Information
 

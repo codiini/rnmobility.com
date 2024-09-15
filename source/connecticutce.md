@@ -53,7 +53,7 @@ learn more.
 
 Continuing Education is not required for the state of Connecticut.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/connecticut-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/connecticut-acls-pals-bls)
 
 ### Contact Information
 

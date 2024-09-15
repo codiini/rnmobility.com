@@ -58,7 +58,7 @@ information.
 Missouri does not have continuing education requirements for endorsement
 or renewal.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/missouri-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/missouri-acls-pals-bls)
 
 #### Contact Information
 

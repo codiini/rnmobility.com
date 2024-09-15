@@ -65,7 +65,7 @@ will not have to submit your continuing education documentation unless
 you are selected for an audit. Keep your documentation for at least five
 years.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/pennsylvania-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/pennsylvania-acls-pals-bls)
 
 #### Contact Information
 

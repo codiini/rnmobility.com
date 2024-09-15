@@ -33,7 +33,7 @@ You may renew your license [online](https://www.bon.texas.gov/texasnurseportal/)
 
 You must complete 20 hours of continuing education to renew your license. Click [here](https://www.bon.texas.gov/education_continuing_education.asp) for more information on continuing education.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/texas-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/texas-acls-pals-bls)
 
 #### Contact Information
 

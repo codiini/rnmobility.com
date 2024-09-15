@@ -80,7 +80,7 @@ approved English-language proficiency test. Three options are available:
 3.  [Michigan English Language Assessment Battery
     (MELAB)](https://www.cambridgemichigan.org/)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/minnesota-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/minnesota-acls-pals-bls)
 
 #### Contact Information
 

@@ -43,7 +43,7 @@ South Dakota does not have a continuing education requirement for renewal. If yo
 
 Click [here](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/) to view the [licensure and renewal page](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/). Foreign educated nurses can click [here](https://doh.sd.gov/boards/nursing/assets/ForeignLPNRNbyExam.pdf) for more information.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-dakota-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-dakota-acls-pals-bls)
 
 #### Contact Information
 

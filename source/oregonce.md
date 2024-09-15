@@ -74,7 +74,7 @@ license. Click
 [here](https://www.oregon.gov/oha/ohpr/pmc/Pages/index.aspx)for more
 information.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oregon-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oregon-acls-pals-bls)
 
 #### Contact Information
 

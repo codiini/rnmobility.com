@@ -45,7 +45,7 @@ A link to refresher courses can be found [here](https://nursing-online.state.wy.
 
 A link to approved distance programs can be found [here](https://nursing-online.state.wy.us/Default.aspx?page=57).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/wyoming-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/wyoming-acls-pals-bls)
 
 #### Contact Information
 

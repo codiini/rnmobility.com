@@ -58,7 +58,7 @@ information on [approved continuing
 education](https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5093_28508-326590--,00.html)
 courses.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/michigan-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/michigan-acls-pals-bls)
 
 #### Contact Information
 

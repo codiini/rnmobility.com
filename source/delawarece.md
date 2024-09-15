@@ -85,7 +85,7 @@ If you graduated from a nursing program outside the United States
 your [CGFNS certificate](https://www.cgfns.org/) or [CES
 report](https://www.cgfns.org/services/ces-professional-report/).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/delaware-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/delaware-acls-pals-bls)
 
 #### Contact Information
 

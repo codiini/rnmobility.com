@@ -56,7 +56,7 @@ click [here](https://gateway.licensure.msbn.ms.gov/)
 There are no mandatory continuing education requirements for endorsement
 or renewal. You are responsible for your own continuing competency.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/mississippi-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/mississippi-acls-pals-bls)
 
 #### Contact Information
 

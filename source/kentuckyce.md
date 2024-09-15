@@ -78,7 +78,7 @@ course. You must take this within 3 years of obtaining your KY license,
 and retain documentation until you retire your license. CE earning
 period is between November 1 to October 31.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/kentucky-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/kentucky-acls-pals-bls)
 
 #### Contact Information
 

@@ -46,7 +46,7 @@ You are required to complete one of the following for continued competency:
 
 All continuing education hours must be Board approved.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/utah-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/utah-acls-pals-bls)
 
 #### Contact Information
 

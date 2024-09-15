@@ -69,7 +69,7 @@ If you are a newly licensed RN, you will need to provide proof that you
 have passed the NCLEX-RN within the last five years in lieu of
 experience and continuing education.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/kansas-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/kansas-acls-pals-bls)
 
 #### Contact The Kansas Board of Nursing
 

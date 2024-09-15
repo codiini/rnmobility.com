@@ -96,7 +96,7 @@ contact hours. Registered nurses practicing less than 160 hours will
 need at least 15 contact hours. For more details, click
 [here](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/CEReq.pdf).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/louisiana-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/louisiana-acls-pals-bls)
 
 #### Contact Information
 

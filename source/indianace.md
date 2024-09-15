@@ -74,7 +74,7 @@ at the bottom of this page.
 
 Renewals occur by October 31 on odd-numbered years. Renewal fee is \$50.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/indiana-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/indiana-acls-pals-bls)
 
 #### Contact Information
 
