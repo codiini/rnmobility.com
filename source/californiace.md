@@ -45,7 +45,7 @@ form](https://www.rn.ca.gov/pdfs/applicants/endidform.pdf "Licensure
           by Endorsement Applicant Identification form").
 
 You can apply for licensure by endorsement online at the [BreEze
-site](https://www.breeze.ca.gov/ "California licensing
+site](https://www.breeze.ca.gov/datamart/loginCADCA.do "California licensing
           page") after completing the [Licensure by Endorsement
 Applicant Identification
 form](https://www.rn.ca.gov/pdfs/applicants/endidform.pdf "Licensure
