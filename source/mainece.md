@@ -67,7 +67,7 @@ upon request after review of the application.
 
 Contact the Board for criminal background check information.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/maine-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/maine-acls-pals-bls)
 
 #### Contact Information
 

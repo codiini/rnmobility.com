@@ -65,7 +65,7 @@ renewal, and continuing competency:
 Licenses expire on the 31st of August during odd-numbered years and cost
 \$90 to renew.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/idaho-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/idaho-acls-pals-bls)
 
 #### Contact Information
 

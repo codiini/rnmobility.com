@@ -57,7 +57,7 @@ You may [renew your license
 online](https://nhlicenses.nh.gov/MyLicense%20Enterprise/). Licenses
 must be renewed every two years.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-hampshire-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-hampshire-acls-pals-bls)
 
 #### Continuing Competency
 

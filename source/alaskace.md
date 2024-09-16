@@ -111,7 +111,7 @@ Keep in mind that contact hours do not necessarily equate to semester
 hours. Each semester credit hour equals fifteen contact hours. Each
 quarter credit hour equals ten contact hours.
 
-### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/alaska-acls-pals-bls.htm)
+### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/alaska-acls-pals-bls)
 
 ### Contact Information the Alaska Board of Nursing
 

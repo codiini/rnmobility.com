@@ -15,7 +15,7 @@ Each US jurisdiction needs a competent medical workforce to meet the needs of it
 
 The following is a list of general requirements for licensure by endorsement in Washington D.C.
 
-*   [Criminal background Check](https://doh.dc.gov/node/120532)
+*   [Criminal background Check](https://dchealth.dc.gov/service/criminal-background-check)
     
 *   Passing NCLEX or SBTPE results
     
@@ -23,7 +23,7 @@ The following is a list of general requirements for licensure by endorsement in 
     
 *   Two 2x2 passport style photos
     
-*   US Social Security Number or a completed SSN [affidavit](https://doh.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/SSN_AFFIDAVIT_FORM.pdf)
+*   US Social Security Number or a completed SSN [affidavit](https://dchealth.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/MTL_%20AFFIDAVIT_0.pdf)
     
 *   Verification of License from current and original states of licensure
     

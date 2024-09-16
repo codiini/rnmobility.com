@@ -32,7 +32,7 @@ Tennessee is a compact state. If you are moving to Tennessee or claiming it as y
     
 *   Criminal background check
     
-*   [Instructions link](https://tn.gov/health/article/CBC-instructions)
+*   [Instructions link](https://www.tn.gov/health/health-professionals/criminal-background-check.html)
     
 *   Proof of lawful presence in the US
     
@@ -47,7 +47,7 @@ Foreign educated nurses must provide a Professional Report from the Commission o
 
 Click here for details on [continuing competency](https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board/nursing-board/continuing-education.html).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/tennessee-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/tennessee-acls-pals-bls)
 
 #### Contact Information
 

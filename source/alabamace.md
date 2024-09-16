@@ -86,7 +86,7 @@ Renewal costs \$103.50
 Registered nurse renewals take place on even numbered years from
 September 1st to December 31st.
 
-### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/alabama-acls-pals-bls.htm)
+### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/alabama-acls-pals-bls)
 
 ### Contact the ABN
 

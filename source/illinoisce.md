@@ -34,7 +34,7 @@ You are required to engage in 20 contact hours of continuing education between e
 
 For more information on CE, visit the [Continuing Education Frequently Asked Questions (FAQs) page](https://nursing.illinois.gov/PDF/2015-04_IL_RN_CE_Relicensure_FAQ.pdf).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/illinois-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/illinois-acls-pals-bls)
 
 #### Contact Information
 

@@ -31,7 +31,7 @@ Licenses expire yearly on the 31st of October. You will need to complete an [onl
 
 Click [here](https://wvrnboard.wv.gov/faq/Pages/default.aspx) for continuing education [FAQ](https://wvrnboard.wv.gov/faq/Pages/default.aspx).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/west-virginia-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/west-virginia-acls-pals-bls)
 
 #### Contact Information
 

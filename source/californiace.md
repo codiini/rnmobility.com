@@ -100,7 +100,7 @@ the California Board of Nursing does not approve or endorse any of the
 courses (even the ones listed on its website). They recommend that you
 contact your employer regarding approval of refresher coursework.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/california-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/california-acls-pals-bls)
 
 #### Contact Information
 

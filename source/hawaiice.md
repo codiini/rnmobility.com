@@ -57,7 +57,7 @@ Nursing.
 
 There are no continuing education requirements for RNs in Hawaii.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/hawaii-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/hawaii-acls-pals-bls)
 
 #### Contact Information
 

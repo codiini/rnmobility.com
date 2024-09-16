@@ -36,7 +36,7 @@ After endorsement, you'll need to meet continuing competency requirements, inclu
 
 More on continuing competency [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/ContinuingCompetency).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/washington-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/washington-acls-pals-bls)
 
 #### Contact Information
 

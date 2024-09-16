@@ -82,7 +82,7 @@ The following is a list of general requirements for continuing competency:
 
 You will be exempt from competency requirements for your first renewal. Maintain documents proving your participation in a continuing education program for at least two years. For more information on continuing education, down load the [Regulations Governing the Practice of Nursing](https://www.dhp.virginia.gov/nursing/leg/Nursing04082015.doc) and click on Continuing competency requirements for renewal of an active license in the table of contents.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/virginia-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/virginia-acls-pals-bls)
 
 #### Contact Information
 

@@ -72,7 +72,7 @@ Click [here](https://www.llr.sc.gov/POL/Nursing/pdf/CompetencyCriteria.pdf) for 
 
 To view other options, click [here](https://www.ncbon.com/licensure-listing-continuing-competence) to go to the [Continuing Competency Requirements page](https://www.ncbon.com/licensure-listing-continuing-competence).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-carolina-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-carolina-acls-pals-bls)
 
 #### Contact Information
 

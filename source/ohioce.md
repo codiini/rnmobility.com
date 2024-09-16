@@ -59,7 +59,7 @@ Click [here](https://nursing.ohio.gov/continuing-education-and-pre-licensure/con
 [continuing education
 FAQ](https://nursing.ohio.gov/continuing-education-and-pre-licensure/continuing-education/ce-requirements-for-renewal).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/ohio-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/ohio-acls-pals-bls)
 
 #### Contact Information
 

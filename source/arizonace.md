@@ -40,7 +40,7 @@ five years.
 
 ​3. While RN applicants do need to have a diploma or degree, there are
 some exceptions. They can be found by clicking
-[here](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license).
+[here](https://www.azbn.gov/licenses-certifications/apply-for-a-license).
 
 ​4. Applicants require approval by the Arizona Board if they are under
 investigation.
@@ -69,7 +69,7 @@ application and fees by mail. Emailed and faxed applications will not be
 accepted. A verification of the applicants original state of licensure
 should also be included. These can be found at
 [www.nursys.com](https://www.nursys.com/) or at
-[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/licenses-and-certifications/apply-for-a-license)
+[www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/licenses-certifications/apply-for-a-license)
 Applicants should provide proof of lawful presence in the United States.
 Click [here](https://www.azbn.gov/Citizenship)for a list of acceptable
 documents.
@@ -96,7 +96,7 @@ minimum number of hours, you may take a refresher course. Arizona Board
 approved refresher courses can be found
 [here](https://www.azbn.gov/sites/default/files/nursing-lists/refresherprograms3-28-192.pdf).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/arizona-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/arizona-acls-pals-bls)
 
 #### Contact Information
 
@@ -123,6 +123,6 @@ Web Address:
 
 A link to the Arizon State Nursing Board's frequently asked questions
 for renewal can be found
-[here.](https://www.azbn.gov/Documents/faqs/FAQ%20-%20Online%20Renewal.pdf)
+[here.](https://www.azbn.gov/licenses-and-certifications/license-renewal-faqs)
 Endorsement FAQ can be found
-[here.](https://www.azbn.gov/faqs/licensure-certification/registered-nurse-practical-nurse/licensure-by-endorsement-faqs/)
+[here.](https://www.azbn.gov/licenses-and-certifications/rn-lpn-endorsement-faq)

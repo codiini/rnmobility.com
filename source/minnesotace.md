@@ -34,7 +34,7 @@ Nurses can also apply online [here.](https://mbn.hlb.state.mn.us/)
         [www.nursys.com](https://www.nursys.com/)
 
 -   [Confirmation of Nursing Employment for Licensure by Endorsement
-    form](https://mn.gov/boards/assets/Conf_Emp_Endorse_5-19_tcm21-37443.pdf)
+    form](https://mn.gov/boards/assets/Conf_Nursing_Employment_tcm21-586960.pdf)
 
 -   You may need to take a refresher course
 
@@ -80,7 +80,7 @@ approved English-language proficiency test. Three options are available:
 3.  [Michigan English Language Assessment Battery
     (MELAB)](https://www.cambridgemichigan.org/)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/minnesota-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/minnesota-acls-pals-bls)
 
 #### Contact Information
 
@@ -95,7 +95,7 @@ TTY Number (Relay service for hearing/speech impaired): 800-627-3529
 
 Fax Number: 612-617-2190
 
-[Website](https://mn.gov/health-licensing-boards/nursing/)
+[Website](https://mn.gov/boards/nursing/)
 
 E-mail:
 [nursing.board@state.mn.us](mailto:nursing.board@state.mn.us?subject=Licensure%20by%20endorsement&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20about%20licensure%20by%20endorsement%20here.)

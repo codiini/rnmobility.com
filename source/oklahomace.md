@@ -102,11 +102,11 @@ qualification and renewal purposes:
   -   For more details on the refresher course policy, click
         [here](https://www.ok.gov/nursing/refresher.pdf)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oklahoma-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oklahoma-acls-pals-bls)
 
 #### Contact Information
 
-[Oklahoma Board of Nursing](https://nursing.ok.gov/)
+[Oklahoma Board of Nursing](https://oklahoma.gov/nursing.html)
 
 2915 N Classen, Ste. 524
 Oklahoma City, OK 73106

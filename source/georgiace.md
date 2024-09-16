@@ -87,7 +87,7 @@ list](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20
 can be found
 [here](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf).
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/georgia-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/georgia-acls-pals-bls)
 
 #### Contact Information
 

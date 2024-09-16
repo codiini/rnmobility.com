@@ -47,7 +47,7 @@ Verification of licensure (you may use
 
 Your license will be valid for life unless it is revoked.
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-york-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/new-york-acls-pals-bls)
 
 #### Contact Information
 

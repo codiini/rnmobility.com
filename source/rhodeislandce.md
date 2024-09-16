@@ -44,7 +44,7 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
 
 Licenses are renewed every two years. To do it online click [here.](https://healthri.mylicense.com/)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/rhode-island-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/rhode-island-acls-pals-bls)
 
 #### Continuing Competency
 

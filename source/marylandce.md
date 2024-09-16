@@ -33,9 +33,9 @@ General instructions are listed below.
 -   US Social Security number or a Federal Tax ID number
 
 -   [Passport style
-    photo](https://travel.state.gov/content/travel/en/passports/requirements/photos.html)
+    photo](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html)
     (Click
-    [here](https://travel.state.gov/content/travel/en/passports/requirements/photos.html)
+    [here](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html)
     for a tool to format a digital photo to passport standards)
 
 -   \$100 dollar application fee (add \$40 for temporary license)
@@ -72,9 +72,9 @@ information.
 Maryland does not have any continuing education requirements. An
 approved refresher course may be needed if you do not have the required
 amount of hours for endorsement. [Link for approved refresher
-courses](https://mbon.maryland.gov/Documents/refresh_course.pdf)
+courses](https://mbon.maryland.gov/Documents/approved-nurse-refresher-preceptorship-programs.pdf)
 
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/maryland-acls-pals-bls.htm)
+#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/maryland-acls-pals-bls)
 
 #### Contact Information
 
