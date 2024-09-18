@@ -22,7 +22,7 @@ Utah is a compact state. If you are moving to Utah or claiming it as your primar
     
   *   must include education and exam details
         
-*   Foreign graduates must include [CGFNS](https://www.cgfns.org) and [CES](https://www.cgfns.org/services/ces-academic-report/) reports as well as one of the following criteria has been met in the last five years:
+*   Foreign graduates must include [CGFNS](https://www.cgfns.org) and [CES](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-academic-report/) reports as well as one of the following criteria has been met in the last five years:
     
   *   960 hours of practice as an RN
         

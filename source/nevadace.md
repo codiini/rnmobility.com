@@ -28,7 +28,7 @@ listed below:
 -   Submit proof of your graduation from a nursing program
 
 -   International nursing school graduates must pass the
-    [TOEFL](https://www.ets.org/toefl) or [Pearson Test of English
+    [TOEFL](https://www.ets.org/toefl.html) or [Pearson Test of English
     Academic](https://www.pearsonpte.com/) if they have been licensed less
     than five years in the US
 

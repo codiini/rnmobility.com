@@ -83,7 +83,7 @@ continuing education
 If you graduated from a nursing program outside the United States
 (including Canada) or in Puerto Rico, you will need to provide a copy of
 your [CGFNS certificate](https://www.cgfns.org/) or [CES
-report](https://www.cgfns.org/services/ces-professional-report/).
+report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/delaware-acls-pals-bls)
 

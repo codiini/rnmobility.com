@@ -60,7 +60,7 @@ instructions are listed below.
 
 -   Foreign educated nurses must submit a Professional Report from the
     [CGFNS Credentials Evaluation
-    Service.](https://www.cgfns.org/services/ces-academic-report/)
+    Service.](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-academic-report/)
 
 To view Iowa's [endorsement
 page](https://nursing.iowa.gov/licensure/endorsement-licensure-another-state),

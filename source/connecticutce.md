@@ -31,7 +31,7 @@ Documents proving your completion of an approved nursing program
 
 Foreign transcripts should be verified by [Credentials Evaluation
 Service Professional
-Report](https://www.cgfns.org/services/ces-professional-report/)
+Report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/)
 
 Complete [Verification of Nurse
 Licensure](https://www.ct.gov/dph/lib/dph/practitioner_licensing_and_investigations/plis/nursing/rn/rn_licverif_form.pdf)

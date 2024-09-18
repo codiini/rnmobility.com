@@ -74,9 +74,9 @@ If you graduated from a foreign education program please see this
 for further information. Graduates of a foreign education program must
 also pass an English-language proficiency exam with either:
 
--   [TOEFL](https://www.ets.org/toefl)
+-   [TOEFL](https://www.ets.org/toefl.html)
 -   [IELTS](https://www.ielts.org/)
--   [TOEIC](https://www.ets.org/toeic/)
+-   [TOEIC](https://www.ets.org/toeic.html/)
 
 For Canadian nurses, you must pass the English version of CNATES or
 CRNE. Link [here](https://www.ncsbn.org/4702.htm)

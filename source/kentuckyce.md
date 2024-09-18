@@ -54,7 +54,7 @@ online](https://ssla.state.ky.us/kbnursing/SearchLicense.aspx?TYP=RNCOMPACT)
 for \$50. Renewals occur yearly before October 31.
 
 Foreign nurses educated outside of the U.S. must complete the
-[VisaScreen](https://www.cgfns.org/services/visascreen/) for Kentucky
+[VisaScreen](https://www.cgfns.org/services/certification/visascreen-visa-credentials-assessment/) for Kentucky
 Licensure. For details about the VisaScreen process click
 [here.](https://kbn.ky.gov/apply/Documents/kbnfacts.pdf)
 

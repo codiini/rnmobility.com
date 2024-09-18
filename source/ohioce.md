@@ -33,7 +33,7 @@ page.
 
 -   Proof of English proficiency if you were educated abroad and a[CGFNS
     Professional
-    Report](https://www.cgfns.org/services/ces-professional-report/)
+    Report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/)
 
 -   Two contact hours regarding [Category A, Ohio Law and
     Rules](https://codes.ohio.gov/oac/4723-14-03v1)

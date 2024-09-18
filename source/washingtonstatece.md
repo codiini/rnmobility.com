@@ -20,9 +20,9 @@ To apply for a license via endorsement in Washington, you need:
 * TOEFL or IELTS scores if your program was outside the US, UK, Canada, Australia, Ireland, New Zealand, or some Caribbean Commonwealth territories.
 * Verification of passing NCLEX scores.
 * An active and current license.
-* A valid social security number. Those without can find guidance [here](https://www.doh.wa.gov/Portals/1/Documents/6000/669316.pdf).
+* A valid social security number. Those without can find guidance [here](https://doh.wa.gov/sites/default/files/legacy/Documents/Pubs//677028.pdf).
 
-See the endorsement application [here](https://www.doh.wa.gov/Portals/1/Documents/Pubs/669240.pdf).
+See the endorsement application [here](https://doh.wa.gov/sites/default/files/legacy/Documents/Pubs/667039.pdf).
 
 #### Continuing Competency
 
@@ -34,7 +34,7 @@ After endorsement, you'll need to meet continuing competency requirements, inclu
 * ARNPs need 30 continuing education hours and an additional 15 hours related to pharmacology if they have prescriptive authority.
 * All nurses must complete e-Notify registration and survey online at Nursys®.
 
-More on continuing competency [here](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/ContinuingCompetency).
+More on continuing competency [here](https://doh.wa.gov/sites/default/files/legacy/Documents/Mtgs/2011//20110520-MN-NCQAC-CC.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/washington-acls-pals-bls)
 
@@ -66,4 +66,4 @@ Email, phone, fax:
 
 ### FAQ
 
-For frequently asked questions, visit the [Washington State Nursing Board's FAQ page](https://www.doh.wa.gov/LicensesPermitsandCertificates/NursingCommission/NurseLicensing/FrequentlyAskedQuestions/ContinuingCompetency).
+For frequently asked questions, visit the [Washington State Nursing Board's FAQ page](https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/nursing-assistant/frequently-asked-questions).

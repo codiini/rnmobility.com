@@ -47,7 +47,7 @@ Note: Your license must be current when applying for application and by
 the time your permanent license is issued by the board.
 
 Canadian nurses who have not taken the NCLEX exam should click
-[here](https://www.commerce.alaska.gov/web/portals/5/pub/nur4112.pdf%20)for
+[here](https://www.commerce.alaska.gov/web/portals/5/pub/nur4112.pdf)for
 exam requirements.
 
 -   A Department provided form documenting 320 hours of employment as a
@@ -64,7 +64,7 @@ exam requirements.
     primary language, Canada, where English is not the primary must pass
     either the [International English Language Testing
     System](https://www.ielts.org/test_takers_information.aspx) or the
-    [Test of English as a Foreign Language](https://www.ets.org/toefl)
+    [Test of English as a Foreign Language](https://www.ets.org/toefl.html)
     satisfactory scores. Minimum score requirements can be found
     [here](https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofNursing/ApplicantInformation/ForeignEducatedNurseRequirements.aspx).
 

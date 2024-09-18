@@ -42,10 +42,10 @@ must have a credentials evaluation service such as
 You will also have to provide English-language proficiency with either
 of the following:
 
-1.  A [(TOEFL)](https://www.ets.org/toefl) with a passing score of 540
+1.  A [(TOEFL)](https://www.ets.org/toefl.html) with a passing score of 540
     on the paper exam or a passing score of of 76 for the internet-based
     exam.
-2.  A [(TOEIC)](https://www.ets.org/toeic) with a passing score of 725.
+2.  A [(TOEIC)](https://www.ets.org/toeic.html) with a passing score of 725.
 3.  A [(IELTS)](https://www.ielts.org/) with a passing score of 6.5 on
     the Academic Module and a Spoken Band score of 7.
 
