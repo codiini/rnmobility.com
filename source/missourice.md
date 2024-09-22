@@ -46,7 +46,7 @@ of the following:
     on the paper exam or a passing score of of 76 for the internet-based
     exam.
 2.  A [(TOEIC)](https://www.ets.org/toeic.html) with a passing score of 725.
-3.  A [(IELTS)](https://www.ielts.org/) with a passing score of 6.5 on
+3.  A [(IELTS)](https://ielts.org/) with a passing score of 6.5 on
     the Academic Module and a Spoken Band score of 7.
 
 Licenses expire on the 30th of April on odd-numbered years and cost

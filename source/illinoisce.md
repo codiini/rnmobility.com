@@ -17,7 +17,7 @@ Each state needs a competent medical workforce to meet the needs of its citizens
 - Graduate from an [approved nursing program](https://www.idfpr.com/renewals/ssn_afft.pdf).
 - Your SSN is mandatory for the application. If you do not have a SSN, submit a SSN affidavit available on the [Department website](https://www.idfpr.com/renewals/ssn_afft.pdf).
 - For nurses educated outside the U.S and its territories, a credentials evaluation report of your foreign nursing education is required from either [CGFNS](https://www.cgfns.org/) or [ERES](https://www.eres.com/).
-- If English is not your first language, provide proof of English-language proficiency by passing and submitting certification of the [TOEFL](https://www.ets.org/toefl.html), or the [IELTS](https://www.ielts.org/).
+- If English is not your first language, provide proof of English-language proficiency by passing and submitting certification of the [TOEFL](https://www.ets.org/toefl.html), or the [IELTS](https://ielts.org/).
 - Verification of licensure can be obtained through the [Nursys Verification System](https://www.nursys.com/).
 - Fingerprints are required. Visit the [Fingerprint Vendor page](https://www.idfpr.com/LicenseLookUp/fingerprintlist.asp) to see approved vendors. Submit your receipt with the endorsement application.
 - Pass a department-approved exam.

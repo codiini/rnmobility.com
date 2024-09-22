@@ -63,7 +63,7 @@ exam requirements.
     the US and Canada (except Quebec) or anywhere English is not the
     primary language, Canada, where English is not the primary must pass
     either the [International English Language Testing
-    System](https://www.ielts.org/test_takers_information.aspx) or the
+    System](https://ielts.org/test_takers_information.aspx) or the
     [Test of English as a Foreign Language](https://www.ets.org/toefl.html)
     satisfactory scores. Minimum score requirements can be found
     [here](https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofNursing/ApplicantInformation/ForeignEducatedNurseRequirements.aspx).

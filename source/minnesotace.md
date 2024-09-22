@@ -76,7 +76,7 @@ approved English-language proficiency test. Three options are available:
 1.  [Test of English as a Foreign Language
     (TOEFL)](https://www.ets.org/)
 2.  [International English Language Testing System
-    (IELTS)](https://www.ielts.org/)
+    (IELTS)](https://ielts.org/)
 3.  [Michigan English Language Assessment Battery
     (MELAB)](https://michiganassessment.org/)
 
