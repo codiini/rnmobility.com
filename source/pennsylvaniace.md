@@ -19,33 +19,33 @@ page.
 #### Endorsements
 
 Click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Instr%20Grad%20Exam%20GTPP.pdf)to
+[here](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/department-and-offices/bpoa/nursing/Online-Instr-Grad-Exam-GTPP-02.28.23.pdf)to
 view [online endorsement application
-instructions](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Instr%20Grad%20Exam%20GTPP.pdf).
+instructions](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/department-and-offices/bpoa/nursing/Online-Instr-Grad-Exam-GTPP-02.28.23.pdf).
 Fees must be paid with credit or debit cards. You may also click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)to
+[here](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/Online%20Endorsement%20Combined%20Instructions.pdf)to
 view the [paper
-application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)
+application](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/Online%20Endorsement%20Combined%20Instructions.pdf)
 and instructions. Foreign educated nurses may need to complete the
 [Application for Licensure by Endorsement with Exam for Internationally
 Educated Practical
-Nurses](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Endorsement_Out_of_State.pdf).
+Nurses](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/Endorsement_Out_of_State.pdf).
 You may use this as a guide for the online application.
 
 Below are some of the general requirements for endorsement. View the
 [paper
-application](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/Online%20Endorsement%20Combined%20Instructions.pdf)
+application](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/Online%20Endorsement%20Combined%20Instructions.pdf)
 or call the PA State Board for more details.
 
 -   You will need to complete three hours of [board approved education
     for child
-    abuse](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Pages/Act-31.aspx).
+    abuse](https://www.pa.gov/en/agencies/dos/resources/professional-licensing-resources/act-31.html).
 
 -   \$100 application fee (\$135 + \$35 if additionally applying for a
     temporary license.)
 
 -   US Social Security number (or completed [waiver
-    form](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/SSN%20Waiver%20Form.pdf))
+    form](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/SSN%20Waiver%20Form.pdf))
 
 -   Official Transcripts (in English)
 
@@ -53,7 +53,7 @@ or call the PA State Board for more details.
     [Nursys](https://www.nursys.com), you may obtain verification at
     [www.nursys.com](https://www.nursys.com)
 
-[Renewal](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Pages/Renewal%20Information.aspx) takes
+[Renewal](https://www.pa.gov/en/agencies/dos/department-and-offices/bpoa/boards-commissions/nursing/renewal-information.html) takes
 place every two years and costs \$65. You may [renew
 online](https://www.pals.pa.gov/) or using the [paper
 application](https://www.pals.pa.gov).
@@ -70,7 +70,7 @@ years.
 #### Contact Information
 
 [Pennsylvania State Board of Nursing web
-address](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Pages/default.aspx)
+address](https://www.pa.gov/en/agencies/dos/department-and-offices/bpoa/boards-commissions/nursing.html)
 
 P.O. Box 2649, Harrisburg, PA 17105-2649
 
@@ -91,18 +91,18 @@ placed on hold before speaking with an agent.
 ### FAQ
 
 Click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/FAQs%20for%20End%20TPP.pdf)for
+[here](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/FAQs%20for%20End%20TPP.pdf)for
 [endorsement
-FAQs](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/FAQs%20for%20End%20TPP.pdf).
+FAQs](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/FAQs%20for%20End%20TPP.pdf).
 
 Click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/FAQ%20RNce.pdf)for
+[here](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/FAQ%20RNce.pdf)for
 continuing education
-[FAQs](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Documents/Applications%20and%20Forms/FAQ%20RNce.pdf).
+[FAQs](https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/professional-licensing/applications-and-forms/FAQ%20RNce.pdf).
 
 Click
-[here](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Pages/General-Information.aspx)for
+[here](https://www.pa.gov/en/agencies/dos/department-and-offices/bpoa/boards-commissions/nursing.html)for
 [general
-FAQs](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Nursing/Pages/General-Information.aspx).
+FAQs](https://www.pa.gov/en/agencies/dos/department-and-offices/bpoa/boards-commissions/nursing.html).
 
 * * * * *

@@ -70,7 +70,7 @@ resources.
 Foreign educated nurses must submit a Credentials Evaluation Report from
 either the [Commission on Graduates of Foreign Nursing Schools
 (CGFNS)](https://www.cgfns.org/) or [International Education Research
-Foundation (IERF).](https://www.ierf.org/) You must also pass an
+Foundation (IERF).](https://ierf.org/) You must also pass an
 approved English-language proficiency test. Three options are available:
 
 1.  [Test of English as a Foreign Language
