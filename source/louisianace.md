@@ -35,9 +35,9 @@ temporary permit.
 #### Endorsements
 
 Below is a general list of requirements for endorsements. Click
-[here](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/RNEndorsementApplication.pdf)to
+[here](https://www.lsbn.state.la.us/wp-content/uploads/aprn/APRNEndorsementApplication.pdf)to
 view the [endorsement
-application](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/RNEndorsementApplication.pdf).
+application](https://www.lsbn.state.la.us/wp-content/uploads/aprn/APRNEndorsementApplication.pdf).
 
 -   Proof of licensure from the state that you were originally licensed
     in, and
@@ -94,7 +94,7 @@ practicing for at leat 1600 hours will need at least 5 contact hours.
 Those practicing between 160 and 1600 hours will need at least 10
 contact hours. Registered nurses practicing less than 160 hours will
 need at least 15 contact hours. For more details, click
-[here](https://www.lsbn.state.la.us/Portals/1/Documents/Forms/CEReq.pdf).
+[here](https://www.lsbn.state.la.us/wp-content/uploads/rulemaking/chapter45finalrule.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/louisiana-acls-pals-bls)
 
@@ -129,13 +129,13 @@ License Renewal (225)755-7500 (225)755-7584 <renewals@lsbn.state.la.us>
 ### FAQ
 
 Frequently asked questions for [continuing nursing
-education](https://www.lsbn.state.la.us/FAQS/ContinuingEducation(CE)AuditFAQ.aspx)
+education](https://www.lsbn.state.la.us/continuing-education-faqs/)
 can be found
-[here](https://www.lsbn.state.la.us/FAQS/ContinuingEducation(CE)AuditFAQ.aspx).
+[here](https://www.lsbn.state.la.us/continuing-education-faqs/).
 
 Frequently asked questions for [renewing your license
-online](https://www.lsbn.state.la.us/FAQS/OnlineLicenseRenewalFAQ.aspx)
+online](https://www.lsbn.state.la.us/renewal-faqs/)
 can be found
-[here](https://www.lsbn.state.la.us/FAQS/OnlineLicenseRenewalFAQ.aspx).
+[here](https://www.lsbn.state.la.us/renewal-faqs/).
 
 * * * * *

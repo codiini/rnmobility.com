@@ -26,7 +26,7 @@ page.
 
 -   Proof of English proficiency if courses were not instructed in
     English, fore more information click
-    [here](https://www.mass.gov/eohhs/docs/dph/quality/boards/english-proficiency.pdf)
+    [here](https://www.mass.gov/doc/english-proficiency-exams/download)
 
 -   Passing NCLEX or State Board Test Pool Examination results
 
@@ -44,7 +44,7 @@ Click here to view the [Nursing by Reciprocity Eligibility
 Requirements](https://pcshq.com/?page=health,MA-n-ueligibilityrequirementsu)
 page.
 
-[Renewals](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/licensing/fees-and-renewals.html)should
+[Renewals](https://www.mass.gov/how-to/renew-your-nursing-license)should
 be completed by the day of your birth on even numbered years following
 your next birthday, it costs \$120 and may be completed online, click
 [here](https://onlineservices.hhs.state.ma.us/MyLicense%20Enterprise/)
@@ -67,11 +67,11 @@ Foreign Nursing Schools Evaluation (CGFNS). For more information click
 #### Continuing Competency
 
 You will be required to take 15 hours of [continuing
-education](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/continuing-education/)
+education](https://www.mass.gov/info-details/mandatory-continuing-education-for-nurses)
 between renewal periods. Click
-[here](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/continuing-education/)to
+[here](https://www.mass.gov/info-details/mandatory-continuing-education-for-nurses)to
 learn more about [continuing
-education](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/continuing-education/).
+education](https://www.mass.gov/info-details/mandatory-continuing-education-for-nurses).
 CE must include training on the issue of domestic and sexual violence as
 a condition of licensure and renewal.
 
@@ -81,7 +81,7 @@ a condition of licensure and renewal.
 
 Web address:
 
-[www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/)
+[https://www.mass.gov/orgs/board-of-registration-in-nursing](https://www.mass.gov/orgs/board-of-registration-in-nursing)
 
 Address
 
@@ -104,6 +104,6 @@ Fax number
 ### FAQ
 
 Click here for Massachusetts Board of Registration in Nursing
-[FAQs](https://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/).
+[FAQs](https://www.mass.gov/orgs/board-of-registration-in-nursing).
 
 * * * * *
