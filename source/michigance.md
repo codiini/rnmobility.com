@@ -20,7 +20,7 @@ page.
 
 Below are a few of the general requirements for endorsement, link can be
 found
-[here](https://www.michigan.gov/documents/lara/Nursing_517651_7.pdf):
+[here](https://www.michigan.gov/-/media/Project/Websites/lara/bpl/Nursing/Licensing-Info-and-Forms/Nursing-Licensing-Guide.pdf?rev=8fc64c2e6b2a479eb848d2ca29b574b4):
 
 -   Complete application with application fee
 
@@ -53,9 +53,9 @@ management. Click
 more details.
 
 Click
-[here](https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5093_28508-326590--,00.html)for
+[here](https://www.michigan.gov/mdhhs/inside-mdhhs/legislationpolicy/ems/Education-Information/Continuing-Education-Offered-By-The-Department)for
 information on [approved continuing
-education](https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5093_28508-326590--,00.html)
+education](https://www.michigan.gov/mdhhs/inside-mdhhs/legislationpolicy/ems/Education-Information/Continuing-Education-Offered-By-The-Department)
 courses.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/michigan-acls-pals-bls)
@@ -72,14 +72,14 @@ Lansing, MI 48909
 ​(517) 335-0918
 
 [Web
-Adress](https://www.michigan.gov/lara/0,4601,7-154-72600_72603_27529_27542---,00.html)
+Adress](https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/nursing)
 
 * * * * *
 
 ### FAQ
 
 A list of frequently asked questions can be found
-[here](https://www.michigan.gov/lara/0,4601,7-154-35299_63294_27529_27542---,00.html)
+[here](https://www.michigan.gov/lara/-/media/Project/Websites/lara/bpl/Nursing/Boards-and-FAQs/Nursing-FAQs.pdf?rev=a37a6b45bf8241c3a75c8cd20d2bca39&hash=94C16C32FBBD49B3A3DECF526918C483)
 and scroll to the bottom of the page.
 
 * * * * *

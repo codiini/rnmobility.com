@@ -94,6 +94,6 @@ Telephone: 601- 957-6311
 
 ### FAQ
 
-Click [here](https://www.msbn.ms.gov/faq)for frequently asked questions.
+Click [here](https://www.msbn.ms.gov/faqs)for frequently asked questions.
 
 * * * * *
