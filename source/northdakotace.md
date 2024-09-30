@@ -36,13 +36,13 @@ North Carolina. General instructions are listed below.
     course](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-refresher-courses).
 
 -   [Criminal background
-    check](https://www.ncbon.com/dcp/i/838a6f87-20aa-4e11-819f-af65db7042d7)
+    check](https://www.ncbon.com/criminal-background-check-live-scan)
     (\$38)
 
 -   US Social Security Number
 
 -   Completed [online
-    application.](https://www.ncbon.com/dcp/i/licensurelisting-licensure-by-endorsement-endorsement-application)
+    application.](https://www.ncbon.com/rn-lpn-endorsement)
     Fee is \$150
 
 -   Verification of licensure through
@@ -54,9 +54,9 @@ North Carolina. General instructions are listed below.
         confirmation page.
 
 Click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-licensure-by-endorsement-endorsement-requirements)to
+[here](https://www.ncbon.com/rn-lpn-endorsement)to
 view the North Carolina Board of Nursing [Endorsement
-Page](https://www.ncbon.com/dcp/i/licensurelisting-licensure-by-endorsement-endorsement-requirements).
+Page](https://www.ncbon.com/rn-lpn-endorsement).
 
 Renewals occur every two years on the last day of your birth month and
 cost \$100. Click
@@ -125,7 +125,7 @@ Hours of Operation: 8:00 a.m. - 5:00 p.m., Monday through Friday
 ### FAQ
 
 Click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-licensure-by-endorsement-faq--endorsement)for
+[here](https://www.ncbon.com/faq-licensure-endorsement)for
 endorsement FAQ.
 
 Click
