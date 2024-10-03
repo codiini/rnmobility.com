@@ -33,7 +33,7 @@ North Carolina. General instructions are listed below.
 
 -   Your license must be current. If it has been inactive or expired for
     five years or longer, you must take a [refresher
-    course](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-refresher-courses).
+    course](https://www.ncbon.com/rn-refresher-course).
 
 -   [Criminal background
     check](https://www.ncbon.com/criminal-background-check-live-scan)
@@ -64,13 +64,13 @@ cost \$100. Click
 go to the Board's[Renewal
 Requirements](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-renewal-requirements)
 page. Click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-licensure-by-renewal-rnlpn)to
+[here](https://www.ncbon.com/rnlpn-renewal)to
 go to the [online renewal
-application](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-licensure-by-renewal-rnlpn).
+application](https://www.ncbon.com/rnlpn-renewal).
 
 For foreign educated nurses please see the page for [Internationally
 Educated
-Applicants](https://www.ncbon.com/dcp/i/licensurelisting-licensure-by-examination-internationally-educated-applicants).
+Applicants](https://www.ncbon.com/submission-and-fee-information).
 
 #### Continuing Competency
 
@@ -90,9 +90,9 @@ to renew your license:
 -   Two semester hours of nursing-related academic coursework
 
 To view other options, click
-[here](https://www.ncbon.com/licensure-listing-continuing-competence)to
+[here](https://www.ncbon.com/rn-lpn-continuing-compentence)to
 go to the [Continuing Competency Requirements
-page](https://www.ncbon.com/licensure-listing-continuing-competence).
+page](https://www.ncbon.com/rn-lpn-continuing-compentence).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/north-carolina-acls-pals-bls)
 
@@ -129,7 +129,7 @@ Click
 endorsement FAQ.
 
 Click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-faq--renewal-reinstatement)for
+[here](https://www.ncbon.com/faq-renewalreinstatement)for
 renewal FAQ.
 
 * * * * *

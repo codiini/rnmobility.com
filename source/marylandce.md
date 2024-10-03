@@ -52,8 +52,8 @@ General instructions are listed below.
 -   For fingerprint card, please contact this email address:
     [mdbon\_nets@dhmh.state.md.us](mailto:mdbon_nets@dhmh.state.md.us?subject=Fingerprint%20Card&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20need%20to%20send%20an%20email%20here%20for%20my%20fingerprint%20card.%20Can%20you%20send%20me%20one%20so%20I%20can%20get%20licensed%20in%20Maryland%3F)
 
-Maryland is a [compact state](https://www.ncsbn.org/Maryland.htm). Click
-[here](https://www.ncsbn.org/Maryland.htm)for more information.
+Maryland is a [compact state](https://www.ncsbn.org/bon-member-details/Maryland). Click
+[here](https://www.ncsbn.org/bon-member-details/Maryland)for more information.
 
 Renewals can be completed online for \$146 and take place every two
 years.

@@ -30,7 +30,7 @@ via telephone, fax or via email, or you may also [download the
 application
 form](https://ibn.idaho.gov/IBNPortal/IBN/UPDATED%20FORMS%202009/Licensure_by_Endorsement_RN.pdf).
 You cannot declare another [compact
-state](https://www.ncsbn.org/nurse-licensure-compact.htm) as your
+state](https://www.nursecompact.com/how-it-works/applying-for-licensure.page) as your
 primary state of residence if you are applying for an endorsement of
 license.
 
