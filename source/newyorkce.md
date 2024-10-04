@@ -29,7 +29,7 @@ Proof of completion of an [approved RN training
 program](https://www.op.nysed.gov/professions-index/nursing)
 
 Completion of a mandatory course in [identification and reporting of
-child abuse](https://www.op.nysed.gov/training/camemo.htm)
+child abuse](https://www.op.nysed.gov/about/training-continuing-education/child-abuse-identification-reporting)
 
 Completion of an [infectious control
 course](https://www.op.nysed.gov/about/training-continuing-education/infection-control)
