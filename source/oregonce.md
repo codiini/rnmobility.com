@@ -23,7 +23,7 @@ page.
 -   Online application
     [link](https://osbn.oregon.gov/OBNPortal/DesktopDefault.aspx?tabindex=0&tabid=5)
 
--   [Download](https://www.oregon.gov/osbn/Documents/Form_LIC-102FOR.pdf) paper
+-   [Download](https://www.oregon.gov/osbn/Documents/Form_LIC-616.pdf) paper
     application.
 
 -   Application fee is \$204.
@@ -33,7 +33,7 @@ page.
 -   Background check conducted by OSBN is required. Applicants will be
     charged a separate fee of \$64.50 by Fieldprint Inc.
 
--   Fingerprinting[FAQ](https://www.oregon.gov/OSBN/Documents/FAQ_FingerprintBackgroundChecks.pdf)
+-   Fingerprinting[FAQ](https://www.oregon.gov/odhs/background-checks/pages/fingerprinting.aspx)
 
 If you are currently licensed and in good standing in the US or one of
 it's territories, you may be elibible for endorsement. Formerly licensed
@@ -71,7 +71,7 @@ Oregon, unlike many other states, does not necessarily have a continuing
 education requirement. There is a required seven hour pain management
 course that is taken online; however, it does not keep an RN from their
 license. Click
-[here](https://www.oregon.gov/oha/ohpr/pmc/Pages/index.aspx)for more
+[here](https://www.oregon.gov/oha/hpa/dsi-pmc/pages/index.aspx)for more
 information.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oregon-acls-pals-bls)
