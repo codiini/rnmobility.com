@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Nevada RN: Endorsement, renewal & CE for license'
-description: "Nevada RN license: Endorsement, renewal, & continuing ed. Stay current & meet nursing profession needs.\r"
+description: "Nevada RN license: Endorsement, renewal, & continuing ed. Stay current & meet nursing profession needs."
 heading: "Nevada"
 state: NV
 statename: Nevada

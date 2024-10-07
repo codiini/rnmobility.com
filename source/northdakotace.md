@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'North Dakota RN: CE & endorsement for license renewal'
-description: "North Dakota RN license: Endorsement, renewal, & continuing ed. Keep credentials valid & up to date.\r"
+description: "North Dakota RN license: Endorsement, renewal, & continuing ed. Keep credentials valid & up to date."
 heading: "North Dakota"
 state: ND
 statename: North Dakota

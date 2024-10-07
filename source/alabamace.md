@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Alabama: RN License Transfer, Renewal & Continuing Ed'
-description: "Learn license transfer, renewal, & continuing education for RNs in Alabama. Follow steps to keep your license up-to-date.\r"
+description: "Learn license transfer, renewal, & continuing education for RNs in Alabama. Follow steps to keep your license up-to-date."
 heading: 'Alabama'
 state: AL
 statename: Alabama

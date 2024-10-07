@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Vermont RN: Renewal & CE for license endorsement'
-description: "Vermont RN license: endorsement, renewal & continuing education guide. Stay updated & meet nursing requirements.\r"
+description: "Vermont RN license: endorsement, renewal & continuing education guide. Stay updated & meet nursing requirements."
 heading: "Vermont"
 state: VT
 statename: Vermont

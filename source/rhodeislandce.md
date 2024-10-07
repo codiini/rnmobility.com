@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Rhode Island RN: Renewal & CE for license endorsement'
-description: "Rhode Island RN license: Endorsement, renewal, & continuing ed. Keep license current & meet criteria.\r"
+description: "Rhode Island RN license: Endorsement, renewal, & continuing ed. Keep license current & meet criteria."
 heading: "Rhode Island"
 state: RI
 statename: Rhode Island

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Texas RN: Endorsement, renewal & CE for license'
-description: "Texas RN license: endorsement, renewal & continuing education info. Stay informed & meet nursing requirements in the state.\r"
+description: "Texas RN license: endorsement, renewal & continuing education info. Stay informed & meet nursing requirements in the state."
 heading: "Texas"
 state: TX
 statename: Texas

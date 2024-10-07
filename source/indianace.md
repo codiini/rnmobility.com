@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Indiana: RN License Renewal & Endorsement Education'
-description: "Understand the process of registered nurse license endorsement, renewal, and continuing education in Indiana. Maintain your nursing license with ease.\r"
+description: "Understand the process of registered nurse license endorsement, renewal, and continuing education in Indiana. Maintain your nursing license with ease."
 heading: "Indiana"
 state: IN
 statename: Indiana

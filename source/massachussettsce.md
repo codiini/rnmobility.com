@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Massachusetts: RN License Renewal & Continuing Ed'
-description: "Explore the details of registered nurse license endorsement, renewal, and continuing education in Massachusetts. Enhance your nursing knowledge and skills.\r"
+description: "Explore the details of registered nurse license endorsement, renewal, and continuing education in Massachusetts. Enhance your nursing knowledge and skills."
 heading: "Massachusetts"
 state: MA
 statename: Massachusetts

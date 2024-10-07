@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Delaware: RN License Renewal & Continuing Ed'
-description: "Learn the essentials of registered nurse license endorsement, renewal, and continuing education in Delaware. Stay compliant with your nursing license.\r"
+description: "Learn the essentials of registered nurse license endorsement, renewal, and continuing education in Delaware. Stay compliant with your nursing license."
 heading: 'Delaware'
 state: DE
 statename: Delaware

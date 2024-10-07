@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Kentucky: RN License Renewal & Endorsement Education'
-description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kentucky. Maintain your nursing license with ease.\r"
+description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kentucky. Maintain your nursing license with ease."
 heading: "Kentucky"
 state: KY
 statename: Kentucky

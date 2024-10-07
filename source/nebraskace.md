@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Nebraska RN: Renewal & CE for license endorsement'
-description: "Nebraska RN license: Endorsement, renewal, & continuing ed. Keep license updated & maintain professional status.\r"
+description: "Nebraska RN license: Endorsement, renewal, & continuing ed. Keep license updated & maintain professional status."
 heading: "Nebraska"
 state: NE
 statename: Nebraska

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'North Carolina RN: Endorsement, renewal & CE for license'
-description: "North Carolina RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career.\r"
+description: "North Carolina RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career."
 heading: "North Carolina"
 state: NC
 statename: North Carolina

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'New Jersey RN: CE & endorsement for license renewal'
-description: "New Jersey RN license: Endorsement, renewal, & continuing ed. Stay compliant & enhance nursing skills.\r"
+description: "New Jersey RN license: Endorsement, renewal, & continuing ed. Stay compliant & enhance nursing skills."
 heading: "New Jersey"
 state: NJ
 statename: New Jersey

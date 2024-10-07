@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Tennessee RN: Renewal & CE for license endorsement'
-description: "Tennessee RN license: endorsement, renewal & continuing education basics. Comply & advance your nursing career in the state.\r"
+description: "Tennessee RN license: endorsement, renewal & continuing education basics. Comply & advance your nursing career in the state."
 heading: "Tennessee"
 state: TN
 statename: Tennessee

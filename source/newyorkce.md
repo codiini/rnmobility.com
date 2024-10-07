@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'New York RN: Renewal & CE for license endorsement'
-description: "New York RN license: Endorsement, renewal, & continuing ed. Stay updated & maintain nursing license.\r"
+description: "New York RN license: Endorsement, renewal, & continuing ed. Stay updated & maintain nursing license."
 heading: "New York"
 state: NY
 statename: New York

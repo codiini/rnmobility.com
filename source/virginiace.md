@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Virginia RN: Endorsement, renewal & CE for license'
-description: "Virginia RN license: endorsement, renewal & continuing education explained. Stay informed & meet nursing requirements.\r"
+description: "Virginia RN license: endorsement, renewal & continuing education explained. Stay informed & meet nursing requirements."
 heading: "Virginia"
 state: VA
 statename: Virginia

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'South Dakota RN: CE & endorsement for license renewal'
-description: "Get the facts about registered nurse license endorsement, renewal, and continuing education in South Dakota. Keep your nursing credentials valid and up to date.\r"
+description: "Get the facts about registered nurse license endorsement, renewal, and continuing education in South Dakota. Keep your nursing credentials valid and up to date."
 heading: "South Dakota"
 state: SD
 statename: South Dakota

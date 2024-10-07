@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Registered nurse license endorsement, renewal, and CE in NH"
-description: "Familiarize yourself with the process of registered nurse license endorsement, renewal, and continuing education in New Hampshire.\r"
+description: "Familiarize yourself with the process of registered nurse license endorsement, renewal, and continuing education in New Hampshire."
 heading: "New Hampshire"
 state: NH
 statename: New Hampshire

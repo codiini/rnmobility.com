@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Utah RN: CE & endorsement for license renewal'
-description: "Utah RN license: endorsement, renewal & continuing education essentials. Comply & advance your nursing career in the state.\r"
+description: "Utah RN license: endorsement, renewal & continuing education essentials. Comply & advance your nursing career in the state."
 heading: "Utah"
 state: UT
 statename: Utah

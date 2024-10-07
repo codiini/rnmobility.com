@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Kansas: RN License Endorsement, Renewal & Ed'
-description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kansas. Stay up-to-date with your nursing credentials.\r"
+description: "Learn the basics of registered nurse license endorsement, renewal, and continuing education in Kansas. Stay up-to-date with your nursing credentials."
 heading: "Kansas"
 state: KS
 statename: Kansas

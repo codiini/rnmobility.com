@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Pennsylvania RN: CE & endorsement for license renewal'
-description: "Pennsylvania RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career.\r"
+description: "Pennsylvania RN license: Endorsement, renewal, & continuing ed. Stay compliant & advance your career."
 heading: "Pennsylvania"
 state: PA
 statename: Pennsylvania

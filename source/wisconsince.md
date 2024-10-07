@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Wisconsin RN: CE & endorsement for license renewal'
-description: "Wisconsin RN license: endorsement, renewal & continuing education essentials. Stay informed & meet nursing requirements.\r"
+description: "Wisconsin RN license: endorsement, renewal & continuing education essentials. Stay informed & meet nursing requirements."
 heading: "Wisconsin"
 state: WI
 statename: Wisconsin

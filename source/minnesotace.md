@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Minnesota: RN License Renewal & Endorsement Education'
-description: "Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Minnesota. Stay compliant with your nursing license.\r"
+description: "Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Minnesota. Stay compliant with your nursing license."
 heading: Minnesota
 state: MN
 statename: Minnesota

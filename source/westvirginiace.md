@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'West Virginia RN: Endorsement, renewal & CE for license'
-description: "West Virginia RN license: endorsement, renewal & continuing education info. Comply & advance your nursing career.\r"
+description: "West Virginia RN license: endorsement, renewal & continuing education info. Comply & advance your nursing career."
 heading: "West Virgina"
 state: WV
 statename: West Virgina

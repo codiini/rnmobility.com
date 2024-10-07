@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Oregon RN: Endorsement, renewal & CE for license'
-description: "Oregon RN license: Endorsement, renewal, & continuing ed. Stay updated & meet nursing license requirements.\r"
+description: "Oregon RN license: Endorsement, renewal, & continuing ed. Stay updated & meet nursing license requirements."
 heading: "Oregon"
 state: OR
 statename: Oregon
