@@ -41,7 +41,7 @@ You may renew your license online for a fee of $90. You must verify that you hav
 
 South Dakota does not have a continuing education requirement for renewal. If you cannot demonstrate the minimum work requirement, then you will have to take an 80 hour [refresher course](https://doh.sd.gov/boards/nursing/Refreshers.aspx).
 
-Click [here](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/) to view the [licensure and renewal page](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/). Foreign educated nurses can click [here](https://doh.sd.gov/boards/nursing/assets/ForeignLPNRNbyExam.pdf) for more information.
+Click [here](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/) to view the [licensure and renewal page](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/). Foreign educated nurses can click [here](https://doh.sd.gov/media/xekhhaov/internationalrnlpnendorsement.pdf) for more information.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-dakota-acls-pals-bls)
 

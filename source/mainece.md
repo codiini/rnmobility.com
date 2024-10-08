@@ -50,7 +50,7 @@ page](https://www.maine.gov/boardofnursing/licensing/endorsement.html).
 Your initial Maine license will be valid for at least one year.
 
 Subsequent renewals take place every two years. You may renew
-[online](https://www1.maine.gov/cgi-bin/online/licensing/begin.pl?board_number=1310)
+[online](https://licensing.web.maine.gov/cgi-bin/online/licensing/begin.pl?board_number=1310)
 for \$75.
 
 #### Licensing FAQ

@@ -19,7 +19,7 @@ The following is a list of general requirements for licensure by endorsement in 
     
 *   Passing NCLEX or SBTPE results
     
-*   Complete [application](https://doh.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/RN%20Endorsement%20Application.pdf) with fee of $230
+*   Complete [application](https://dchealth.dc.gov/sites/default/files/dc/sites/doh/page_content/attachments/REGISTERED%20NURSE%20ENDORSEMENT%20APPLICATION%204%2026%202019_0.pdf) with fee of $230
     
 *   Two 2x2 passport style photos
     
@@ -34,7 +34,7 @@ Your RN licence will expire on the 30th of June during even numbered years. You 
 
 #### Continuing Competency
 
-You have several options for fulfilling your continuing competency requirments. You may complete 24 contact hours of continuing education. You may also fulfill the requirements by teaching or by editing or authorship. View the "Continuing Education Requirements for Renewal" portion of the [Application for Licensure by Endorsement](https://doh.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/RN%20Endorsement%20Application.pdf) For more details.
+You have several options for fulfilling your continuing competency requirments. You may complete 24 contact hours of continuing education. You may also fulfill the requirements by teaching or by editing or authorship. View the "Continuing Education Requirements for Renewal" portion of the [Application for Licensure by Endorsement](https://dchealth.dc.gov/sites/default/files/dc/sites/doh/page_content/attachments/REGISTERED%20NURSE%20ENDORSEMENT%20APPLICATION%204%2026%202019_0.pdf) For more details.
 
 #### Contact Information
 
