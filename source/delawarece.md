@@ -58,9 +58,7 @@ General instructions are listed below.
     [www.nursys.com](https://www.nursys.com) or a Verification of
     Original License form found on the application.
 
--   US Social Security Number or a [Request for
-    Exemption](https://dprfiles.delaware.gov/documents/Request_Exemption_SSN_Req.pdf)
-    form
+-   US Social Security Number or a request for exemption form.
 
 #### Continuing Competency
 

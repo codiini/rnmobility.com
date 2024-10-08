@@ -60,8 +60,7 @@ Continuing Education is not required in Colorado.
 
 #### Contact Information
 
-[Colorado Board of
-Nursing](https://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632229493&pagename=CBONWrapper)Division
+Colorado Board of Nursing Division
 of Professions and Occupations,
 
 1560 Broadway, Suite 1350

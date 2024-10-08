@@ -36,7 +36,7 @@ page.
     Report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/)
 
 -   Two contact hours regarding [Category A, Ohio Law and
-    Rules](https://codes.ohio.gov/oac/4723-14-03v1)
+    Rules](https://codes.ohio.gov/ohio-administrative-code/rule-4723-14-03)
 
 -   For more information and to view the application, click
     [here](https://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
@@ -50,7 +50,7 @@ Ohio state law.
 
 You will need to complete at least 24 contact hours and at least one
 must be from [Category
-A](https://codes.ohio.gov/oac/4723-14-03v1).
+A](https://codes.ohio.gov/ohio-administrative-code/rule-4723-14-03).
 If your endorsement will cause you to have less than 12 months of
 practice by the time of your renewal, you will only need 12 contact
 hours.

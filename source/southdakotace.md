@@ -39,7 +39,7 @@ South Dakota is a compact state. If you are moving to South Dakota or claiming i
 
 You may renew your license online for a fee of $90. You must verify that you have worked either 140 hours in the last 12 months or 480 hours in the last six years as a registered nurse.
 
-South Dakota does not have a continuing education requirement for renewal. If you cannot demonstrate the minimum work requirement, then you will have to take an 80 hour [refresher course](https://doh.sd.gov/boards/nursing/Refreshers.aspx).
+South Dakota does not have a continuing education requirement for renewal. If you cannot demonstrate the minimum work requirement, then you will have to take an 80 hour [refresher course](https://sdlegislature.gov/Rules/Administrative/20:48:03:17).
 
 Click [here](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/) to view the [licensure and renewal page](https://doh.sd.gov/licensing-and-records/boards/nurses-facility-administrators/licensing-requirements/). Foreign educated nurses can click [here](https://doh.sd.gov/media/xekhhaov/internationalrnlpnendorsement.pdf) for more information.
 
@@ -62,6 +62,6 @@ Fax number: 605.362.2768
 
 ### FAQ
 
-Click here to view South Dakota Nursing Board's [FAQ](https://doh.sd.gov/boards/nursing/faq.aspx) page.
+Click here to view [South Dakota Nursing Board's](https://www.sdbon.org/) page.
 
 * * *
