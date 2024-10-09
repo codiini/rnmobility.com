@@ -71,7 +71,7 @@ should also be included. These can be found at
 [www.nursys.com](https://www.nursys.com/) or at
 [www.azbn.gov/RNLPNEndorsement](https://www.azbn.gov/licenses-certifications/apply-for-a-license)
 Applicants should provide proof of lawful presence in the United States.
-Click [here](https://www.azbn.gov/Citizenship)for a list of acceptable
+Click [here](https://www.azbn.gov/licenses-certifications/citizenship-and-alien-status)for a list of acceptable
 documents.
 
 Note: Those with prior licensure in AZ must apply for renewal, not
@@ -84,7 +84,7 @@ go to
 [https://myservices.azbn.gov/Login.asp](https://myservices.azbn.gov/Login.asp "Arizona State Board Renewal Page").
 
 Arizona has information on refresher courses at
-[https://www.azbn.gov/sites/default/files/nursing-lists/refresherprograms3-28-192.pdf](https://www.azbn.gov/sites/default/files/nursing-lists/refresherprograms3-28-192.pdf "refresher course information").
+[https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf](https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf "refresher course information").
 
 #### Continuing Competency
 
@@ -94,7 +94,7 @@ The board requires that you have worked at least 960 hours in the last
 five years in order to renew your license. If you have not met the
 minimum number of hours, you may take a refresher course. Arizona Board
 approved refresher courses can be found
-[here](https://www.azbn.gov/sites/default/files/nursing-lists/refresherprograms3-28-192.pdf).
+[here](https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/arizona-acls-pals-bls)
 

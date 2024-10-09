@@ -84,6 +84,6 @@ Email:
 
 ### FAQ
 
-Click [here](https://pr.mo.gov/nursing-faq.asp)for FAQs
+Click [here](https://pr.mo.gov/nursing-advanced-practice-faq.asp)for FAQs
 
 * * * * *
