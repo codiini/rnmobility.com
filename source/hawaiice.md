@@ -38,7 +38,7 @@ page.
     \$30.
 
 Renewals are completed
-[online](https://pvl.ehawaii.gov/mypvl/welcome.html?returnUri=https%3A%2F%2Fpvl.ehawaii.gov%2Fmypvl%2Findex.html%3Bjsessionid%3DA785589F115F334BB16E4CE57F3A5D7F.lana)every
+[online](https://cca.hawaii.gov/pvl/boards/nursing/) every
 odd numbered year on the 30th of June
 
 To view the [requirements for endorsement and
@@ -46,20 +46,20 @@ application](https://cca.hawaii.gov/pvl/boards/nursing/application_publications/
 [click
 here.](https://cca.hawaii.gov/pvl/boards/nursing/application_publications/)
 
-As of 2015 all renewals will be completed through the [MyPVL online
+All renewals are completed through the [MyPVL online
 renewal
 portal](https://cca.hawaii.gov/pvl/boards/nursing/application_publications/).
 
 For Canadian nurses - CNATE is not recognized by the Hawaii Board of
 Nursing.
 
-#### Continuing Competency
+#### Continuing competency
 
 There are no continuing education requirements for RNs in Hawaii.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/hawaii-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Physical Address
 

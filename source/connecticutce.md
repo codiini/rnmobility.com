@@ -9,72 +9,41 @@ published: true
 motto: 'Welcome to the Constitution state!'
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for healthcare professions can differ between states. It is essential to understand what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
-#### Endorsements
+**Endorsements**
 
-Complete, notarized
-[application](https://www.ct.gov/dph/lib/dph/practitioner_licensing_and_investigations/plis/nursing/rn/rn_app_only.pdf)with
-\$180 application fee
+To apply for RN licensure by endorsement in Connecticut, you must submit the following:
 
-A recent photo
+- A **$180 application fee** (all applications must be submitted online).
+- A completed and notarized [online application](https://www.elicense.ct.gov/).
+- A recent passport-style photograph.
+- Proof of graduation from an approved nursing program.
+- Verification of your nursing license either via [Nursys](https://www.nursys.com/) or by submitting a [Verification of Nurse Licensure form](https://portal.ct.gov/dph/practitioner-licensing--investigations/registered-nurse/registered-nurse-licensure) if your state does not participate in Nursys.
 
-Application may also be completed
-[online](https://www.elicense.ct.gov/).
+For foreign-educated nurses, you must submit a **Credentials Evaluation Service (CES) Professional Report** through the [CGFNS](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/).
 
-Documents proving your completion of an approved nursing program
+A **120-day temporary permit** is available for nurses holding valid licenses in another U.S. state while awaiting full licensure [oai_citation:7,Registered Nurse Licensure](https://portal.ct.gov/dph/practitioner-licensing--investigations/registered-nurse/registered-nurse-licensure) [oai_citation:6,RN Licensure by Endorsement](https://portal.ct.gov/dph/practitioner-licensing--investigations/registered-nurse/rn-licensure-by-endorsement).
 
-Foreign transcripts should be verified by [Credentials Evaluation
-Service Professional
-Report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/)
+**Renewals**
 
-Complete [Verification of Nurse
-Licensure](https://www.ct.gov/dph/lib/dph/practitioner_licensing_and_investigations/plis/nursing/rn/rn_licverif_form.pdf)
-form or verification through [www.nursys.com](https://www.nursys.com/)
+Renewals are completed **online** and cost **$110**. Nurses must also comply with mandatory reporting requirements related to abuse, neglect, and exploitation. For more details on mandatory reporting, click [here](https://portal.ct.gov/dph/practitioner-licensing--investigations/plis/mandatory-reporters-of-abuse-neglect-exploitation-and-impaired-practitioners) [oai_citation:5,Nursing Licensure](https://portal.ct.gov/dph/practitioner-licensing--investigations/nursing/nursing-licensure).
 
-A temporary permit may be issued as well for 120 days.
+**Continuing Education**
 
-Click here for a link to the [RN Licensure by
-Endorsement](https://www.ct.gov/dph/cwp/view.asp?a=3121&q=389428&dphNav_GID=1821)
-page
+Continuing education is **not required** for RN license renewal in Connecticut [oai_citation:4,Nursing Licensure](https://portal.ct.gov/dph/practitioner-licensing--investigations/nursing/nursing-licensure).
 
-Renewals are completed online and cost \$110
+**This state requires nurses to hold current [ACLS certification](https://www.acls.net/connecticut-acls-pals-bls).**
 
-You will be required to report abuse, exploitation and neglect. Click
-[here](https://www.ct.gov/dph/cwp/view.asp?a=3121&q=389520&dphNav=|&dphNav_GID=1821)to
-learn more.
+**Contact information**
 
-#### Continuing Education
-
-Continuing Education is not required for the state of Connecticut.
-
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/connecticut-acls-pals-bls)
-
-### Contact Information
-
-Board of Examiners for Nursing
-
-Web address:
-[https://www.ct.gov/dph/cwp/view.asp?a=3143&q=388910](https://www.ct.gov/dph/cwp/view.asp?a=3143&q=388910)
-
-Mailing address:
-
-410 Capitol Ave, MS\# 12 APP
-P. O. Box 340308
+Board of Examiners for Nursing  
+Connecticut Department of Public Health  
+410 Capitol Ave, MS #12 APP  
+P.O. Box 340308  
 Hartford, CT 06134-0308
 
-This office does not meet with visitors who do not have a scheduled
-appointment.
-
-Licensure/Examination Information
-
-Phone number: 860-509-7603 - Press Menu Option Two
-
-Fax number: (860) 707-1984
-
-Email: <oplc.dph@ct.gov>
+Phone: **860-509-7603** (Menu Option 2)  
+Fax: **(860) 707-1984**  
+Email: <oplc.dph@ct.gov>  
+Office Hours: **Monday - Friday 8 a.m. to 5 p.m.**

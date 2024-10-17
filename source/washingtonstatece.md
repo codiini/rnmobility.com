@@ -24,7 +24,7 @@ To apply for a license via endorsement in Washington, you need:
 
 See the endorsement application [here](https://doh.wa.gov/sites/default/files/legacy/Documents/Pubs/667039.pdf).
 
-#### Continuing Competency
+#### Continuing competency
 
 For endorsement, a seven-hour AIDS course is required. No minimum practice hours are necessary unless you trained at Excelsior or outside the US. For those trained outside the US, the Nursing Commission may require a minimum of 1,000 practice hours.
 
@@ -38,22 +38,22 @@ More on continuing competency [here](https://doh.wa.gov/sites/default/files/lega
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/washington-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Mail correspondence with any fees to:
 
-P.O. Box 1099
+P.O. Box 1099  
 Olympia, WA 98507-1099
 
 If not mailing fees, send mail to:
 
-P.O. Box 47864
+P.O. Box 47864  
 Olympia, WA 98504-7864
 
 For visiting in person or other inquiries:
 
-111 Israel Rd. S.E.
-Tumwater, WA
+111 Israel Rd. S.E.  
+Tumwater, WA  
 98501
 
 Email, phone, fax:

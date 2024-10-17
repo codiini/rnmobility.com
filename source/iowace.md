@@ -10,103 +10,42 @@ motto: 'Welcome to the Hawkeye state!'
 compact: true
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some healthcare professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
 #### Endorsements
 
-Iowa is a compact state. If you are moving to Iowa or claiming it as
-your primary state of residence, you will need to apply for application
-by endorsement in order to use your license in Iowa. General
-instructions are listed below.
+Iowa is a compact state. If you are moving to Iowa or claiming it as your primary state of residence, you will need to apply for licensure by endorsement to use your license in Iowa. General instructions are listed below:
 
--   You must be a graduate of a Board approved nursing school
+- You must be a graduate of a Board-approved nursing school.
+- Passing NCLEX results are required.
+- Complete an [online application](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index) or request a paper application via email (<newnurse@iowa.gov>) or phone (515-281-4826).
+- The application fee is \$169 (which includes a \$50 criminal background check fee).
+- [Fingerprint cards](https://dial.iowa.gov/media/159/download?inline) and a background check are mandatory.
+- Submit an official transcript.
+- Provide license verification through [Nursys](https://www.nursys.com) or the [Verification of Original License Form](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/nursing-licensure/verify-license-status).
+- Foreign-educated nurses must submit a Professional Report from the [CGFNS Credentials Evaluation Service](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-academic-report/).
 
--   Passing NCLEX results
+For more details, visit Iowa's [endorsement page](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/nursing-licensure/how-do-i-licensure-endorsement).
 
--   Completed
-    [online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index)or,
-    paper application
+You may renew your license [online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index) for \$99. Renewal occurs every three years. Renewal must be completed 30 days prior to the 15th of your birth month; after this date, a \$50 late fee will be incurred [oai_citation:8,License Renewals | Department of Inspections, Appeals, & Licensing](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/nursing-licensure/renewals) [oai_citation:7,Board of Nursing | Department of Inspections, Appeals, & Licensing](https://dial.iowa.gov/about-dial/boards-0/board-nursing).
 
-  -   Fee of \$169 (Application fee includes \$119 for the application
-    - \$50 Criminal Background Check fee)
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/iowa-acls-pals-bls).
 
-  -   Paper application can be requested by phone or email
+#### Continuing competency
 
-    -   <newnurse@iowa.gov>
+You must complete a [Mandatory Abuse Course](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/continuing-education/mandatory-reporter-course-info) every five years. Additionally, for your first renewal, 24 contact hours (2.4 continuing education units) are required, and for subsequent renewals, 36 contact hours (3.6 continuing education units) are required. To view Iowa's [continuing education page](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery), click [here](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery) [oai_citation:6,Nursing Licensure | Department of Inspections, Appeals, & Licensing](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/nursing-licensure) [oai_citation:5,REGISTERED NURSE (RN)](https://publications.iowa.gov/3135/1/registerednurse.pdf).
 
-    -   515.281.4826
+#### Contact information
 
-  -   You may also download the paper application
-        [here](https://nursing.iowa.gov/sites/default/files/media/Endorsement%20Form%2011%202014.pdf).
+[Iowa Board of Nursing](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery)
 
--   [Fingerprint
-    cards](https://nursing.iowa.gov/sites/default/files/fingerprint_card_instructions_03_27_18.pdf)
-    and background check. To view the [Waiver form for Iowa State board
-    to complete background
-    check](https://nursing.iowa.gov/sites/default/files/documents/2018/02/criminal-history-waiver-12-17.pdf)
-    click
-    [here.](https://nursing.iowa.gov/sites/default/files/documents/2018/02/criminal-history-waiver-12-17.pdf)
-
--   Official transcript
-
--   [Verification of Original License
-    Form](https://nursing.iowa.gov/sites/default/files/documents/2018/06/verification_of_original_license_2018_06_15.pdf)
-    or verification through [www.nursys.com](https://www.nursys.com)
-
--   Foreign educated nurses must submit a Professional Report from the
-    [CGFNS Credentials Evaluation
-    Service.](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-academic-report/)
-
-To view Iowa's [endorsement
-page](https://nursing.iowa.gov/licensure/endorsement-licensure-another-state),
-click
-[here](https://nursing.iowa.gov/licensure/endorsement-licensure-another-state).
-
-You may renew your license
-[online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index)for
-\$99. Renewal occurs every three years. Renewal must occur 30 days prior
-to the 15th of licensee’s birth month; after this date it will be
-considered late and an additional \$50 late fee will be incurred.
-
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/iowa-acls-pals-bls)
-
-#### Continuing Competency
-
-You must complete a [Mandatory Abuse
-Course](https://nursing.iowa.gov/licensure/mandatory-reporters-child-and-adult-abuse-required-course)
-every five years. You are also required to complete 2.4 continuing
-education units (24 contact hours) for your first renewal and 3.6 units
-(36 contact hours) for subsequent renewals. To view Iowa's [continuing
-education](https://nursing.iowa.gov/continuing-education) page click
-[here](https://nursing.iowa.gov/continuing-education).
-
-#### Contact Information
-
-[Iowa Board of Nursing](https://nursing.iowa.gov/whats-new)
-
-Address
-
-400 S.W. 8th Street
-Suite B
+**Address:**
+400 S.W. 8th Street  
+Suite B  
 Des Moines, IA 50309
 
-Phone number: (515) 281-3255
+**Phone:** (515) 281-3255  
+**Fax:** (515) 281-4825  
+**Email:** <nursing@sos.iowa.gov>
 
-Fax number: (515) 281-4825
-
-Hours of operation: 8:00 am– 4:30 pm Monday through Friday
-
-* * * * *
-
-### FAQ
-
-Click [here](https://nursing.iowa.gov/licensure/licensure-faq)to view
-[Iowa's Licensure FAQ
-page](https://nursing.iowa.gov/licensure/licensure-faq).
-
-* * * * *
+**Hours of Operation:** 8:00 am– 4:30 pm Monday through Friday

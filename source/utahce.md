@@ -18,9 +18,9 @@ Utah is a compact state. If you are moving to Utah or claiming it as your primar
 
 *   Completed [paper](http://www.dopl.utah.gov/apps/RN_LPN.pdf) or online application
     
-*   verification of licensure
+*   Verification of licensure
     
-  *   must include education and exam details
+  *   Must include education and exam details
         
 *   Foreign graduates must include [CGFNS](https://www.cgfns.org) and [CES](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-academic-report/) reports as well as one of the following criteria has been met in the last five years:
     
@@ -33,7 +33,7 @@ Utah is a compact state. If you are moving to Utah or claiming it as your primar
 *   Foreign graduates may also demonstrate that they have practiced for 6,000 hours as a licensed RN
     
 
-You must renew your license [online](http://www.dopl.utah.gov/renewal.html) or by using the [paper application](http://www.dopl.utah.gov/renewal/RN.pdf). Renewal cost $58 and takes place every two years.
+You must renew your license [online](http://www.dopl.utah.gov/renewal.html) or by using the [paper application](http://www.dopl.utah.gov/renewal/RN.pdf). Renewal costs $58 and takes place every two years.
 
 You are required to complete one of the following for continued competency:
 
@@ -44,18 +44,18 @@ You are required to complete one of the following for continued competency:
 *   30 hours of continuing education
     
 
+
 All continuing education hours must be Board approved.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/utah-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 [State of Utah Department of Commerce Division of Occupational and Professional Licensing](http://www.dopl.utah.gov/licensing/nursing.html)
 
-Heber M. Wells Bldg., 4th Floor
-160 East 300 South
-Salt Lake City, UT
-84111
+Heber M. Wells Bldg., 4th Floor  
+160 East 300 South  
+Salt Lake City, UT 84111
 
 Phone number: 801.530.6628
 

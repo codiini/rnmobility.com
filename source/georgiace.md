@@ -1,115 +1,60 @@
 ---
 layout: page
-title: 'RN license in Georgia, endorsements and ACLS certification you need'
-description: "RNs must complete continuing education and competency requirements. Be sure to complete the continuing education requirements before 31 January if your license expires in that month."
+title: 'RN License in Georgia, Endorsements and ACLS Certification You Need'
+description: "RNs must complete continuing education and competency requirements. Be sure to complete the continuing education requirements before January 31 if your license expires in that month."
 heading: 'Georgia'
 state: GA
 statename: Georgia
 published: true
-motto: 'Welcome to the Peach state!'
+motto: 'Welcome to the Peach State!'
 compact: true
 ---
-    
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some healthcare professions vary between states. This is why it’s important to understand what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
 #### Endorsements
 
--   Complete, notarized, [paper
-    application](https://sos.ga.gov/index.php/licensing/plb/45/lpn_licensure_by_endorsement)
-    with \$75 dollar fee
+To apply for RN licensure by endorsement in Georgia, you must:
 
--   Verification of licensure from either
-    [www.nursys.com](https://www.nursys.com/) or from your current state
-    and your state of original licensure if it is different. (note: The
-    paper verification included in the application will only be accepted
-    if your state does not participate in the Nursys Verification
-    system.)
-
--   Official transcripts
-
-  -   Non-US training programs may need a Professional Report made
-        available by the [Commission on Graduates of Foreign Nursing
-        Schools Credentials Evaluation Service.](https://www.cgfns.org/)
-
--   500 hours of practice as an RN over the last four years. If you
-    don't have the required hours, then you may show proof of graduation
-    during the last four years or you may complete an approved nursing
-    reentry program.
-
--   Be sure to sign up with
-    [COGENTS](https://pci.aps.gemalto.com/gaperlpub/landing_page_1.pl)before
-    submitting your application
-
--   [Fingerprint background
-    check.](https://sos.ga.gov/PLB/acrobat/Forms/38%20Guidelines%20-%20Fingerprint%20Background%20Check%20for%20Out%20of%20State%20Applicants.pdf)
+- Complete a notarized [application](https://sos.ga.gov/sites/default/files/forms/38%20Application%20-%20LPN%20Licensure%20by%20Endorsement.pdf) and pay the **$75 application fee**.
+- Submit verification of licensure from either [Nursys](https://www.nursys.com/) or from your current and original state of licensure if they are different. 
+- Provide official transcripts if required, and foreign graduates must submit a **Professional Report** from the [CGFNS Credentials Evaluation Service](https://www.cgfns.org/).
+- Show proof of **500 hours of RN practice** in the last four years or proof of graduation from a nursing program within the last four years. If you do not meet these criteria, you must complete an approved nursing reentry program.
+- Complete a **fingerprint background check**. Visit the [guidelines page](https://sos.ga.gov/PLB/acrobat/Forms/38%20Guidelines%20-%20Fingerprint%20Background%20Check%20for%20Out%20of%20State%20Applicants.pdf) for more information [oai_citation:6,Georgia Board of Nursing | Georgia Secretary of State](https://sos.ga.gov/georgia-board-nursing) [oai_citation:5,How to Guide: Registered Nurse | Georgia Secretary of State](https://sos.ga.gov/how-to-guide/how-guide-registered-nurse).
 
 #### Renewal
 
-To apply online for renewal visit the [Professional Licensing Login
-page.](https://secure.sos.state.ga.us/mylicense/Login.aspx?process=app)
+To renew your license, visit the [Professional Licensing Login page](https://secure.sos.state.ga.us/mylicense/Login.aspx?process=app). RNs must renew every two years, with licenses expiring on **January 31**.
 
-#### Continuing Competency
+#### Continuing competency
 
-Starging January 31, 2016, RNs must complete continuing education and
-competency requirements. Be sure to complete the continuing education
-requirements before 31 January if your license expires in that month.
-Keep your continuing education documents in case you are audited.
-Failure to provide the documents will result in an incomplete renewal
-application.
+Georgia RNs are required to complete continuing education or demonstrate competency before their license expires. There are **five options** for license renewal:
 
-Georgia provides five options for license renewal
+1. Complete **30 hours of continuing education** through an approved provider.
+2. Maintain certification (or recertification) by a Board-recognized national certifying organization.
+3. Submit verification of **500 hours of practice** in the last four years and a competency evaluation from your employer.
+4. Graduate from a Board-recognized nursing program or complete a reentry program.
+5. Complete a **2-hour course** in nursing or a related field.
 
--   RNs may complete 30 hours of continuing education.
+For more details, visit the [Continuing Education FAQ](https://sos.ga.gov/page/nursing-continuing-education) and check the [accepted CE providers list](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf) [oai_citation:4,](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Continuing%20Education%20Packet.pdf) [oai_citation:3,Nursing Continuing Education | Georgia Secretary of State](https://sos.ga.gov/page/nursing-continuing-education).
 
--   Certification (or re-certification) by a Board recognized national
-    certifying organization
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/georgia-acls-pals-bls).
 
--   Verification of 500 hours of practice and verification of competence
-    by a physicians office or health care facility
+#### Contact information
 
--   Graduation from a nursing program or completion of a reentry program
-    that is Board recognized
+**Mailing Address**:  
+Georgia Board of Nursing  
+237 Coliseum Drive  
+Macon, GA 31217  
 
--   Completion of at least a two hour curriculum in nursing or in a
-    related field
+**Phone**: 478-207-2440  
+**Fax**: 877-371-5712  
+**Email**: <nursing@sos.ga.gov>
 
-Click
-[here](https://sos.ga.gov/index.php/licensing/plb/45/continuing_education_requirements)
-for more details.
-
-The Georgia Board of Nursing's [acceptable provider
-list](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf)
-can be found
-[here](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf).
-
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/georgia-acls-pals-bls)
-
-#### Contact Information
-
-Mailing Address Georgia Board of Nursing 237 Coliseum Drive Macon,
-Georgia 31217 For more information, visit the [Georgia Board of Nursing
-web site](https://sos.ga.gov/index.php/licensing/plb/45) The Professional
-Licensing Boards Division can be contacted at 478-207-2440. You may send
-fax information to 877-371-5712. Emails may be sent to
-<nursing@sos.ga.gov>. It may take up to ten business days to receive a
-reply via email.
-
-* * * * *
+---
 
 ### FAQ
 
-Click
-[here](https://sos.ga.gov/index.php/licensing/plb/45/continuing_education_requirements)for
-the Georgia Nursing Board's [continuing competency
-FAQ](https://sos.ga.gov/index.php/licensing/plb/45/continuing_education_requirements).
+Click here for the Georgia Nursing Board's [continuing competency FAQ](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Continuing%20Education%20Information%20FAQ.pdf).
 
-Click [here](https://sos.ga.gov/index.php/licensing/plb/45/faq)for
-Georgia Board of Nursing's general
-[FAQ](https://sos.ga.gov/index.php/licensing/plb/45/faq).
-
-* * * * *
+Click here for the Georgia Board of Nursing's general [FAQ](https://sos.ga.gov/page/faqs-nursing).

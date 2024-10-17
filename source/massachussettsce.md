@@ -59,12 +59,12 @@ download this form -
 [Link](https://pcshq.com/?page=NursingVerificationJan2015.pdf) . Contact
 your state for applicable fees.
 
-Effective as of April 4, 2016, all Non-U.S. educated nurses applying for
+All Non-U.S. educated nurses applying for
 Licensure by Reciprocity must now complete a Commission on Graduate of
 Foreign Nursing Schools Evaluation (CGFNS). For more information click
 [here](https://www.cgfns.org/)
 
-#### Continuing Competency
+#### Continuing competency
 
 You will be required to take 15 hours of [continuing
 education](https://www.mass.gov/info-details/mandatory-continuing-education-for-nurses)
@@ -77,7 +77,7 @@ a condition of licensure and renewal.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/massachusetts-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Web address:
 
@@ -105,5 +105,3 @@ Fax number
 
 Click here for Massachusetts Board of Registration in Nursing
 [FAQs](https://www.mass.gov/orgs/board-of-registration-in-nursing).
-
-* * * * *

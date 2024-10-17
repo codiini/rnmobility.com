@@ -53,7 +53,7 @@ South Carolina is a compact state. If you are moving to South Carolina or claimi
 
 Your license must be renewed every even numbered year on the 30th of April. License renewal cost is $75. Click [here for more information.](https://www.llr.sc.gov/index.asp?file=inc/Boards.htm)
 
-#### Continuing Competency
+#### Continuing competency
 
 Continuing [competency requirements](https://www.llr.sc.gov/POL/Nursing/pdf/CompetencyCriteria.pdf) are as follows:
 
@@ -70,11 +70,11 @@ Continuing [competency requirements](https://www.llr.sc.gov/POL/Nursing/pdf/Comp
 
 Click [here](https://www.llr.sc.gov/POL/Nursing/pdf/CompetencyCriteria.pdf) for more details.
 
-To view other options, click [here](https://www.ncbon.com/rn-lpn-continuing-compentence) to go to the [Continuing Competency Requirements page](https://www.ncbon.com/rn-lpn-continuing-compentence).
+To view other options, click [here](https://www.ncbon.com/rn-lpn-continuing-compentence) to go to the [Continuing competency Requirements page](https://www.ncbon.com/rn-lpn-continuing-compentence).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/south-carolina-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Web Address: [www.llr.state.sc.us/pol/nursing](https://www.llr.sc.gov/pol/nursing/)
 
@@ -94,5 +94,3 @@ Fax Number: 803.896.4515
 ### FAQ
 
 Click [here](https://www.llr.sc.gov/POL/Nursing/index.asp?file=faq.htm) for [Frequently Asked Questions](https://www.llr.sc.gov/POL/Nursing/index.asp?file=faq.htm).
-
-* * *

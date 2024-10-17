@@ -9,83 +9,38 @@ published: true
 motto: 'Welcome to the North Star State!'
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some health care professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
 #### Endorsements
 
-Below is a general list of requirements for endorsements. Click
-[here](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp)to view the [endorsement
-application
-page](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp).
-Nurses can also apply online [here.](https://mbn.hlb.state.mn.us/)
+Below is a general list of requirements for endorsements. Click [here](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp) to view the [endorsement application page](https://mn.gov/boards/nursing/licensure/apply-for-a-license/apply-by-endorsement.jsp). Nurses can also apply online [here](https://mbn.hlb.state.mn.us/).
 
 -   Submit application and fee (\$105)
-
--   Submit verification of licensure from the state you were originally
-    licensed in and from the state you are currently licensed in (if it
-    is a different state)
-
-  -   Verifications may be obtainable from
-        [www.nursys.com](https://www.nursys.com/)
-
--   [Confirmation of Nursing Employment for Licensure by Endorsement
-    form](https://mn.gov/boards/assets/Conf_Nursing_Employment_tcm21-586960.pdf)
-
+-   Submit verification of licensure from the state you were originally licensed in and from the state you are currently licensed in (if it is a different state)
+  -   Verifications may be obtainable from [www.nursys.com](https://www.nursys.com/)
+-   [Confirmation of Nursing Employment for Licensure by Endorsement form](https://mn.gov/boards/assets/Conf_Nursing_Employment_tcm21-586960.pdf)
 -   You may need to take a refresher course
-
 -   Social security number
+-   [Refresher course criteria](https://mn.gov/boards/nursing/education/education-refresher-course-criteria/)
 
--   [Refresher course
-    criteria](https://mn.gov/boards/nursing/education/education-refresher-course-criteria/)
+Licenses are renewed every two years in Minnesota, with renewals costing \$85. Renewals must be completed 30 days prior to the 15th of the licensee’s birth month; after this date, it will be considered late and incur an additional \$50 late fee. To renew online, click [here](https://mn.gov/boards/nursing/licensure/license-renewal/renew-license.jsp).
 
-Licenses are renewed yearly in Minnesota from October to the last day of
-December for \$85. Late renewals will be accepted until the 31st of
-January for \$150. To renew online click
-[here.](https://mn.gov/boards/nursing/licensure/license-renewal/renew-license.jsp)
+The fee for licensure status verification other than through NURSys is \$20. The paper verification form is available in the Licensure by Endorsement application.
 
-The fee for licensure status other than through NURSys verification is
-\$20. The paper verification form is available in the Licensure by
-Endorsement application.
+#### Continuing competency
 
-#### Continuing Competency
+You must complete 30 contact hours of continuing education every two years. Of these, at least 1 hour must focus on pain management. The Board does not approve specific CE providers or courses, but this [link](https://mn.gov/boards/nursing/licensure/continuing-ed/) provides information on continuing education resources and links to approved providers.
 
-You will be required to take one contact hour of continuing education
-for every month you are registered. Certification in a specialty,
-professional activities and courses offered by continuing education
-providers are ways of completing the required training. Click
-[here](https://mn.gov/boards/nursing/licensure/continuing-ed/)for a link
-to Minnesota's continuing education page, which includes links to
-approved providers.
-
-The Board does not approve specific CE providers or courses, though this
-[link](https://mn.gov/boards/nursing/licensure/continuing-ed/continuing-ed-courses.jsp)
-is a list of providers who have informed the state about their
-resources.
-
-Foreign educated nurses must submit a Credentials Evaluation Report from
-either the [Commission on Graduates of Foreign Nursing Schools
-(CGFNS)](https://www.cgfns.org/) or [International Education Research
-Foundation (IERF).](https://ierf.org/) You must also pass an
-approved English-language proficiency test. Three options are available:
-
-1.  [Test of English as a Foreign Language
-    (TOEFL)](https://www.ets.org/)
-2.  [International English Language Testing System
-    (IELTS)](https://ielts.org/)
-3.  [Michigan English Language Assessment Battery
-    (MELAB)](https://michiganassessment.org/)
+Foreign educated nurses must submit a Credentials Evaluation Report from either the [Commission on Graduates of Foreign Nursing Schools (CGFNS)](https://www.cgfns.org/) or the [International Education Research Foundation (IERF)](https://ierf.org/). Additionally, passing an approved English-language proficiency test is required. The options include:
+1.  [Test of English as a Foreign Language (TOEFL)](https://www.ets.org/)
+2.  [International English Language Testing System (IELTS)](https://ielts.org/)
+3.  [Michigan English Language Assessment Battery (MELAB)](https://michiganassessment.org/)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/minnesota-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
-Hours of operation are Monday through Friday, 8:00 a.m. to 4:30 p.m.
-except for state holidays (office will be closed).
+Hours of operation are Monday through Friday, 8:00 a.m. to 4:30 p.m. except for state holidays (office will be closed).
 
 Main Number: 612-317-3000
 
@@ -97,13 +52,10 @@ Fax Number: 612-617-2190
 
 [Website](https://mn.gov/boards/nursing/)
 
-E-mail:
-[nursing.board@state.mn.us](mailto:nursing.board@state.mn.us?subject=Licensure%20by%20endorsement&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20about%20licensure%20by%20endorsement%20here.)
+E-mail: [nursing.board@state.mn.us](mailto:nursing.board@state.mn.us)
 
-Address
+Address:
 
-Minnesota Board of Nursing
-2829 University Avenue SE \# 200
+Minnesota Board of Nursing  
+2829 University Avenue SE #200  
 Minneapolis, MN 55414-3253
-
-* * * * *

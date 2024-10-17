@@ -32,23 +32,22 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
 
 You must also demonstrate that you have graduated within the last five years from an RN program and worked at least 400 hours in the last two years or 960 hours in the last five years. If you do not have the required work experience, you must complete and file the [Verification of Education - RN (Domestic)](https://cms.sec.state.vt.us:8443/share/s/sfkBtuyUTkK9wzItWr-Mhg) form and provide official transcripts from your RN program.
 
-[Renewal](https://secure.professionals.vermont.gov/prweb/PRServlet/ybVBleIGIHMlPa8qpM9BaiNEZfDPENuF*/!STANDARD) takes place every two years on odd numbered years. The period covers from the 1st of April to the 31st of March. You will need to work either a minimum of 400 hours in the last two years or 960 hours in the last five years. If you do not meet the minimum work requirement, you must take a reentry course.
+[Renewal](https://outside.vermont.gov/dept/sos/office_professional_regulation/professions/nursing/nursing_licensed_practical_registered_nurse_renewal_instructions.pdf) takes place every two years on odd numbered years. The period covers from the 1st of April to the 31st of March. You will need to work either a minimum of 400 hours in the last two years or 960 hours in the last five years. If you do not meet the minimum work requirement, you must take a reentry course.
 
-#### Continuing Competency
+#### Continuing competency
 
 Vermont does not have any mandatory continuing education requirements.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/vermont-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Web address:
 
-[www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/](https://www.sec.state.vt.us/professional-regulation/profession/nursing.aspx)
+[www.mass.gov/eohhs/gov/departments/dph/programs/hcq/dhpl/nursing/](https://sos.vermont.gov/nursing/)
 
-89 Main Street, 3rd Floor
-Montpelier, Vermont
-05620-3402
+89 Main Street, 3rd Floor  
+Montpelier, Vermont 05620-3402
 
 Phone: (802) 828-2367, or
 
@@ -60,6 +59,4 @@ Board of Nursing
 
 ### FAQ
 
-Click here for Vermont's RN [frequently asked questions](https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx).
-
-* * *
+Click here for Vermont's RN [frequently asked questions](https://sos.vermont.gov/nursing/nursing-faqs/).

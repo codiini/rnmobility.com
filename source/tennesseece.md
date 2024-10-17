@@ -43,13 +43,13 @@ Licenses must be renewed every two years. You can do it online through [here.](h
 
 Foreign educated nurses must provide a Professional Report from the Commission on Graduates of [Foreign Nursing School (CGFNS)](https://www.cgfns.org/) or an official school transcript.
 
-#### Continuing Competency
+#### Continuing competency
 
 Click here for details on [continuing competency](https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board/nursing-board/continuing-education.html).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/tennessee-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 [Tennessee Board of Nursing web address](https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board/nursing-board/about.html)
 
@@ -61,5 +61,3 @@ Nashville, TN 37243
 Phone number: 615.532.5166
 
 Fax number:615.741.7899
-
-* * *

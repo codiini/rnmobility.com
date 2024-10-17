@@ -22,7 +22,7 @@ You may apply for your initial license online. The Virginia Board does not accep
     
 *   Your license must be in good standing
     
-*   You must satisfy the same requirments of an applicant seeking an original Virginia license
+*   You must satisfy the same requirements of an applicant seeking an original Virginia license
     
 *   If your education program does not provide 500 hours of direct, supervised client care, then you must have at least 960 hours of clinical practice
     
@@ -33,17 +33,17 @@ You may apply for your initial license online. The Virginia Board does not accep
 *   Official transcripts
     
 
-Renewals take place every two years
+Renewals take place every two years.
 
-#### Continuing Competency
+#### Continuing competency
 
 The following is a list of general requirements for continuing competency:
 
 *   Specialty certification (must be from a national certifying organization), or
     
-*   three credit hours of relevant, academic education.
+*   Three credit hours of relevant, academic education.
     
-  *   college or university must be regionally accredited, or
+  *   College or university must be regionally accredited, or
         
 *   Completion of a refresher course that is approved by the Board
     
@@ -51,46 +51,46 @@ The following is a list of general requirements for continuing competency:
     
 *   Teaching three semester hours of college coursework
     
-  *   must be nursing-related
+  *   Must be nursing-related
         
-  *   must be a 15 week course or,
+  *   Must be a 15-week course or,
         
-  *   a specialty certification
+  *   A specialty certification
         
 *   Teaching 30 contact-hours of continuing education
     
 *   640 hours of active practice as an RN and 15 contact hours including
     
-  *   workshops
+  *   Workshops
         
-  *   conferences
+  *   Conferences
         
-  *   seminars
+  *   Seminars
         
-  *   relevant coursework, or
+  *   Relevant coursework, or
         
 *   30 contact hours including
     
-  *   workshops
+  *   Workshops
         
-  *   conferences
+  *   Conferences
         
-  *   seminars
+  *   Seminars
         
-  *   relevant coursework
+  *   Relevant coursework
         
 
-You will be exempt from competency requirements for your first renewal. Maintain documents proving your participation in a continuing education program for at least two years. For more information on continuing education, down load the [Regulations Governing the Practice of Nursing](https://www.dhp.virginia.gov/nursing/leg/Nursing04082015.doc) and click on Continuing competency requirements for renewal of an active license in the table of contents.
+You will be exempt from competency requirements for your first renewal. Maintain documents proving your participation in a continuing education program for at least two years. For more information on continuing education, download the [Regulations Governing the Practice of Nursing](https://www.dhp.virginia.gov/nursing/leg/Nursing04082015.doc) and click on Continuing competency requirements for renewal of an active license in the table of contents.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/virginia-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 Web Address: [https://www.dhp.virginia.gov/nursing/](https://www.dhp.virginia.gov/nursing/)
 
-Virginia Department of Health Professions
-Perimeter Center
-9960 Mayland Drive, Suite 300
+Virginia Department of Health Professions  
+Perimeter Center  
+9960 Mayland Drive, Suite 300  
 Henrico, Virginia 23233-1463 - Directions
 
 Office Hours are from Monday through Friday, 8:15 a.m. to 5:00 p.m., excluding holidays
@@ -104,5 +104,3 @@ Fax: (804) 527-4475
 ### FAQ
 
 Click here for Virginia Board of Nursing [FAQs](https://www.dhp.virginia.gov/nursing/nursing_faq.htm).
-
-* * *

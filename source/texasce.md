@@ -35,11 +35,11 @@ You must complete 20 hours of continuing education to renew your license. Click 
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/texas-acls-pals-bls)
 
-#### Contact Information
+#### Contact information
 
 [Texas Board of Nursing](https://www.bon.texas.gov/)
 
-333 Guadalupe, Suite 3-460
+333 Guadalupe, Suite 3-460  
 Austin, TX 78701
 
 Phone number: 512.305.7400
@@ -53,5 +53,3 @@ Fax number: 512.305.7401
 Click [here](https://www.bon.texas.gov/faq_education_continuing_ed_and_competency.asp.html) for endorsement FAQs.
 
 Click [here](https://www.bon.texas.gov/education_continuing_education.asp) for continuing competency FAQs.
-
-* * *

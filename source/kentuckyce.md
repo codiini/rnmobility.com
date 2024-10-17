@@ -10,99 +10,48 @@ motto: 'Welcome to the Bluegrass state!'
 compact: true
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some health care professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
 #### Endorsements
 
-Kentucky is a compact state. If you are moving to Kentucky or claiming
-it as your primary state of residence, you will need to apply for
-application by endorsement in order to use your license in Kentucky.
-General instructions are listed below.
+Kentucky is a compact state. If you are moving to Kentucky or claiming it as your primary state of residence, you will need to apply for licensure by endorsement to use your license in Kentucky. General instructions are listed below.
 
--   Completed [Online Endorsement
-    Application](https://ssla.state.ky.us/kbnursing/RNLicensureAPRNApplication.aspx)
-    with \$165 application fee
+- Completed [Online Endorsement Application](https://ssla.state.ky.us/kbnursing/RNLicensureAPRNApplication.aspx) with \$165 application fee.
+  - You may also complete a paper application request form, which costs an additional \$40.
+- Complete [State Background Check](https://kbn.ky.gov/Licensure/Pages/criminal-background.aspx).
+- Complete [Federal Background Check](https://kbn.ky.gov/apply/Pages/courtnet.aspx) (\$14.75).
+- Submit a completed [Verification of Licensure](https://kbn.ky.gov/Licensure/Pages/license-verification.aspx) Form or verification via [www.nursys.com](https://www.nursys.com).
+- Complete a Jurisprudence Examination online after submitting the application. More information about the exam can be found [here](https://kbn.ky.gov/Licensure/Pages/jurisprudence-exam.aspx).
+- Paper Application Request Form can be accessed [here](https://kbn.ky.gov/state-registered-nurse-aide/Pages/Apply.aspx).
 
-  -   You may also complete a paper application request form. The
-        application request costs an additional \$40 and the application
-        will be mailed to you.
+You may [renew your license online](https://ssla.state.ky.us/kbnursing/SearchLicense.aspx?TYP=RNCOMPACT) for \$50. Renewals occur yearly before October 31.
 
--   [State background
-    check](https://kbn.ky.gov/apply/Pages/courtnet.aspx)
+Foreign nurses educated outside of the U.S. must complete the [VisaScreen](https://www.cgfns.org/services/certification/visascreen-visa-credentials-assessment/) for Kentucky licensure. For details about the VisaScreen process, click [here](https://kbn.ky.gov/KBN%20Documents/cgfns-visascreen.pdf).
 
--   [Federal background
-    check](https://kbn.ky.gov/apply/Pages/courtnet.aspx) (\$14.75)
+#### Continuing competency
 
--   Completed [Verification of
-    Licensure](https://kbn.ky.gov/apply/Documents/appattach2.pdf) Form
-    or verification via [www.nursys.com](https://www.nursys.com)
+RNs must complete a one-time, 1.5-hour Pediatric Head Trauma course within three years after licensure. You can find a list of providers [here](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-CE-providers.aspx).
 
--   Complete a Jurisprudence Examination online after completing the
-    application. Information about the exam can be obtained
-    [here.](https://kbn.ky.gov/apply/Pages/jpexam.aspx)
+Generally, 14 contact hours (Board approved) or certification (or recertification) in a nursing-related program (must be from a national certifying organization) will satisfy continuing competency requirements. For further information, visit the [Kentucky Continuing competency](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-Requirements.aspx) page, which includes mandatory courses.
 
--   Paper Application Request Form
-    [Link](https://kbn.ky.gov/apply/Documents/paper_req_endorse.pdf)
-
-You may [renew your license
-online](https://ssla.state.ky.us/kbnursing/SearchLicense.aspx?TYP=RNCOMPACT)
-for \$50. Renewals occur yearly before October 31.
-
-Foreign nurses educated outside of the U.S. must complete the
-[VisaScreen](https://www.cgfns.org/services/certification/visascreen-visa-credentials-assessment/) for Kentucky
-Licensure. For details about the VisaScreen process click
-[here.](https://kbn.ky.gov/apply/Documents/kbnfacts.pdf)
-
-#### Continuing Competency
-
-You will have three years after your licensure to take a one time, 1.5
-hour Pediatric Head Trauma course. Click
-[here](https://kbn.ky.gov/FTP/ce_pht.pdf)for a list of providers.
-
-Generally, 14 contact hours (Board approved) or certification (or
-recertification) in a nursing related program (must be a national
-certifying organization) will fill continuing competency requirements.
-However, there are other alternatives. Click here to view
-Kentucky[Continuing
-Competency](https://kbn.ky.gov/ce/Pages/default.aspx) page. Click
-[here](https://kbn.ky.gov/ce/Pages/default.aspx)to see [mandatory
-courses](https://kbn.ky.gov/ce/Pages/default.aspx).
-
-There is a one time only requirement to take a Domestic Violence CE
-course. You must take this within 3 years of obtaining your KY license,
-and retain documentation until you retire your license. CE earning
-period is between November 1 to October 31.
+There is also a one-time requirement to take a Domestic Violence CE course within three years of obtaining your KY license, and you must retain documentation until you retire your license. The CE earning period is from November 1 to October 31.
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/kentucky-acls-pals-bls)
 
-#### Contact Information
+#### Contact The Kentucky Board of Nursing
 
-[Web address.](https://kbn.ky.gov/Pages/default.aspx)
+**Kentucky Board of Nursing**  
+312 Whittington Parkway  
+Suite 300  
+Louisville, KY 40222  
 
-Kentucky Board of Nursing
-312 Whittington Pky, Suite 300
-Louisville, KY 40222
-
-Phone number: 502-429-3300
-
-or 1-800-305-2042
-
-Fax number: 502-429-3311
-
-Hours of Operation: 8:00 a.m. - 4:30 p.m.
+**Phone:** 502-429-3300  
+**Toll-Free:** 1-800-305-2042  
+**Fax:** 502-429-3311  
+**Hours of Operation:** 8:00 a.m. - 4:30 p.m.
 
 * * * * *
 
 ### FAQ
 
-Click
-[here](https://www.llr.sc.gov/POL/Nursing/index.asp?file=faq.htm)for
-[Frequently Asked
-Questions](https://www.llr.sc.gov/POL/Nursing/index.asp?file=faq.htm).
-
-* * * * *
+For frequently asked questions, click [here](https://ksbn.kansas.gov/faqs/).

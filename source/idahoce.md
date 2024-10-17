@@ -1,92 +1,50 @@
 ---
 layout: page
-title: 'Idaho: RN License Endorsement, Renewal & Ed'
+title: "Idaho: RN License Endorsement, Renewal & Ed"
 description: "Discover the requirements for registered nurse license endorsement, renewal, and continuing education in Idaho. Keep your nursing career on track."
 heading: "Idaho"
 state: ID
 statename: Idaho
 published: true
-motto: 'Welcome to the Gem state!'
+motto: "Welcome to the Gem state!"
 compact: true
 ---
 
-Each state needs a competent medical workforce to meet the needs of it's
-citizens. However, the requirements for some health care professions are
-not the same in each state. That is why it is important to find out what
-is required of you as a future or current registered nurse before moving
-across state lines. Contact information is located at the bottom of this
-page.
+Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some healthcare professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
 
-#### Endorsements
+#### **Endorsements**
 
-Idaho is a compact state. If you are moving to Idaho or claiming it as
-your primary state of residence, you will need to apply for application
-by endorsement in order to use your license in Idaho. General
-instructions are listed below.
+Idaho is a compact state, meaning nurses can practice across other compact states without needing to apply for a separate license. If you are moving to Idaho or claiming it as your primary state of residence, you will need to apply for an endorsement to use your license in Idaho. General instructions are listed below:
 
-You may [request an endorsement/reinstatement
-application](https://ibn.idaho.gov/IBNPortal/LicensureByEndorsement.aspx?Agency=426&Board=IBON)
-via telephone, fax or via email, or you may also [download the
-application
-form](https://ibn.idaho.gov/IBNPortal/IBN/UPDATED%20FORMS%202009/Licensure_by_Endorsement_RN.pdf).
-You cannot declare another [compact
-state](https://www.nursecompact.com/how-it-works/applying-for-licensure.page) as your
-primary state of residence if you are applying for an endorsement of
-license.
+- Complete an endorsement application through the [Nurse Portal](https://ibn.boardsofnursing.org) [oai_citation:9,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/).
+- Pay the required application fee ($110) [oai_citation:8,Continuing Education and Auditing | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/cou/cou-ce-and-audit/).
+- Submit a fingerprint-based criminal background check ($42 fee) [oai_citation:7,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/).
+- Verification of licensure through the [Nursys system](https://www.nursys.com/), or if your state does not participate, submit the "Verification of Licensure" form [oai_citation:6,Resources and Forms | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-resources/).
 
-The following is a general list of requirements for endorsement,
-renewal, and continuing competency:
+You may also apply for a temporary license while your endorsement is being processed. This costs an additional $25 [oai_citation:5,Continuing Education and Auditing | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/cou/cou-ce-and-audit/).
 
--   Criminal background check (\$42): The Criminal Background Check Form
-    is included with the endorsement packet.
+#### **Renewals**
 
--   Complete, notarized
-    [application](https://ibn.idaho.gov/IBNPortal/IBN/UPDATED%20FORMS%202009/Licensure_by_Endorsement_RN.pdf)(\$110)
+Idaho nursing licenses expire on August 31 of odd-numbered years. Renewal can be completed through the [Nurse Portal](https://ibn.boardsofnursing.org). The renewal fee is $90 [oai_citation:4,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/) [oai_citation:3,](https://dopl.idaho.gov/wp-content/uploads/2022/08/Nursing-Clean-Copy-9.1.22.pdf).
 
-  -   Temporary license fee costs an additional \$25
+#### **Continuing competency**
 
--   2x2 photo (only include head and shoulders)
+Idaho does not require continuing education for RN license renewal. However, you must maintain good standing with the Board, and audits may be conducted to ensure competency [oai_citation:2,Continuing Education and Auditing | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/cou/cou-ce-and-audit/).
 
--   Verification of licensure: For online license verification use the
-    [Nursys Verification System](https://www.nursys.com/). If your state
-    does not participate in the online verification system you may
-    download and print the [Verification of Licensure
-    Form.](https://ibn.idaho.gov/IBNPortal/IBN/Forms/verification_licensure.pdf)
+#### **This state requires nurses to hold current [ACLS certification](https://www.acls.net/idaho-acls-pals-bls).**
 
--   There are no continuing education requirements for the state of
-    Idaho.
+#### **Contact information**
 
--   Foreign educated nurses will need to provide proof of
-    English-language proficiency through testing. You must also provide
-    an official transcript from your nursing program with a certified
-    translation in English, or an equivalent credentials report issued
-    by [CGFNS](https://www.cgfns.org/).
-
-Licenses expire on the 31st of August during odd-numbered years and cost
-\$90 to renew.
-
-#### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/idaho-acls-pals-bls)
-
-#### Contact Information
-
-[Idaho Board of Nursing](https://ibn.idaho.gov/)
-
-PO Box 83720
-280 N 8th Street, Suite 210
+**Idaho Board of Nursing**  
+PO Box 83720  
+280 N 8th Street, Suite 210  
 Boise, Idaho 83720-0061
 
-Phone number: (208) 577-2476
+Phone: (208) 577-2476  
+TDD: (800) 377-3529  
+Fax: (208) 334-3262
 
-TDD Phone – (800) 377-3529
+**Email:** <info@ibn.idaho.gov>  
+**Hours:** 8:00 AM to 5:00 PM, Monday through Friday
 
-Fax number: 208.334.3262
-
-For general frequently asked questions, visit [the Board's FAQ
-Additional
-page.](https://ibn.idaho.gov/IBNPortal/BoardAdditional.aspx?Board=IBON&BureauLinkID=150)
-
-Email address: <info@ibn.idaho.gov>
-
-Hours of Operation: 8:00AM to 5:00PM, Monday through Friday
-
-* * * * *
+For more details, visit the [Idaho Board of Nursing website](https://dopl.idaho.gov/bon) [oai_citation:1,Resources and Forms | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-resources/).
