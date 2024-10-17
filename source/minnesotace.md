@@ -63,7 +63,7 @@ to Minnesota's continuing education page, which includes links to
 approved providers.
 
 The Board does not approve specific CE providers or courses, though this
-[link](https://mn.gov/boards/nursing/licensure/continuing-ed/continuing-ed-courses.jsp)
+[link](https://mn.gov/boards/social-work/ceprovider/)
 is a list of providers who have informed the state about their
 resources.
 

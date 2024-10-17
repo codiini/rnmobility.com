@@ -29,7 +29,7 @@ General guidelines for endorsement are listed below.
 -   Effective as of August 1, 2016 the Board will no longer accept paper
     applications. All applications must be submitted electronically via
     the [EMBON
-    website.](https://nmbon.sks.com/applications.aspx)
+    website.](https://www.bon.nm.gov/rn/)
 
 -   Criminal background check required (\$44)
 
@@ -39,10 +39,6 @@ General guidelines for endorsement are listed below.
 
 -   Verification of Licensure form, verification through
     [www.nursys.com](https://www.nursys.com/) or paper verification
-
--   [3M Cogent Background](https://www.aps.gemalto.com/index.htm) and
-    fingerprinting through this
-    [link](https://www.bon.nm.gov/fingerprinting/)
 
 Renewals cost \$93 and take place every two years. Click
 [here](https://www.bon.nm.gov/fees/)

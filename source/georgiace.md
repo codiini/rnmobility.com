@@ -41,8 +41,7 @@ page.
     during the last four years or you may complete an approved nursing
     reentry program.
 
--   Be sure to sign up with
-    [COGENTS](https://pci.aps.gemalto.com/gaperlpub/landing_page_1.pl)before
+-   Be sure to sign up with COGENTS before
     submitting your application
 
 -   [Fingerprint background

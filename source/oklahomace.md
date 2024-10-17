@@ -31,13 +31,13 @@ General requirements for endorsement in Oklahoma are listed below.
         endorsement + \$40 Education Equivalence Evaluation.
 
   -   [Online
-        Application](https://pay.apps.ok.gov/nursing/licensing/app/index.php)
-        and [Instructions](https://nursing.ok.gov/endorseused07.pdf)
+        Application](https://oklahoma.gov/nursing/forms.html)
+        and [Instructions](https://oklahoma.gov/content/dam/ok/en/nursing/documents/endorseused07.pdf)
 
 -   Proof of lawful presence in the US
 
   -   Nurses educated outside the US should click
-        [here](https://www.ok.gov/nursing/endorforeign07.pdf)for
+        [here](https://oklahoma.gov/content/dam/ok/en/nursing/documents/universalRNLPNForeign.pdf)for
         instructions.
 
 -   Proof of graduation from an approved program located in the US or in
@@ -53,7 +53,7 @@ General requirements for endorsement in Oklahoma are listed below.
 
 -   Generally, a passing NCLEX score is required; however, for further
     exam information, click
-    [here](https://www.ok.gov/nursing/endorseused07.pdf).
+    [here](https://www.ok.gov/nursing/).
 
 -   Your original state of licensure must send verification of your
     license and proof of graduation. If they cannot prove your
@@ -65,7 +65,7 @@ General requirements for endorsement in Oklahoma are listed below.
 -   Proof of continuing education and experience
 
   -   [Board approved refresher course
-        work](https://ok.gov/nursing/nrefresher.pdf)
+        work](https://oklahoma.gov/content/dam/ok/en/careertech/educators/health-careers-education/conferences-training-workshops/nurse-refersher/nurse-refresher-course-flyer.pdf)
 
   -   Passing NCLEX or 105 credit hours of classroom and clinical
         nursing coursework
@@ -100,7 +100,7 @@ qualification and renewal purposes:
   -   Click here for board approved refresher courses
 
   -   For more details on the refresher course policy, click
-        [here](https://www.ok.gov/nursing/refresher.pdf)
+        [here](https://proxy-us.steganos.com/browse.php?u=W%2BwQIHSn91bGfqQxMkASP8VIsFZG3V9H2Kplk2iC%2Bo5Sh3DhRVNPetnLtAeK8nhkkqiMXd2Y3doOQ%2FE1ffShQc0h&b=5)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/oklahoma-acls-pals-bls)
 
@@ -119,8 +119,8 @@ Fax number: 405.962.1821
 
 ### FAQ
 
-Click [here](https://www.ok.gov/nursing/renewal/faq.php)for Oklahoma
+Click [here](https://oklahoma.gov/content/dam/ok/en/nursing/documents/reinstateappl07.pdf)for Oklahoma
 Nursing Board [frequently asked
-questions](https://www.ok.gov/nursing/renewal/faq.php).
+questions](https://oklahoma.gov/content/dam/ok/en/nursing/documents/reinstateappl07.pdf).
 
 * * * * *

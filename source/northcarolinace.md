@@ -46,7 +46,7 @@ North Carolina. General instructions are listed below.
     Fee is \$150
 
 -   Verification of licensure through
-    [Nursys](https://www.ncbon.com/MyFiles/Downloads/NURSYS-Information.pdf)
+    [Nursys](https://www.ncbon.com/verify-nc-license)
     website.
 
   -   For those states that do not participate in the Nursys
@@ -60,9 +60,9 @@ Page](https://www.ncbon.com/rn-lpn-endorsement).
 
 Renewals occur every two years on the last day of your birth month and
 cost \$100. Click
-[here](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-renewal-requirements)to
+[here](https://www.ncbon.com/rnlpn-renewal)to
 go to the Board's[Renewal
-Requirements](https://www.ncbon.com/dcp/i/licensurelisting-renewalreinstatement-renewal-requirements)
+Requirements](https://www.ncbon.com/rnlpn-renewal)
 page. Click
 [here](https://www.ncbon.com/rnlpn-renewal)to
 go to the [online renewal

@@ -38,7 +38,7 @@ page.
     \$30.
 
 Renewals are completed
-[online](https://pvl.ehawaii.gov/mypvl/welcome.html?returnUri=https%3A%2F%2Fpvl.ehawaii.gov%2Fmypvl%2Findex.html%3Bjsessionid%3DA785589F115F334BB16E4CE57F3A5D7F.lana)every
+[online](https://cca.hawaii.gov/pvl/boards/nursing/) every
 odd numbered year on the 30th of June
 
 To view the [requirements for endorsement and

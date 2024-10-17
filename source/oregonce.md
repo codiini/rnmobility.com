@@ -21,7 +21,7 @@ page.
 -   Nursys verification information [link](https://www.nursys.com/).
 
 -   Online application
-    [link](https://osbn.oregon.gov/OBNPortal/DesktopDefault.aspx?tabindex=0&tabid=5)
+    [link](https://osbn.boardsofnursing.org/orbn)
 
 -   [Download](https://www.oregon.gov/osbn/Documents/Form_LIC-616.pdf) paper
     application.

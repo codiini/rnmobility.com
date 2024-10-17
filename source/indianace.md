@@ -34,14 +34,14 @@ page.
     submit a [NURSYS Verification](https://www.nursys.com/) form to The
     National Council of State Boards of Nursing (NCSBN). For states that
     do not use the NURSYS program you will need to send a [Verification
-    of State Licensure Form](https://www.in.gov/pla/nursing.htm) to your
+    of State Licensure Form](https://www.in.gov/pla/license/free-search-and-verify/) to your
     state of original licensure and then return this form back to the
     Indiana State State Board of Nursing. You must send verification
     from every state that you hold or have ever held a license. Check
     with your state for applicable fees.
 
 -   Criminal background check. Please review the
-    [](https://www.idfpr.com/renewals/ssn_afft.pdf)Criminal Background
+    [](https://idfpr.illinois.gov/profs/nursing.html)Criminal Background
     Check Instructions.(These instructions are very specific)
 
 -   Passing NCLEX or State Board Test Pool Examination scores
@@ -52,7 +52,7 @@ page.
     [](https://forms.in.gov/Download.aspx?id=5715)
 
 -   [Click here for application
-    instructions.](https://www.in.gov/pla/2506.htm)
+    instructions.](https://www.in.gov/pla/professions/nursing-home/nursing-licensing-information/#Initial_LPN_or_RN_License_by_Endorsement_Reciprocity)
 
 For foreign nurses, if your original state of licensure does not
 directly provide verification of your foreign education credentials, you
@@ -65,7 +65,7 @@ accompanied with a certified English translation if not in English.
 
 RNs are not required to take continuing education courses for renewal
 unless their license has been expired for more than three years. Click
-[here](https://www.in.gov/pla/2492.htm)for details.
+[here](https://www.in.gov/pla/professions/nursing-home/nursing-licensing-information/#Continuing_Education_Requirements)for details.
 
 Contact the State Board for more details. Contact information provided
 at the bottom of this page.
@@ -89,13 +89,13 @@ Phone: 317-234-2043
 Email: <pla2@pla.IN.gov>
 
 For more information, visit the [Indiana State Board of Nursing
-page.](https://www.in.gov/pla/nursing.htm)
+page.](https://www.in.gov/pla/professions/nursing-home/)
 
 * * * * *
 
 ### FAQ
 
-Click [here](https://www.in.gov/pla/3416.htm)for frequently asked
+Click [here](https://faqs.in.gov/hc/en-us/sections/115001504548-Professional-Licensing-Agency)for frequently asked
 questions.
 
 * * * * *

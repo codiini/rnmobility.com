@@ -79,7 +79,7 @@ also pass an English-language proficiency exam with either:
 -   [TOEIC](https://www.ets.org/toeic.html/)
 
 For Canadian nurses, you must pass the English version of CNATES or
-CRNE. Link [here](https://www.ncsbn.org/4702.htm)
+CRNE.
 
 #### Contact Information
 

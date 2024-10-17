@@ -48,21 +48,21 @@ investigation.
 Application fee is \$150. Temporary license fee is \$50 (optional).
 
 Fingerprint fee is \$50. To view the instruction card, click
-[here](https://www.azbn.gov/licensure-certification/fingerprint-card-instructions/ "link to fingerprint instruction card").
+[here](https://www.azbn.gov/licenses-certifications/fingerprint-card-instructions "link to fingerprint instruction card").
 
-If your state does not participate in the Nursys Verification system you
+If your state does not participate in the Nurse's Verification system you
 must complete the [verification
 form](https://www.azbn.gov/sites/default/files/forms/verification-form-042017.pdf "link to Arizona State Board of Nursing Verification Form")
 and mail it to the state of your original license.
 
 To view the Endorsement application packet, click
-[here](https://www.azbn.gov/licenses-and-certifications/verification-for-endorsement "link to endorsement application packet").
+[here](https://www.azbn.gov/licenses-certifications/verification-for-endorsement "link to endorsement application packet").
 
 To view the application instructions click
-[here](https://www.azbn.gov/licensure-certification/application-instructions/rn-lpn-endorsement/ "Application instructions").
+[here](https://www.azbn.gov/licenses-certifications/apply-for-a-license "Application instructions").
 
 For Information regarding foreign educated requirements click
-[here.](https://www.azbn.gov/licensure-certification/foreign-educated-requirements/ "Information regarding foreign educated requirements")
+[here.](https://www.azbn.gov/licenses-certifications/apply-for-a-license "Information regarding foreign educated requirements")
 
 Applicants who meet the requirements above should submit their
 application and fees by mail. Emailed and faxed applications will not be
@@ -81,7 +81,7 @@ endorsement.
 
 License renewals are \$160 + \$3 fee for online renewal. To renew online
 go to
-[https://myservices.azbn.gov/Login.asp](https://myservices.azbn.gov/Login.asp "Arizona State Board Renewal Page").
+[https://azbn.boardsofnursing.org/azbn](https://azbn.boardsofnursing.org/azbn "Arizona State Board Renewal Page").
 
 Arizona has information on refresher courses at
 [https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf](https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf "refresher course information").

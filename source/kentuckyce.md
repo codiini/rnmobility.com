@@ -33,21 +33,21 @@ General instructions are listed below.
         will be mailed to you.
 
 -   [State background
-    check](https://kbn.ky.gov/apply/Pages/courtnet.aspx)
+    check](https://kbn.ky.gov/Licensure/Pages/criminal-background.aspx)
 
 -   [Federal background
     check](https://kbn.ky.gov/apply/Pages/courtnet.aspx) (\$14.75)
 
 -   Completed [Verification of
-    Licensure](https://kbn.ky.gov/apply/Documents/appattach2.pdf) Form
+    Licensure](https://kbn.ky.gov/Licensure/Pages/license-verification.aspx) Form
     or verification via [www.nursys.com](https://www.nursys.com)
 
 -   Complete a Jurisprudence Examination online after completing the
     application. Information about the exam can be obtained
-    [here.](https://kbn.ky.gov/apply/Pages/jpexam.aspx)
+    [here.](https://kbn.ky.gov/Licensure/Pages/jurisprudence-exam.aspx)
 
 -   Paper Application Request Form
-    [Link](https://kbn.ky.gov/apply/Documents/paper_req_endorse.pdf)
+    [Link](https://kbn.ky.gov/state-registered-nurse-aide/Pages/Apply.aspx)
 
 You may [renew your license
 online](https://ssla.state.ky.us/kbnursing/SearchLicense.aspx?TYP=RNCOMPACT)
@@ -56,22 +56,22 @@ for \$50. Renewals occur yearly before October 31.
 Foreign nurses educated outside of the U.S. must complete the
 [VisaScreen](https://www.cgfns.org/services/certification/visascreen-visa-credentials-assessment/) for Kentucky
 Licensure. For details about the VisaScreen process click
-[here.](https://kbn.ky.gov/apply/Documents/kbnfacts.pdf)
+[here.](https://kbn.ky.gov/KBN%20Documents/cgfns-visascreen.pdf)
 
 #### Continuing Competency
 
 You will have three years after your licensure to take a one time, 1.5
 hour Pediatric Head Trauma course. Click
-[here](https://kbn.ky.gov/FTP/ce_pht.pdf)for a list of providers.
+[here](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-CE-providers.aspx)for a list of providers.
 
 Generally, 14 contact hours (Board approved) or certification (or
 recertification) in a nursing related program (must be a national
 certifying organization) will fill continuing competency requirements.
 However, there are other alternatives. Click here to view
 Kentucky[Continuing
-Competency](https://kbn.ky.gov/ce/Pages/default.aspx) page. Click
-[here](https://kbn.ky.gov/ce/Pages/default.aspx)to see [mandatory
-courses](https://kbn.ky.gov/ce/Pages/default.aspx).
+Competency](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-Requirements.aspx) page. Click
+[here](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-Requirements.aspx)to see [mandatory
+courses](https://kbn.ky.gov/continuing-education/Pages/Continuing-Education-Requirements.aspx).
 
 There is a one time only requirement to take a Domestic Violence CE
 course. You must take this within 3 years of obtaining your KY license,
@@ -82,7 +82,7 @@ period is between November 1 to October 31.
 
 #### Contact Information
 
-[Web address.](https://kbn.ky.gov/Pages/default.aspx)
+[Web address.](https://kbn.ky.gov/Pages/index.aspx)
 
 Kentucky Board of Nursing
 312 Whittington Pky, Suite 300

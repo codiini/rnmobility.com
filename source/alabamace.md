@@ -18,7 +18,7 @@ will require licensure by endorsement if you have never held a license
 there before. On this page you will find general information regarding
 the ABN's endorsement, renewal, and continuing competency requirements
 
-### [Endorsements](https://www.abn.alabama.gov/faq/how-do-i-know-if-i-am-supposed-to-request-a-verification-of-my-original-licensure-from-nursys/)
+### [Endorsements](https://www.abn.alabama.gov/licensing/apply/licensure-by-endorsement/)
 
 Application for license endorsement is required for nurses who received
 their license in another state. The requirements for endorsement are
@@ -38,7 +38,7 @@ listed below.
 -   Original (not fax) verification of licensure from your original
     state’s board of nursing Mailed to ABN. Use the [Request for
     Verification of Nursing License for Endorsement into Alabama
-    form](https://www.abn.alabama.gov/wp-content/uploads/2016/03/Verification-Request-Form1.pdf)
+    form](https://www.abn.alabama.gov/licensing/apply/licensure-by-endorsement/endorsement-basic-requirements/)
     if the state you were originally licensed in does not participate in
     NURSYS®.
 -   Verification of original licensure in states that participage in
@@ -48,9 +48,9 @@ listed below.
     within the last 24 months and mailed or faxed to ABN
 -   Applicant must submit proof of citizenship or lawful presence in the
     US to ABN. A checklist for
-    [citizens](https://www.abn.alabama.gov/wp-content/uploads/2016/02/Citizenship_Endorsement_Checklist.pdf)
+    [citizens](https://www.abn.alabama.gov/licensing/apply/licensure-by-endorsement/endorsement-basic-requirements/)
     and
-    [non-citizens](https://www.abn.alabama.gov/wp-content/uploads/2016/02/NonCitizen_Endorsement_Checklist.pdf)
+    [non-citizens](https://www.abn.alabama.gov/wp-content/uploads/2023/09/NonCitizen_Endorsement_Checklist.pdf)
     can be found on the ABN website.
 
 ### Continuing Competency
@@ -77,7 +77,7 @@ License cards/advanced practice approval cards discontinued effective
 July 5, 2016
 
 Visit [ABN for more information regarding license
-cards](https://www.abn.alabama.gov/2016/06/27/license-cards-advanced-practice-approval-cards-discontinued/)
+cards](https://www.abn.alabama.gov/licensing/advanced-practice/faqs/)
 
 ### [Nursing License Renewal](https://www.abn.alabama.gov/licensing/renewal/)
 
@@ -137,15 +137,15 @@ LaDonna Patton, MSN, RN, CEN ARNC Director
 ### FAQ
 
 Please click
-[here](https://www.abn.alabama.gov/continuing-education-ce/) for FAQs
+[here](https://www.abn.alabama.gov/abn-nursing-excellence/nursing-ce/online-courses/faqs/) for FAQs
 regarding information about continuing education programs.
 
 Please click
-[here](https://www.abn.alabama.gov/faq_category/byendorsementgen/) for
+[here](https://www.abn.alabama.gov/licensing/faqs/) for
 FAQs regarding licensure by endorsement.
 
 Please click
-[here](https://www.abn.alabama.gov/faq_category/byendorsementtemp/) for
+[here](https://www.abn.alabama.gov/licensing/faqs/) for
 FAQs regarding temporary licensure by endorsement.
 
 ### Help other nurses

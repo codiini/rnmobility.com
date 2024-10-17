@@ -14,7 +14,7 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
 
 #### Endorsements
 
-You can reach the page covering endorsements by hovering your mouse over the "apply" tab and clicking the "Registered Nurses" link from the drop down menu, or, you can simply click [here](https://nursing-online.state.wy.us/Default.aspx?page=33) to be directed to the page.
+You can reach the page covering endorsements [here](https://wsbn.wyo.gov/licensing).
 
 Near the top of the page, you should see a link to the [application for endorsement](https://nursing-online.state.wy.us/Resources/RN%20Endorsement%20App%204-22-2013.pdf).
 
@@ -39,11 +39,11 @@ If you are not a newly licensed RN, the Board will require you to either have wo
 
 If you are a newly licensed RN, you will need to provide proof that you have passed the NCLEX-RN within the last five years in lieu of experience and continuing education.
 
-A link to nursing education programs can be found [here](https://nursing-online.state.wy.us/Default.aspx?page=32).
+A link to nursing education programs can be found [here](https://drive.google.com/file/d/1Bi7wSLaxUTrRjY79QZaUzbx5zmKvKP8R/view).
 
-A link to refresher courses can be found [here](https://nursing-online.state.wy.us/Default.aspx?page=15).
+A link to refresher courses can be found [here](https://wsbn.wyo.gov/education#h.r2jmbr5babw9).
 
-A link to approved distance programs can be found [here](https://nursing-online.state.wy.us/Default.aspx?page=57).
+A link to approved distance programs can be found [here](https://wsbn.wyo.gov/education).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/wyoming-acls-pals-bls)
 
@@ -64,6 +64,6 @@ Phone number: 307-777-7601
 
 ### FAQ
 
-A link to the Wyoming State Board of Nursing's frequently asked questions can be found [here](https://nursing-online.state.wy.us/Default.aspx?page=11).
+A link to the Wyoming State Board of Nursing's frequently asked questions can be found [here](https://wsbn.wyo.gov/practice#h.3jerg92o3ji0).
 
 * * *

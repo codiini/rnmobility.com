@@ -25,7 +25,7 @@ application by endorsement in order to use your license in Colorado.
 General instructions are listed below.
 
 -   Complete
-    [application](https://www.colorado.gov/dora/licensing/Default.aspx)and
+    [application](https://apps2.colorado.gov/dora/licensing/default.aspx)and
     submit fee (endorsement application fee is \$43.)
 
 -   Passing NCLEX results
@@ -46,7 +46,7 @@ Foreign educated nurses must submit the CES Professional report from the
 
 All RN licenses expire on September 30 on an odd or even-numbered year,
 depending on when your license was issued. To renew your license click
-[here](https://www.colorado.gov/dora/licensing/Default.aspx "license renewal page").
+[here](https://apps2.colorado.gov/dora/licensing/default.aspx "license renewal page").
 
 Click
 [here](https://drive.google.com/file/d/0BzKoVwvexVATTEVXYV9jeTBHcDg/view)to

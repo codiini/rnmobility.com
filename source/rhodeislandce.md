@@ -15,7 +15,7 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
 
 Rhode Island is a compact state. If you are moving to Rhode Island or claiming it as your primary state of residence, you will need to apply for application by endorsement in order to use your license in Rhode Island. General instructions are listed below.
 
-*   Completed, notarized [application](https://healthri.mylicense.com/)
+*   Completed, notarized [application](https://healthri.mylicense.com/Login.aspx)
     
 *   Application Requirements [link.](https://health.ri.gov/publications/requirements/NursingApplicationRequirements.pdf) This also includes information about foreign educated applicants.
     
@@ -42,7 +42,7 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
 *   For information about fingerprinting along with state and federal background checks visit this [link.](https://riag.ri.gov/i-want/get-background-check )
     
 
-Licenses are renewed every two years. To do it online click [here.](https://healthri.mylicense.com/)
+Licenses are renewed every two years. To do it online click [here.](https://healthri.mylicense.com/Login.aspx)
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/rhode-island-acls-pals-bls)
 

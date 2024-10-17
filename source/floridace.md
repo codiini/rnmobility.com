@@ -61,7 +61,7 @@ current license will expire at midnight, Eastern Standard Time, July 31,
 Standard Time, April 30, 2017.
 
 You may [renew
-online](https://mqaonline.doh.state.fl.us/datamart/voservicesportal/)
+online](https://mqa-vo.doh.state.fl.us/datamart/voservicesportal)
 or by mail. You will not have to submit any continuing competency
 documents unless you are audited. The Florida Board's website recommends
 you hold on to these documents for at least four years.
@@ -87,7 +87,7 @@ Two hours of domestic violence will be required every third renewal; so,
 you will have 26 hours of continuing education during those renewal
 periods.
 
-Visit [www.cebroker.com](https://www.cebroker.com) for a list of
+Visit [www.cebroker.com](https://cebroker.com/) for a list of
 approved continuing education providers.
 
 For more details, click on the continuing education link in the FAQ

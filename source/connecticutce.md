@@ -19,7 +19,7 @@ page.
 #### Endorsements
 
 Complete, notarized
-[application](https://www.ct.gov/dph/lib/dph/practitioner_licensing_and_investigations/plis/nursing/rn/rn_app_only.pdf)with
+[application](https://portal.ct.gov/dph)with
 \$180 application fee
 
 A recent photo
@@ -34,19 +34,19 @@ Service Professional
 Report](https://www.cgfns.org/services/credentials-evaluation/credentials-evaluation-service-professional-report/)
 
 Complete [Verification of Nurse
-Licensure](https://www.ct.gov/dph/lib/dph/practitioner_licensing_and_investigations/plis/nursing/rn/rn_licverif_form.pdf)
+Licensure](https://portal.ct.gov/dph/practitioner-licensing--investigations/plis/verify-a-license)
 form or verification through [www.nursys.com](https://www.nursys.com/)
 
 A temporary permit may be issued as well for 120 days.
 
 Click here for a link to the [RN Licensure by
-Endorsement](https://www.ct.gov/dph/cwp/view.asp?a=3121&q=389428&dphNav_GID=1821)
+Endorsement](https://portal.ct.gov/dph/practitioner-licensing--investigations/registered-nurse/rn-licensure-by-endorsement)
 page
 
 Renewals are completed online and cost \$110
 
 You will be required to report abuse, exploitation and neglect. Click
-[here](https://www.ct.gov/dph/cwp/view.asp?a=3121&q=389520&dphNav=|&dphNav_GID=1821)to
+[here](https://portal.ct.gov/dph/practitioner-licensing--investigations/plis/mandatory-reporters-of-abuse-neglect-exploitation-and-impaired-practitioners)to
 learn more.
 
 #### Continuing Education
@@ -60,7 +60,7 @@ Continuing Education is not required for the state of Connecticut.
 Board of Examiners for Nursing
 
 Web address:
-[https://www.ct.gov/dph/cwp/view.asp?a=3143&q=388910](https://www.ct.gov/dph/cwp/view.asp?a=3143&q=388910)
+[https://portal.ct.gov/dph/public-health-hearing-office/board-of-examiners-for-nursing/board-of-examiners-for-nursing](https://portal.ct.gov/dph/public-health-hearing-office/board-of-examiners-for-nursing/board-of-examiners-for-nursing)
 
 Mailing address:
 

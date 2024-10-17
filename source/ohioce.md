@@ -39,7 +39,7 @@ page.
     Rules](https://codes.ohio.gov/ohio-administrative-code/rule-4723-14-03)
 
 -   For more information and to view the application, click
-    [here](https://www.nursing.ohio.gov/forms.htm#ExamEndorseForms)and
+    [here](https://nursing.ohio.gov/)and
     scroll down to endorsement applicants.
 
 RN renewal takes place every two years during odd numbered years.License
@@ -63,7 +63,7 @@ FAQ](https://nursing.ohio.gov/continuing-education-and-pre-licensure/continuing-
 
 #### Contact Information
 
-[Ohio Board of Nursing web address](https://www.nursing.ohio.gov/)
+[Ohio Board of Nursing web address](https://nursing.ohio.gov/)
 
 Business hours are 8 a.m. 5 p.m.
 
