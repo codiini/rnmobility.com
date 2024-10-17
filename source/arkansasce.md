@@ -23,7 +23,7 @@ Arkansas is a compact state. If you are moving to Arkansas or claiming it as you
 -   Criminal background check.
 -   Completed online application and fee of **$125**.
 
-For more details on the endorsement process, click [here](https://www.healthy.arkansas.gov/programs-services/topics/endorsement-nursing-license).
+For more details on the endorsement process, click [here](https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/licensing/endorsement/).
 
 Licenses are renewed on a staggered **biennial birth date system**. The renewal fee is **$100** for RNs.
 
@@ -35,11 +35,11 @@ To meet Arkansas' continuing competency requirements, you must complete one of t
 -   Current certification from a nationally recognized nursing certification body.
 -   One college credit hour in a nursing course (grade of C or higher).
 
-For more details on [continuing education](https://www.healthy.arkansas.gov/programs-services/topics/continuing-education-for-nurses), click [here](https://www.healthy.arkansas.gov/programs-services/topics/continuing-education-for-nurses).
+See more details on [continuing education](https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/education/continuing-education/).
 
 #### Contact information
 
-Web Address: <https://www.healthy.arkansas.gov/programs-services/topics/arkansas-state-board-of-nursing>
+Web Address: <https://healthy.arkansas.gov/event/arkansas-state-board-of-nursing-public-hearing/>
 
 Arkansas State Board of Nursing  
 University Tower Bldg.  

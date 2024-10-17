@@ -19,19 +19,19 @@ North Dakota is a compact state. If you are moving to North Dakota or claiming i
 - Graduation from a nursing program that was approved where you originally received your licensure.
 - You must have passed the NCLEX or the SBTPE.
 - Unencumbered license anywhere you have held a license.
-- Your license must be current. If it has been inactive or expired for five years or longer, you must take a [refresher course](https://www.ndbon.org/Refresher%20Course%20Information).
-- [Criminal background check](https://www.ndbon.org/Criminal%20Background%20Check) ($38).
+- Your license must be current. If it has been inactive or expired for five years or longer, you must take a [refresher course](https://www.ndbon.org/Education/ContinuingEd/RefresherCourses.asp).
+- [Criminal background check](https://www.ndbon.org/FAQ/Practice.asp/CriminalHistoryRcrdChk.asp) ($38).
 - US Social Security Number.
-- Completed [online application](https://www.ndbon.org/Endorsement%20Application). Fee is $150.
-- Verification of licensure through [Nursys](https://www.ndbon.org/Nursys) website.
+- Completed [online application](https://www.ndbon.org/NurseLicensure/InitialEndorse/index.asp). Fee is $150.
+- Verification of licensure through [Nursys](https://ndbon.boardsofnursing.org/licenselookup) website.
 
   - For those states that do not participate in the Nursys verification system, use the verification forms included on your confirmation page.
 
-Click [here](https://www.ndbon.org/Endorsement%20Information) to view the North Dakota Board of Nursing [Endorsement Page](https://www.ndbon.org/Endorsement%20Information).
+Click to view the North Dakota Board of Nursing [Endorsement Page](https://www.ndbon.org/NurseLicensure/InitialEndorse/index.asp).
 
-Renewals occur every two years on the last day of your birth month and cost $100. Click [here](https://www.ndbon.org/Renewal%20Information) to go to the Board's [Renewal Requirements](https://www.ndbon.org/Renewal%20Information) page. Click [here](https://www.ndbon.org/Renewal%20Application) to go to the [online renewal application](https://www.ndbon.org/Renewal%20Application).
+Renewals occur every two years on the last day of your birth month and cost $100. Click [here](https://www.ndbon.org/NurseLicensure/RenewReactivate/index.asp) to go to the Board's [Renewal Requirements](https://www.ndbon.org/NurseLicensure/RenewReactivate/index.asp) page. Click to go to the [online renewal application](https://www.ndbon.org/NurseLicensure/RenewReactivate/index.asp).
 
-For foreign educated nurses please see the page for [Internationally Educated Applicants](https://www.ndbon.org/International%20Educated%20Applicants).
+For foreign educated nurses please see the page for [Internationally Educated Applicants](https://www.ndbon.org/NurseLicensure/InitialEndorse/endorsement-ien.asp).
 
 #### Continuing competency
 
@@ -43,7 +43,7 @@ You must complete one of the following continuing competency activities to renew
 - Refresher course that is approved by the Board.
 - Two semester hours of nursing-related academic coursework.
 
-To view other options, click [here](https://www.ndbon.org/Continuing%20Competency) to go to the [Continuing competency Requirements page](https://www.ndbon.org/Continuing%20Competency).
+To view other options, click to go to the [Continuing competency Requirements page](https://www.ndbon.org/Education/ContinuingEd/Renewal.asp).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/north-dakota-acls-pals-bls)
 
@@ -73,4 +73,4 @@ Fax Number: (701) 328-9785
 
 ### FAQ
 
-Click [here](https://www.ndbon.org/FAQ) for the Board's FAQ.
+Click [here](https://www.ndbon.org/FAQ/Practice.asp) for the Board's FAQ.

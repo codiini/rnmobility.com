@@ -16,7 +16,7 @@ Each state needs a competent medical workforce to meet the needs of its citizens
 
 Idaho is a compact state, meaning nurses can practice across other compact states without needing to apply for a separate license. If you are moving to Idaho or claiming it as your primary state of residence, you will need to apply for an endorsement to use your license in Idaho. General instructions are listed below:
 
-- Complete an endorsement application through the [Nurse Portal](https://ibn.boardsofnursing.org) [oai_citation:9,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/).
+- Complete an endorsement application through the [Nurse Portal](https://dopl.idaho.gov/bon/bon-licensing-del/) [oai_citation:9,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/).
 - Pay the required application fee ($110) [oai_citation:8,Continuing Education and Auditing | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/cou/cou-ce-and-audit/).
 - Submit a fingerprint-based criminal background check ($42 fee) [oai_citation:7,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/).
 - Verification of licensure through the [Nursys system](https://www.nursys.com/), or if your state does not participate, submit the "Verification of Licensure" form [oai_citation:6,Resources and Forms | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-resources/).
@@ -25,7 +25,7 @@ You may also apply for a temporary license while your endorsement is being proce
 
 #### **Renewals**
 
-Idaho nursing licenses expire on August 31 of odd-numbered years. Renewal can be completed through the [Nurse Portal](https://ibn.boardsofnursing.org). The renewal fee is $90 [oai_citation:4,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/) [oai_citation:3,](https://dopl.idaho.gov/wp-content/uploads/2022/08/Nursing-Clean-Copy-9.1.22.pdf).
+Idaho nursing licenses expire on August 31 of odd-numbered years. Renewal can be completed through the [Nurse Portal](https://dopl.idaho.gov/bon/bon-licensing-del/). The renewal fee is $90 [oai_citation:4,Apply for or Renew a License | Division of Occupational and Professional Licenses](https://dopl.idaho.gov/bon/bon-licensing-del/) [oai_citation:3,](https://dopl.idaho.gov/wp-content/uploads/2022/08/Nursing-Clean-Copy-9.1.22.pdf).
 
 #### **Continuing competency**
 

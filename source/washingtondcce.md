@@ -58,4 +58,4 @@ Washington DC
 
 ### FAQ
 
-A link to the Washington DC Board of Nursing's frequently asked questions can be found [here](https://dchealth.dc.gov/node/887272).
+A link to the Washington DC Board of Nursing's frequently asked questions can be found [here](https://dchealth.dc.gov/page/2022-rnaprn-renewal-frequently-asked-questions).

@@ -37,7 +37,7 @@ For more information regarding continuing education, including approved provider
 
 ### Contact information
 
-[Nevada Board of Nursing](https://nvbn.state.nv.us)
+[Nevada Board of Nursing](https://nevadanursingboard.org/)
 
 Licensure Unit has two locations:
 
