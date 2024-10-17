@@ -38,7 +38,7 @@ Georgia RNs are required to complete continuing education or demonstrate compete
 
 For more details, visit the [Continuing Education FAQ](https://sos.ga.gov/page/nursing-continuing-education) and check the [accepted CE providers list](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf) [oai_citation:4,](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Continuing%20Education%20Packet.pdf) [oai_citation:3,Nursing Continuing Education | Georgia Secretary of State](https://sos.ga.gov/page/nursing-continuing-education).
 
-#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/georgia-acls-pals-bls).
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/georgia-acls-pals-bls)
 
 #### Contact information
 

@@ -17,7 +17,7 @@ Below is a general list of requirements for endorsements. Click [here](https://m
 
 -   Submit application and fee (\$105)
 -   Submit verification of licensure from the state you were originally licensed in and from the state you are currently licensed in (if it is a different state)
-  -   Verifications may be obtainable from [www.nursys.com](https://www.nursys.com/)
+-   Verifications may be obtainable from [www.nursys.com](https://www.nursys.com/)
 -   [Confirmation of Nursing Employment for Licensure by Endorsement form](https://mn.gov/boards/assets/Conf_Nursing_Employment_tcm21-586960.pdf)
 -   You may need to take a refresher course
 -   Social security number

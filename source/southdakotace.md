@@ -24,17 +24,17 @@ South Dakota is a compact state. If you are moving to South Dakota or claiming i
     
 *   Verification of employment verifying either
     
-  *   140 hours practiced as an RN in the last 12 months, or
+*   140 hours practiced as an RN in the last 12 months, or
         
-  *   480 hours in the last six years
+*   480 hours in the last six years
         
-  *   You must have your current or previous employer fill out the [Employment Verification Form](https://www.sdbon.org/userfiles/EmploymentVerification.pdf) and return it to the South Dakota Board of Nursing.
+*   You must have your current or previous employer fill out the [Employment Verification Form](https://www.sdbon.org/userfiles/EmploymentVerification.pdf) and return it to the South Dakota Board of Nursing.
         
 *   Verification of original licensure
     
-  *   You may verify your licensure using [Nursys website](https://www.nursys.com) if your original state of licensure participates in the site
+*   You may verify your licensure using [Nursys website](https://www.nursys.com) if your original state of licensure participates in the site
         
-  *   If your state does not participate in the Nursys Verification system you can download the Verification of Licensure Form [here.](https://www.sdbon.org/userfiles/verifyLicense.pdf) Check with your state for applicable fees.
+*   If your state does not participate in the Nursys Verification system you can download the Verification of Licensure Form [here.](https://www.sdbon.org/userfiles/verifyLicense.pdf) Check with your state for applicable fees.
         
 
 You may renew your license online for a fee of $90. You must verify that you have worked either 140 hours in the last 12 months or 480 hours in the last six years as a registered nurse.

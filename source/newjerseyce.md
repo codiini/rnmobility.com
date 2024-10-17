@@ -19,8 +19,8 @@ Below are general requirements for endorsement:
 
 -   Complete application with notarized affidavit
 -   Appropriate fees
-  -   $200 to the New Jersey Board of Nursing (for application, filing and surcharge)
-  -   $61.44 to Morphotrust (for fingerprints)
+-   $200 to the New Jersey Board of Nursing (for application, filing and surcharge)
+-   $61.44 to Morphotrust (for fingerprints)
 -   2x2 passport style photo
 -   Birth certificate
 -   If applicable, immigration documents
@@ -29,8 +29,8 @@ Below are general requirements for endorsement:
 -   Fingerprint card
 -   If you live in the metropolitan New Jersey area you will receive digital fingerprint information in the mail.
 -   Verification of licensure from [Nursys](https://www.nursys.com/) from all states you have practiced in
-  -   Your state(s) may send verification if they do not participate in Nursys
-  -   You must be in good standing in all states
+-   Your state(s) may send verification if they do not participate in Nursys
+-   You must be in good standing in all states
 -   US Social Security number
 -   Signed and completed checklist
 

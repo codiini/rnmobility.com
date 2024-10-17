@@ -31,7 +31,7 @@ Click [here](https://drive.google.com/file/d/0BzKoVwvexVATTEVXYV9jeTBHcDg/view) 
 
 **Continuing education is not required** for nurses to renew their licenses in Colorado.
 
-#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/colorado-acls-pals-bls).
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/colorado-acls-pals-bls)
 
 #### Contact information
 
@@ -44,6 +44,6 @@ Phone number: 303-894-2430
 Alternate phone: 303-894-2458  
 Fax number: 303-894-2821
 
-Email: dora_nursingboard@state.co.us
+Email: <dora_nursingboard@state.co.us>
 
 Hours: Monday - Friday 8 a.m. to 5 p.m. MST

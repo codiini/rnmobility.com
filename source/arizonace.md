@@ -53,7 +53,7 @@ Arizona does not have formal continuing education (CE) requirements.
 
 The board requires that you have worked at least **960 hours** in the last five years to renew your license. If you haven't met this requirement, you may take a refresher course. Arizona Board-approved refresher courses can be found [here](https://www.azbn.gov/sites/default/files/2021-07/2021.07.06.%20Approved%20Refresher%20Programs.pdf).
 
-#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/arizona-acls-pals-bls).
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/arizona-acls-pals-bls)
 
 #### Contact information
 

@@ -21,12 +21,12 @@ Canadian-educated nurses can use this [link for application](https://www.oplc.nh
 -   Minimum of 400 hours working as a nurse over the last four years and 30 continuing education contact hours in the last two years, or
 -   Passing NCLEX scores within the last two years
 -   $49.75 for criminal background check
-  -   Authorization Form for Criminal Background Check is included in the endorsement packet.
+-   Authorization Form for Criminal Background Check is included in the endorsement packet.
 -   $120 application fee
 -   Application [link](https://www.oplc.nh.gov/board-nursing-forms-and-other-documents)
 -   Verification of original licensure
-  -   You may use [www.nursys.com](https://www.nursys.com/) if your original state of licensure participates in Nursys
-  -   You may use the request form in the [paper application](https://www.oplc.nh.gov/board-nursing-forms-and-other-documents).
+-   You may use [www.nursys.com](https://www.nursys.com/) if your original state of licensure participates in Nursys
+-   You may use the request form in the [paper application](https://www.oplc.nh.gov/board-nursing-forms-and-other-documents).
 
 You may [renew your license online](https://nhlicenses.nh.gov/MyLicense%20Enterprise/). Licenses must be renewed every two years.
 

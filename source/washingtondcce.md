@@ -27,7 +27,7 @@ The following is a list of general requirements for licensure by endorsement in 
     
 *   Verification of license from current and original states of licensure
     
-  *   If your state participates in <www.nursys.com>, you may verify your license through that site.
+*   If your state participates in <www.nursys.com>, you may verify your license through that site.
         
 
 Your RN license will expire on the 30th of June during even-numbered years. You may [renew your license online](https://dchealth.dc.gov/service/professional-license-applications) for $97.

@@ -22,9 +22,9 @@ South Carolina is a compact state. If you are moving to South Carolina or claimi
     
 *   Complete, notarized [application](https://www.llr.sc.gov/POL/Nursing/pdf/RN_LPN_Endorsement.pdf) with fees
     
-  *   $100 application fee
+*   $100 application fee
         
-  *   $110 if requesting temporary permit
+*   $110 if requesting temporary permit
         
 *   2x2 passport style photograph (recent)
     
@@ -34,11 +34,11 @@ South Carolina is a compact state. If you are moving to South Carolina or claimi
     
 *   Proof of residence
     
-  *   Driver's license
+*   Driver's license
         
-  *   Voters Registration
+*   Voters Registration
         
-  *   State ID
+*   State ID
         
 *   Proof of lawful presence. See page 8 and 9 of the [application](https://www.llr.sc.gov/POL/Nursing/pdf/RN_LPN_Endorsement.pdf).
     
@@ -46,9 +46,9 @@ South Carolina is a compact state. If you are moving to South Carolina or claimi
     
 *   Verification of Original Licensure
     
-  *   submit verification form, or
+*   submit verification form, or
         
-  *   Utilize [Nursys](https://www.nursys.com) if your original state participates in Nursys
+*   Utilize [Nursys](https://www.nursys.com) if your original state participates in Nursys
         
 
 Your license must be renewed every even numbered year on the 30th of April. License renewal cost is $75. Click [here for more information.](https://www.llr.sc.gov/index.asp?file=inc/Boards.htm)
@@ -65,7 +65,7 @@ Continuing [competency requirements](https://www.llr.sc.gov/POL/Nursing/pdf/Comp
     
 *   Your employer may verify your competency and the number of hours you have practiced
     
-  *   Verification must be on a Board approved form
+*   Verification must be on a Board approved form
         
 
 Click [here](https://www.llr.sc.gov/POL/Nursing/pdf/CompetencyCriteria.pdf) for more details.

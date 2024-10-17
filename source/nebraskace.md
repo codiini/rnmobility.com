@@ -19,9 +19,9 @@ Nebraska is a compact state. If you are moving to Nebraska or claiming it as you
 -   You must be a graduate of an approved nursing program.
 -   Provide proof of citizenship.
 -   Meet one of the following criteria:
-    -   500 hours of practice as an RN
-    -   Graduation from a nursing program within the last two years
-    -   Complete a refresher course
+-   500 hours of practice as an RN
+-   Graduation from a nursing program within the last two years
+-   Complete a refresher course
 -   Criminal background check. Fee is $28.75. See [link](https://dhhs.ne.gov/licensure/Documents/ExaminationRNLPN.pdf) for information and instructions.
 -   You must have passing NCLEX or SBTPE scores.
 -   Submit a complete [application](https://dhhs.ne.gov/licensure/Documents/EndorsementRNLPN.pdf). The fee is $123.

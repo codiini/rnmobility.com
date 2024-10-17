@@ -38,7 +38,7 @@ Florida requires **24 hours of continuing education** every two years. Your CE c
 
 Additionally, first-time renewals must include a **one-time HIV/AIDS course**. You can convert college credits to CE hours: **one quarter hour equals 10 contact hours**, and **one semester hour equals 15 contact hours** [oai_citation:7,Florida Board of Nursing   » Registered Nurse (RN) - Licensing, Renewals & Information](https://floridasnursing.gov/renewals/registered-nurse-rn/) [oai_citation:6,Florida Board of Nursing   » Licensure by Endorsement FAQs - Licensing, Renewals & Information](https://floridasnursing.gov/nursing-faqs/licensure-by-endorsement/) [oai_citation:5,Florida Board of Nursing   » Licensed Practical Nurse & Registered Nurse by Endorsement - Licensing, Renewals & Information](https://floridasnursing.gov/licensing/licensed-practical-nurse-registered-nurse-by-endorsement/).
 
-#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/florida-acls-pals-bls).
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/florida-acls-pals-bls)
 
 #### Contact information
 

@@ -17,8 +17,8 @@ The Alaska Board of Nursing is committed to protecting the health of Alaska's ci
 
 -   Complete, sign, and notarize your application. Be sure to include a passport-type photo taken within six months of submitting your application.
 -   Submit appropriate fees via check or money order:
-  -   Application for Endorsement Total: **$275.00**
-  -   Total if a temporary permit is included: **$325.00**
+-   Application for Endorsement Total: **$275.00**
+-   Total if a temporary permit is included: **$325.00**
 -   Submit a completed fingerprint card provided or approved by the Alaska Board of Nursing.
 -   License verification is required. It may be sent from or made available by the National Council of State Boards of Nursing (NCSBN) online system ([www.nursys.com](https://www.nursys.com/)).
 -   To view the endorsement application page, click [here](https://www.commerce.alaska.gov/web/portals/5/pub/nur4016.pdf "Link to endorsement Alaska application").

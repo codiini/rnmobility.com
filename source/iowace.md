@@ -29,7 +29,7 @@ For more details, visit Iowa's [endorsement page](https://dial.iowa.gov/licenses
 
 You may renew your license [online](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index) for \$99. Renewal occurs every three years. Renewal must be completed 30 days prior to the 15th of your birth month; after this date, a \$50 late fee will be incurred [oai_citation:8,License Renewals | Department of Inspections, Appeals, & Licensing](https://dial.iowa.gov/licenses/medical/nursing-professional-midwifery/nursing-licensure/renewals) [oai_citation:7,Board of Nursing | Department of Inspections, Appeals, & Licensing](https://dial.iowa.gov/about-dial/boards-0/board-nursing).
 
-#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/iowa-acls-pals-bls).
+#### This state requires nurses to hold current [ACLS certification](https://www.acls.net/iowa-acls-pals-bls)
 
 #### Continuing competency
 

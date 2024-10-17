@@ -26,7 +26,7 @@ Texas is a compact state. If you are moving to Texas or claiming it as your prim
     
 *   [Verification of original licensure](https://www.bon.texas.gov/pdfs/RN-verif.pdf)
     
-  *   You may verify via <www.nursys.com> if your original state of licensure participates in the site
+*   You may verify via <www.nursys.com> if your original state of licensure participates in the site
         
 
 You may renew your license [online](https://www.bon.texas.gov/texasnurseportal/) or by using the [paper application](https://www.bon.texas.gov/texasnurseportal/index.html) for $60. Renewals take place every two years.
