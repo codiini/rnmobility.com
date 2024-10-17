@@ -16,7 +16,7 @@ Each state needs a competent medical workforce to meet the needs of its citizens
 
 You can reach the page covering endorsements [here](https://wsbn.wyo.gov/licensing).
 
-Near the top of the page, you should see a link to the [application for endorsement](https://nursing-online.state.wy.us/Resources/RN%20Endorsement%20App%204-22-2013.pdf).
+Near the top of the page, you should see a link to the [application for endorsement](https://wsbn.wyo.gov/licensing).
 
 In order to receive licensure by verification, you must:
 

@@ -20,7 +20,7 @@ North Dakota is a compact state. If you are moving to North Dakota or claiming i
 - You must have passed the NCLEX or the SBTPE.
 - Unencumbered license anywhere you have held a license.
 - Your license must be current. If it has been inactive or expired for five years or longer, you must take a [refresher course](https://www.ndbon.org/Education/ContinuingEd/RefresherCourses.asp).
-- [Criminal background check](https://www.ndbon.org/FAQ/Practice.asp/CriminalHistoryRcrdChk.asp) ($38).
+- [Criminal background check](https://www.hhs.nd.gov/providers/criminal-background-checks) ($38).
 - US Social Security Number.
 - Completed [online application](https://www.ndbon.org/NurseLicensure/InitialEndorse/index.asp). Fee is $150.
 - Verification of licensure through [Nursys](https://ndbon.boardsofnursing.org/licenselookup) website.

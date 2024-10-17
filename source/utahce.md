@@ -16,7 +16,7 @@ Each state needs a competent medical workforce to meet the needs of it's citizen
 
 Utah is a compact state. If you are moving to Utah or claiming it as your primary state of residence, you will need to apply for application by endorsement in order to use your license in Utah. General instructions are listed below.
 
-*   Completed [paper](http://www.dopl.utah.gov/apps/RN_LPN.pdf) or online application
+*   Completed [paper](https://dopl.utah.gov/nursing/apply-for-a-license/registered-nurse-or-licensed-practical-nurse/) or online application
     
 *   Verification of licensure
     
@@ -33,7 +33,7 @@ Utah is a compact state. If you are moving to Utah or claiming it as your primar
 *   Foreign graduates may also demonstrate that they have practiced for 6,000 hours as a licensed RN
     
 
-You must renew your license [online](http://www.dopl.utah.gov/renewal.html) or by using the [paper application](http://www.dopl.utah.gov/renewal/RN.pdf). Renewal costs $58 and takes place every two years.
+You must renew your license [online](https://secure.utah.gov/doplrenewal/doplrenewal?page=requestRenewalId) or by using the [paper application](https://dopl.utah.gov/nursing/renew-a-license/). Renewal costs $58 and takes place every two years.
 
 You are required to complete one of the following for continued competency:
 
@@ -51,7 +51,7 @@ All continuing education hours must be Board approved.
 
 #### Contact information
 
-[State of Utah Department of Commerce Division of Occupational and Professional Licensing](http://www.dopl.utah.gov/licensing/nursing.html)
+[State of Utah Department of Commerce Division of Occupational and Professional Licensing](https://dopl.utah.gov/nursing/apply-for-a-license/)
 
 Heber M. Wells Bldg., 4th Floor  
 160 East 300 South  
@@ -65,6 +65,4 @@ Fax number: 801.530.6511
 
 ### FAQ
 
-Click [here](http://www.dopl.utah.gov/licensing/forms/Nursing_FAQ.pdf) for FAQs.
-
-* * *
+Click [here](https://dopl.utah.gov/nursing/apply-for-a-license/) for FAQs.

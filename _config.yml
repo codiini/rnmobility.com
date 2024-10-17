@@ -2,7 +2,7 @@
 title: RN Mobility
 description: Learn the basics of registered nurse license endorsement, renewal, and continuing education in the USA. Keep your nursing credentials up to date.
 url: https://rnmobility.com/
-#permalink: pretty
+permalink: "/:path"
 google_analytics_id: G-RJB2BBT9M7
 
 exclude:

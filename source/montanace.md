@@ -16,20 +16,20 @@ Each state needs a competent medical workforce to meet the needs of its citizens
 
 Montana refers to endorsements as license by credentialing. The general requirements for license by credentialing include:
 
-- A complete application fee of **$200.00**. You can find the application form [here](http://b.bsd.dli.mt.gov/license/bsd_boards/nur_board/pdf/nur_end_app.pdf).
+- A complete application fee of **$200.00**. You can find the application form [here](https://boards.bsd.dli.mt.gov/_docs/nur/rn-license-app-checklist.pdf).
 - Proof of passing the NCLEX or a Board-recognized license exam.
 - Proof of all states or locations where you have been licensed in for the last two years. You may verify your license through [www.nursys.com](https://www.nursys.com/).
 - Foreign transcripts must be evaluated.
 - Nurses attending training abroad may need to provide proof of English language proficiency by exam.
 - A fingerprint/background check. You must obtain a fingerprint card from a law enforcement agency, which costs **$27.25** to process.
 
-If your state does not participate in the Nursys verification system, you must request verification directly from the board that issued your license. For this, you need to fill out the [Montana Department of Labor & Industry Verification Request](http://b.bsd.dli.mt.gov/license/pdf/verification.pdf) form, which incurs a fee of **$20**.
+If your state does not participate in the Nursys verification system, you must request verification directly from the board that issued your license. For this, you need to fill out the [Montana Department of Labor & Industry Verification Request](https://boards.bsd.dli.mt.gov/_global-pages/additional-license-information/) form, which incurs a fee of **$20**.
 
-For further details, click [here](http://bsd.dli.mt.gov/license/bsd_boards/nur_board/board_page.asp).
+For further details, see [Montana Board of Nursing](https://boards.bsd.dli.mt.gov/nursing/).
 
 #### Continuing Competency
 
-Montana does not have mandatory continuing education requirements for renewal. However, RNs are still expected to maintain their competence through continuing education voluntarily. Renewal occurs during even-numbered years on December 31, and the cost is **$100**. For more information, the renewal application can be found [here](http://b.bsd.dli.mt.gov/license/bsd_boards/nur_board/pdf/RN_LPN_renew.pdf).
+Montana does not have mandatory continuing education requirements for renewal. However, RNs are still expected to maintain their competence through continuing education voluntarily. Renewal occurs during even-numbered years on December 31, and the cost is **$100**. For more information, the renewal application can be found [here](https://boards.bsd.dli.mt.gov/_docs/nur/rn-lpn-renew.pdf).
 
 #### This state requires nurses to hold current [ACLS certification.](https://www.acls.net/montana-acls-pals-bls)
 

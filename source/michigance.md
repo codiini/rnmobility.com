@@ -29,7 +29,7 @@ Foreign applicants educated outside the U.S. must have a Professional Report com
 
 #### Continuing competency
 
-You will have to complete at least 25 contact hours for renewal. Renewals take place every two years. One hour must be in pain and pain symptom management. Click [here](https://www.michigan.gov/documents/lara/LARA_Nursing_CE_Brochure_5-11_376431_7.pdf) for more details.
+You will have to complete at least 25 contact hours for renewal. Renewals take place every two years. One hour must be in pain and pain symptom management. Click [here](https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/nursing) for more details.
 
 Click [here](https://www.michigan.gov/mdhhs/inside-mdhhs/legislationpolicy/ems/Education-Information/Continuing-Education-Offered-By-The-Department) for information on approved continuing education courses.
 

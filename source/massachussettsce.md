@@ -47,7 +47,7 @@ page.
 [Renewals](https://www.mass.gov/how-to/renew-your-nursing-license)should
 be completed by the day of your birth on even numbered years following
 your next birthday, it costs \$120 and may be completed online, click
-[here](https://onlineservices.hhs.state.ma.us/MyLicense%20Enterprise/)
+[here](https://www.mass.gov/how-to/renew-your-nursing-license)
 
 If you need written license verification or a certification of standing
 for a foreign country or agency other than a state board of nursing, you

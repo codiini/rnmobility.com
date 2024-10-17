@@ -38,6 +38,6 @@ Phone: (304) 558-3596
 Toll-Free: 1-877-743-NURS (6877)  
 Fax: (304) 558-3666  
 
-Web Address: [www.wvrnboard.com](http://www.wvrnboard.com)  
+Web Address: [www.wvrnboard.com](https://wvrnboard.wv.gov/Pages/default.aspx)
 Email: <rnboard@wv.gov>
 

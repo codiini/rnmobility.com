@@ -20,7 +20,7 @@ To apply for RN licensure by endorsement in Georgia, you must:
 - Submit verification of licensure from either [Nursys](https://www.nursys.com/) or from your current and original state of licensure if they are different. 
 - Provide official transcripts if required, and foreign graduates must submit a **Professional Report** from the [CGFNS Credentials Evaluation Service](https://www.cgfns.org/).
 - Show proof of **500 hours of RN practice** in the last four years or proof of graduation from a nursing program within the last four years. If you do not meet these criteria, you must complete an approved nursing reentry program.
-- Complete a **fingerprint background check**. Visit the [guidelines page](https://sos.ga.gov/PLB/acrobat/Forms/38%20Guidelines%20-%20Fingerprint%20Background%20Check%20for%20Out%20of%20State%20Applicants.pdf) for more information [oai_citation:6,Georgia Board of Nursing | Georgia Secretary of State](https://sos.ga.gov/georgia-board-nursing) [oai_citation:5,How to Guide: Registered Nurse | Georgia Secretary of State](https://sos.ga.gov/how-to-guide/how-guide-registered-nurse).
+- Complete a **fingerprint background check**. Visit the [guidelines page](https://sos.ga.gov/sites/default/files/forms/38%20Guidelines%20-%20Nursing%20-%20Fingerprint%20Background%20Check%20Instructions.pdf) for more information [oai_citation:6,Georgia Board of Nursing | Georgia Secretary of State](https://sos.ga.gov/georgia-board-nursing) [oai_citation:5,How to Guide: Registered Nurse | Georgia Secretary of State](https://sos.ga.gov/how-to-guide/how-guide-registered-nurse).
 
 #### Renewal
 
@@ -36,7 +36,7 @@ Georgia RNs are required to complete continuing education or demonstrate compete
 4. Graduate from a Board-recognized nursing program or complete a reentry program.
 5. Complete a **2-hour course** in nursing or a related field.
 
-For more details, visit the [Continuing Education FAQ](https://sos.ga.gov/page/nursing-continuing-education) and check the [accepted CE providers list](https://sos.ga.gov/PLB/acrobat/Forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf) [oai_citation:4,](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Continuing%20Education%20Packet.pdf) [oai_citation:3,Nursing Continuing Education | Georgia Secretary of State](https://sos.ga.gov/page/nursing-continuing-education).
+For more details, visit the [Continuing Education FAQ](https://sos.ga.gov/page/nursing-continuing-education) and check the [accepted CE providers list](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Accepted%20CE%20Providers.pdf) [oai_citation:4,](https://sos.ga.gov/sites/default/files/forms/38%20Reference%20-%20Continuing%20Education%20Packet.pdf) [oai_citation:3,Nursing Continuing Education | Georgia Secretary of State](https://sos.ga.gov/page/nursing-continuing-education).
 
 #### This state requires nurses to hold current [ACLS certification](https://www.acls.net/georgia-acls-pals-bls)
 

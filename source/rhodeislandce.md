@@ -33,7 +33,7 @@ Rhode Island is a compact state. If you are moving to Rhode Island or claiming i
         
   * Driver's license
         
-* Verification of licensure of all states you have been licensed in from <www.nursys.com> or using the Interstate Verification form on the [application](http://www.health.ri.gov/forms/NurseVerificationForm.pdf)
+* Verification of licensure of all states you have been licensed in from <www.nursys.com> or using the Interstate Verification form on the [application](https://www.health.ri.gov/forms/NurseVerificationForm.pdf)
     
 * 2x2 passport style photo
     
@@ -49,7 +49,7 @@ Licenses are renewed every two years. To do it online click [here.](https://heal
 
 The American Nurses Credentialing Center or one of its local offices must approve, present, or accept any continuing education credit. You will not have to submit proof of continuing education at the time of renewal; but, you should keep any documentation for four years in the case of an audit.
 
-You must complete ten contact hours of continuing education in the two years preceding renewal. Click [here](http://www.health.ri.gov/for/nurses/index.php) for more information. Two of your CEs must be about substance abuse.
+You must complete ten contact hours of continuing education in the two years preceding renewal. Click [here](https://healthri.mylicense.com/Login.aspx) for more information. Two of your CEs must be about substance abuse.
 
 #### Contact information
 

@@ -29,7 +29,7 @@ Maryland is a [compact state](https://www.ncsbn.org/bon-member-details/Maryland)
 
 Renewals can be completed online for \$146 and occur every two years.
 
-The American Nurses Credentialing Center or one of its local offices must approve any continuing education credit. You do not need to submit proof of continuing education at the time of renewal, but you should keep documentation for four years in case of an audit. You must complete ten contact hours of continuing education in the two years preceding renewal. Click [here](http://www.health.ri.gov/for/nurses/index.php) for more information.
+The American Nurses Credentialing Center or one of its local offices must approve any continuing education credit. You do not need to submit proof of continuing education at the time of renewal, but you should keep documentation for four years in case of an audit. You must complete ten contact hours of continuing education in the two years preceding renewal.
 
 ### Continuing Education Requirements
 

@@ -26,7 +26,7 @@ You can verify your license through **Nursys** or submit a license verification 
 
 #### Renewals
 
-RN licenses are renewed in three groups with expiration dates of **April 30, July 31**, or **April 30** every two years. The **renewal fee is $80**. Nurses must report their continuing education (CE) hours through Florida's CE tracking system, [CEBroker](https://www.cebroker.com). No CE documents need to be submitted unless you are audited [oai_citation:8,Florida Board of Nursing   » Registered Nurse (RN) - Licensing, Renewals & Information](https://floridasnursing.gov/renewals/registered-nurse-rn/).
+RN licenses are renewed in three groups with expiration dates of **April 30, July 31**, or **April 30** every two years. The **renewal fee is $80**. Nurses must report their continuing education (CE) hours through Florida's CE tracking system, [CEBroker](https://cebroker.com). No CE documents need to be submitted unless you are audited [oai_citation:8,Florida Board of Nursing   » Registered Nurse (RN) - Licensing, Renewals & Information](https://floridasnursing.gov/renewals/registered-nurse-rn/).
 
 #### Continuing Education Information
 

@@ -16,15 +16,15 @@ Each state needs a competent medical workforce to meet the needs of its citizens
 
 Kentucky is a compact state. If you are moving to Kentucky or claiming it as your primary state of residence, you will need to apply for licensure by endorsement to use your license in Kentucky. General instructions are listed below.
 
-- Completed [Online Endorsement Application](https://ssla.state.ky.us/kbnursing/RNLicensureAPRNApplication.aspx) with \$165 application fee.
+- Completed [Online Endorsement Application](https://kbn.ky.gov/Registered-Nurse/Pages/rn-endorsement.aspx) with \$165 application fee.
   - You may also complete a paper application request form, which costs an additional \$40.
 - Complete [State Background Check](https://kbn.ky.gov/Licensure/Pages/criminal-background.aspx).
-- Complete [Federal Background Check](https://kbn.ky.gov/apply/Pages/courtnet.aspx) (\$14.75).
+- Complete [Federal Background Check](https://kbn.ky.gov/Licensure/Pages/criminal-background.aspx) (\$14.75).
 - Submit a completed [Verification of Licensure](https://kbn.ky.gov/Licensure/Pages/license-verification.aspx) Form or verification via [www.nursys.com](https://www.nursys.com).
 - Complete a Jurisprudence Examination online after submitting the application. More information about the exam can be found [here](https://kbn.ky.gov/Licensure/Pages/jurisprudence-exam.aspx).
 - Paper Application Request Form can be accessed [here](https://kbn.ky.gov/state-registered-nurse-aide/Pages/Apply.aspx).
 
-You may [renew your license online](https://ssla.state.ky.us/kbnursing/SearchLicense.aspx?TYP=RNCOMPACT) for \$50. Renewals occur yearly before October 31.
+You may [renew your license online](https://kbn.ky.gov/Licensure/Pages/nurse-licensure-compact.aspx) for \$50. Renewals occur yearly before October 31.
 
 Foreign nurses educated outside of the U.S. must complete the [VisaScreen](https://www.cgfns.org/services/certification/visascreen-visa-credentials-assessment/) for Kentucky licensure. For details about the VisaScreen process, click [here](https://kbn.ky.gov/KBN%20Documents/cgfns-visascreen.pdf).
 
