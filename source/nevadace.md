@@ -54,7 +54,7 @@ Reno, NV 89502-6547
 Main phone number: 775-687-7700  
 Toll-free line: 888-590-6726  
 Main fax number: 775-687-7707 - General Fax line  
-​(775) 687-7729 - Compliance Department Fax line  
+​775-687-7729 - Compliance Department Fax line  
 
 Email correspondence to either office can be sent to:  
 [nursingboard@nsbn.state.nv.us](mailto:nursingboard@nsbn.state.nv.us?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20for%20the%20Nevada%20State%20Board%20of%20Nursing%20here.)

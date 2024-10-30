@@ -65,9 +65,9 @@ North Carolina Board of Nursing
 Post Office Box 2129  
 Raleigh, North Carolina 27602-2129
 
-Phone number: (919) 782-3211
+Phone number: 919-782-3211
 
-Fax Number: (919) 781-9461
+Fax Number: 919-781-9461
 
 * * * * *
 

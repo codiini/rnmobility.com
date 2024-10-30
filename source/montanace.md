@@ -43,15 +43,15 @@ Helena, MT 59601
 P.O. Box 200513  
 Helena, MT 59620-0513
 
-**General Fax**: (406) 841-2305  
+**General Fax**: 406-841-2305  
 **General E-mail**: [nurse@mt.gov](mailto:nurse@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20found%20your%20email%20address%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20I%20have%20some%20questions%20about%20licensure%20in%20Montana)
 
 **Telephone Numbers**:  
-- Information regarding endorsement: (406) 841-2202  
-- For renewal or name changes: (406) 841-2205  
-- For continuing education: (406) 841-2380  
+- Information regarding endorsement: 406-841-2202  
+- For renewal or name changes: 406-841-2205  
+- For continuing education: 406-841-2380  
 
-To contact Board Management, you can reach **Cynthia Gustafson, PhD, RN**, the Executive Officer, at (406) 841-2380 or via email at [cgustafson@mt.gov](mailto:cgustafson@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20for%20the%20Montana%20Board%20Management%20Bureau%20here.)
+To contact Board Management, you can reach **Cynthia Gustafson, PhD, RN**, the Executive Officer, at 406-841-2380 or via email at [cgustafson@mt.gov](mailto:cgustafson@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20was%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20for%20the%20Montana%20Board%20Management%20Bureau%20here.)
 
 For further details, visit the [Montana Board of Nursing website](https://boards.bsd.dli.mt.gov/nursing/).
 

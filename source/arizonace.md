@@ -62,8 +62,8 @@ Arizona State Board of Nursing
 4747 North 7th Street, Suite 200  
 Phoenix, AZ 85014-3655
 
-Phone number: (602) 771-7800  
-Fax number: (602) 771-7888
+Phone number: 602-771-7800  
+Fax number: 602-771-7888
 
 Email Address: <arizona@azbn.gov>  
 Office Hours: 8:00 AM - 5:00 PM Mon-Fri

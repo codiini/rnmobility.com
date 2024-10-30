@@ -44,8 +44,8 @@ You must complete a [Mandatory Abuse Course](https://dial.iowa.gov/licenses/medi
 Suite B  
 Des Moines, IA 50309
 
-**Phone:** (515) 281-3255  
-**Fax:** (515) 281-4825  
+**Phone:** 515-281-3255  
+**Fax:** 515-281-4825  
 **Email:** <nursing@sos.iowa.gov>
 
 **Hours of Operation:** 8:00 am– 4:30 pm Monday through Friday

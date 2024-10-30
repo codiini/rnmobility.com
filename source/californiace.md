@@ -54,9 +54,9 @@ Board of Registered Nursing
 P.O. Box 944210  
 Sacramento, CA 94244-2100
 
-**Phone inquiries**: (916) 322-3350  
-**TTY for the Hearing Impaired**: (800) 326-2297  
+**Phone inquiries**: 916-322-3350  
+**TTY for the Hearing Impaired**: 800-326-2297  
 **Email for Applicant Services**: <brn.licensing@dca.ca.gov>  
-**Fax for Applicant Services**: (916) 574-7697  
+**Fax for Applicant Services**: 916-574-7697  
 **Email for Licensee Services**: <renewals.brn@dca.ca.gov>  
-**Fax for Licensee Services**: (916) 574-7699
+**Fax for Licensee Services**: 916-574-7699

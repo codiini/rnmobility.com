@@ -40,9 +40,9 @@ PO Box 83720
 280 N 8th Street, Suite 210  
 Boise, Idaho 83720-0061
 
-Phone: (208) 577-2476  
-TDD: (800) 377-3529  
-Fax: (208) 334-3262
+Phone: 208-577-2476  
+TDD: 800-377-3529  
+Fax: 208-334-3262
 
 **Email:** <info@ibn.idaho.gov>  
 **Hours:** 8:00 AM to 5:00 PM, Monday through Friday

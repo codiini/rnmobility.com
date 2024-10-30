@@ -74,8 +74,8 @@ Juneau, AK 99801-1770
 
 Phone and Fax Numbers for the Juneau Location are:
 
-Main Phone: (907) 465-2550  
-FAX: (907) 465-2974
+Main Phone: 907-465-2550  
+FAX: 907-465-2974
 
 Mailing and Physical Address for the Anchorage Location is:
 
@@ -85,8 +85,8 @@ Anchorage, AK 99501-3567
 
 Phone and Fax Numbers for the Anchorage Location are:
 
-Main Phone: (907) 269-8160  
-FAX: (907) 269-8156
+Main Phone: 907-269-8160  
+FAX: 907-269-8156
 
 Alaska Board of Nursing website address:  
 [https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofNursing.aspx](https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofNursing.aspx "Alaska Board of Nursing web address")
@@ -94,8 +94,8 @@ Alaska Board of Nursing website address:
 Lisa Maroney  
 Records & Licensing Supervisor  
 <lisa.maroney@alaska.gov>  
-Phone: (907) 268-8892  
-Fax: (907) 269-8196
+Phone: 907-268-8892  
+Fax: 907-269-8196
 
 * * * * *
 

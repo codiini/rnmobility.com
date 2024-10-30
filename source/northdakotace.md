@@ -65,9 +65,9 @@ North Dakota Board of Nursing
 P.O. Box 730  
 Bismarck, ND 58502-0730
 
-Phone number: (701) 328-9777
+Phone number: 701-328-9777
 
-Fax Number: (701) 328-9785
+Fax Number: 701-328-9785
 
 * * * * *
 

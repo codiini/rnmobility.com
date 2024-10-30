@@ -46,6 +46,6 @@ Location:
 Washington Avenue  
 Madison, WI 53703  
 
-Fax: (608) 261-7083  
-Phone: (608) 266-2112  
+Fax: 608-261-7083  
+Phone: 608-266-2112  
 E-Mail: <dsps@wisconsin.gov>

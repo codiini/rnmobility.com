@@ -48,7 +48,7 @@ Licensure Unit, Nursing
 PO Box 94986  
 Lincoln, NE 68509-4986  
 
-Phone (402) 471-4176  
+Phone 402-471-4176  
 
 E-Mail:  
 [DHHS.NursingOffice@nebraska.gov](mailto:DHHS.NursingOffice@nebraska.gov?subject=RN%20license%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20was%20on%20the%20website%20RNMobility.com%20and%20read%20that%20I%20can%20send%20my%20questions%20for%20the%20Nebraska%20Nursing%20Licensure%20Unit%20here.)

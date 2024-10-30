@@ -49,11 +49,11 @@ Web address:
 89 Main Street, 3rd Floor  
 Montpelier, Vermont 05620-3402
 
-Phone: (802) 828-2367, or
+Phone: 802-828-2367, or
 
 Board of Nursing
 
-(802) 828-2396
+802-828-2396
 
 * * *
 

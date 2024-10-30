@@ -42,9 +42,9 @@ DC Department of Health
 
 Board of Nursing
 
-Phone: (877) 672-2174
+Phone: 877-672-2174
 
-Fax: (202) 724-5145
+Fax: 202-724-5145
 
 Hours: Monday through Friday 8:15 am to 4:45 pm
 

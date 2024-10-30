@@ -47,17 +47,17 @@ The amount of continuing education you need for renewal will depend on how many 
 17373 Perkins Road  
 Baton Rouge, LA 70810  
 
-Phone: (225) 755-7500  
-Fax: (225) 755-7584  
+Phone: 225-755-7500  
+Fax: 225-755-7584  
 
 Email: <lsbn@lsbn.state.la.us>  
 
 For more specific inquiries:  
-- Education/Licensure: Patricia Dufrene (225) 755-7522 <dufrenep@lsbn.state.la.us>  
-- Endorsements/Volunteer Nurses/Foreign Nurses: (225) 755-7520 (225) 755-7581 <endorsements@lsbn.state.la.us>  
-- Education: Students & Continuing Education: (225) 755-7522 (225) 755-7580 <education@lsbn.state.la.us>  
-- General Questions: (225) 755-7500 (225) 755-7584 <lsbn@lsbn.state.la.us>  
-- License Renewal: (225) 755-7500 (225) 755-7584 <renewals@lsbn.state.la.us>  
+- Education/Licensure: Patricia Dufrene 225-755-7522 <dufrenep@lsbn.state.la.us>  
+- Endorsements/Volunteer Nurses/Foreign Nurses: 225-755-7520 225-755-7581 <endorsements@lsbn.state.la.us>  
+- Education: Students & Continuing Education: 225-755-7522 225-755-7580 <education@lsbn.state.la.us>  
+- General Questions: 225-755-7500 225-755-7584 <lsbn@lsbn.state.la.us>  
+- License Renewal: 225-755-7500 225-755-7584 <renewals@lsbn.state.la.us>  
 
 * * * * *
 

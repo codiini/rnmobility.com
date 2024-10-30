@@ -52,7 +52,7 @@ New Jersey Board of Nursing
 
 Newark, New Jersey 07101
 
-​(973) 504-6430
+​973-504-6430
 
 Web Address: [www.njconsumeraffairs.gov/nur/Pages/default.aspx](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
 

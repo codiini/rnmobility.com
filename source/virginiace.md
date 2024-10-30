@@ -95,9 +95,9 @@ Henrico, Virginia 23233-1463 - Directions
 
 Office Hours are from Monday through Friday, 8:15 a.m. to 5:00 p.m., excluding holidays
 
-Phone: (804) 367-4400
+Phone: 804-367-4400
 
-Fax: (804) 527-4475
+Fax: 804-527-4475
 
 * * *
 

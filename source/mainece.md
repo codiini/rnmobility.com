@@ -40,8 +40,8 @@ Maine State Board of Nursing
 161 Capitol St.  
 Augusta, Maine, 04333-0158
 
-Phone: (207) 287-1133
+Phone: 207-287-1133
 
-Fax: (207) 287-1149
+Fax: 207-287-1149
 
 Hours are 8:00 a.m. to 4:30 p.m.

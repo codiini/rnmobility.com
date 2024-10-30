@@ -44,6 +44,6 @@ P.O. Box 340308
 Hartford, CT 06134-0308
 
 Phone: **860-509-7603** (Menu Option 2)  
-Fax: **(860) 707-1984**  
+Fax: **860-707-1984**  
 Email: <oplc.dph@ct.gov>  
 Office Hours: **Monday - Friday 8 a.m. to 5 p.m.**

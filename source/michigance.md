@@ -43,7 +43,7 @@ Board of Nursing
 PO Box 30193  
 Lansing, MI 48909
 
-(517) 335-0918
+517-335-0918
 
 [Web Address](https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/nursing)
 
