@@ -1,0 +1,15 @@
+{%- include navbar.html -%}
+
+<div class="page-header-container p-3 p-lg-5">
+  <div class="container d-flex justify-content-center align-items-center text-center">
+    <div class="page-header-container__text pt-lg-5 text-black">
+      <h1 class="page-header-container__heading">
+        {{ page.heading }}
+      </h1>
+      <h2 class="page-header-container__sub-heading">{{ page.subheading }}</h2>
+      {% if page.hasCTA %}
+        <a href="#states-section" type="button" class="btn btn-primary p-4 rounded-pill">Learn about your license</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
