@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Florida: RN License Endorsement, Renewal & Ed'
+title: 'Florida: RN licennse endorsement, renewal & ed'
 description: "Explore the details of registered nurse license endorsement, renewal, and continuing education in Florida. Enhance your nursing knowledge and skills."
 heading: 'Florida'
 state: FL

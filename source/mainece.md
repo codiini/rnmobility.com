@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Maine: RN license endorsement, renewal & education'
+title: 'Maine: RN licennse endorsement, renewal & education'
 description: "Stay informed about RN license endorsement, renewal, and continuing education in Maine. Keep your license active."
 heading: "Maine"
 state: ME
