@@ -24,6 +24,7 @@
 }
 
 .home-header-container__text a {
+  margin-top: 25px;
   background-color: #0000ff;
 }
 
@@ -35,9 +36,130 @@
   width: 40%;
 }
 
-@media screen and (max-width: 768px) {
+#states-section {
+  padding: 50px 0;
+}
+
+#states-section > .states-section__header {
+  width: 60%;
+}
+
+#states-section > .states-section__header h3 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#states-section > .states-section__header p {
+  font-size: 20px;
+}
+
+#states-section > .states-section__card-list {
+  width: 100%;
+}
+
+#states-section .states-section__card-list--item {
+  /* width: 100%; */
+  background-color: #f8f9fa;
+}
+
+#states-section .states-section__card-list--item .states-section__card-item--title {
+  width: 100%;
+  height: 70px;
+  background-color: #f2f2ff;
+  color: #0000ff;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+#states-section .states-section__card-item--list {
+  padding: 20px;
+}
+
+#states-section .states-section__card-list--item .states-section__card-item--list > li > a {
+  text-decoration: none;
+  color: black;
+}
+
+#states-section .states-section__card-list--item .states-section__card-item--list > li > a:hover {
+  text-decoration: underline;
+}
+
+.features-section > .feature-one {
+  margin-bottom: 50px !important;
+}
+
+.features-section > .feature-one h4,
+.features-section > .feature-two h4 {
+  font-weight: bold !important;
+  font-size: 30px;
+  padding: 0;
+}
+
+.features-section > .feature-one p,
+.features-section > .feature-two p {
+  font-size: 18px;
+  color: #5e5e82;
+  padding: 0;
+}
+
+.features-section > .feature-one img,
+.features-section > .feature-two img {
+  object-fit: cover;
+  width: 50%;
+}
+
+.features-section > .feature-two .feature-two__text {
+  margin: 50px 0;
+  padding-left: 50px;
+}
+.features-section > .feature-one .feature-one__text {
+  padding-right: 75px;
+}
+
+.features-section > .feature-one .feature-one__text h4 {
+  width: 75%;
+}
+
+@media screen and (max-width: 992px) {
   .home-header-container__heading,
   .page-header-container__heading {
     font-size: 40px;
+  }
+
+  #states-section > .states-section__header {
+    width: 100%;
+  }
+
+  #states-section > .states-section__header h3 {
+    font-size: 30px;
+  }
+
+  .features-section > .feature-one img,
+  .features-section > .feature-two img {
+    width: 100%;
+    object-fit: contain;
+  }
+
+  .features-section > .feature-one .feature-one__text {
+    padding-right: 30px;
+  }
+
+  .features-section > .feature-one .feature-one__text h4,
+  .features-section > .feature-two .feature-two__text h4 {
+    font-size: 25px;
+  }
+
+  .features-section > .feature-one .feature-one__text h4 {
+    width: 100%;
+  }
+
+  .features-section > .feature-two .feature-two__text {
+    padding-left: 0;
+  }
+
+  .features-section > .feature-two .feature-two__text h4 {
+    padding-right: 80px;
+    padding-left: unset;
   }
 }
