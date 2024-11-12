@@ -123,7 +123,12 @@
   padding-bottom: 50px;
 }
 
-.pricing-section .pricing-section__header {
+.pricing-section .pricing-section__header > div {
+  color: #0000ff;
+  background-color: #dde3eb9d;
+}
+
+.pricing-section .pricing-section__header > h2 {
   font-weight: bold;
   font-size: 30px;
 }
@@ -137,7 +142,7 @@
 }
 
 .course-card.selected {
-  border-color: #0d6efd;
+  border-color: #0000ff;
 }
 
 .course-card:hover {
@@ -218,7 +223,7 @@
 
   .features-section > .feature-one .feature-one__text h4,
   .features-section > .feature-two .feature-two__text h4,
-  .pricing-section .pricing-section__header {
+  .pricing-section .pricing-section__header > h2 {
     font-size: 25px;
   }
 

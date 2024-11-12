@@ -9,17 +9,13 @@
 
     <div class="container">
       <!-- Page content -->
-      <p class="lead">
-        {{ page.motto }}
-      </p>
-      <hr>
       {%- if page.compact -%}
         {%- include compact-state.html -%}
       {%- endif -%}
       {{ content }}
       {%- include public-feedback.html -%}
-      {%- include footer.html -%}
     </div>
+    {%- include footer.html -%}
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
