@@ -58,7 +58,8 @@
 }
 
 #states-section .states-section__card-list--item {
-  /* width: 100%; */
+  max-width: 250px;
+  width: 100%;
   background-color: #f8f9fa;
 }
 
@@ -135,6 +136,11 @@
     font-size: 30px;
   }
 
+  #states-section .states-section__card-list--item {
+    max-width: 200px;
+    width: 100%;
+  }
+
   .features-section > .feature-one img,
   .features-section > .feature-two img {
     width: 100%;
@@ -161,5 +167,12 @@
   .features-section > .feature-two .feature-two__text h4 {
     padding-right: 80px;
     padding-left: unset;
+  }
+}
+
+@media screen and (max-width: 471px) {
+  #states-section .states-section__card-list--item {
+    max-width: 100%;
+    width: 100%;
   }
 }
