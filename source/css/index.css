@@ -87,7 +87,7 @@
 }
 
 .features-section > .feature-one {
-  margin-bottom: 50px !important;
+  margin-bottom: 100px !important;
 }
 
 .features-section > .feature-one h4,
@@ -114,12 +114,73 @@
   margin: 50px 0;
   padding-left: 50px;
 }
+
 .features-section > .feature-one .feature-one__text {
   padding-right: 75px;
 }
 
-.features-section > .feature-one .feature-one__text h4 {
-  width: 75%;
+.pricing-section {
+  padding-bottom: 50px;
+}
+
+.pricing-section .pricing-section__header {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.course-card {
+  border: 2px solid #dee2e6;
+  padding: 1.5rem;
+  height: 100%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.course-card.selected {
+  border-color: #0d6efd;
+}
+
+.course-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.course-card:focus {
+  box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25);
+}
+
+.course-card:focus:not(:focus-visible) {
+  box-shadow: none;
+}
+
+.course-card:focus-visible {
+  box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25);
+}
+
+.course-card__title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.course-card__price {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.course-card__text {
+  color: #6c757d;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.pricing-section #buynow-btn {
+  background-color: #0000ff;
+  color: #fff;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+}
+
+.pricing-section #buynow-btn:hover {
+  background-color: #0b5ed7;
 }
 
 @media screen and (max-width: 992px) {
@@ -133,12 +194,16 @@
   }
 
   #states-section > .states-section__header h3 {
-    font-size: 30px;
+    font-size: 28px;
   }
 
   #states-section .states-section__card-list--item {
     max-width: 200px;
     width: 100%;
+  }
+
+  .features-section > .feature-one {
+    margin-bottom: 50px !important;
   }
 
   .features-section > .feature-one img,
@@ -152,7 +217,8 @@
   }
 
   .features-section > .feature-one .feature-one__text h4,
-  .features-section > .feature-two .feature-two__text h4 {
+  .features-section > .feature-two .feature-two__text h4,
+  .pricing-section .pricing-section__header {
     font-size: 25px;
   }
 
@@ -165,7 +231,7 @@
   }
 
   .features-section > .feature-two .feature-two__text h4 {
-    padding-right: 80px;
+    padding-right: 50px;
     padding-left: unset;
   }
 }

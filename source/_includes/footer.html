@@ -1,118 +1,153 @@
-<div class="w-100">
-  <h2>Online ACLS Recertification in 2-5 hours</h2>
+<div class="pricing-section container mt-5">
+  <div class="d-flex flex-column align-items-center gap-2">
+    <div class="mt-2 p-1 px-3 alert alert-primary rounded-0">
+      <em>10% off with 2 courses, 15% off with 3</em>
+    </div>
+    <h2 class="pricing-section__header text-center mb-5 w-75 text-center mx-auto">
+      Online ACLS recertification in 2-5 hours
+    </h2>
+  </div>
 
-  <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="form-inline courses-btns-form">
+  <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="courses-btns-form">
     <input
       name="source_website"
       type="hidden"
       value="{%- if page.experiment -%}{{site.url}}{{page.url | escape}}{%- elsif page.canonical-link -%}{{site.url}}{{page.canonical-link | escape}}{%- else -%}{{site.url}}{{page.url | escape}}{%- endif -%}"
     >
-    <p>
-      <button
-        type="button"
-        class="btn btn-primary mb-1 course"
-        id="prechecked"
-        style="font-size:25px; background:red; border-color:darkred"
-        data-course="2"
-      >
-        <i class="bi bi-check2-square"></i>
-        ACLS <span class="tex-muted">$175</span>
-      </button>
-      <button
-        type="button"
-        class="btn btn-primary mb-1 course"
-        style="font-size:25px; background:purple; border-color:purple"
-        data-course="4"
-      >
-        <i class="bi bi-square"></i>
-        PALS <span class="tex-muted">$175</span>
-      </button>
-      <button
-        type="button"
-        class="btn btn-primary mb-1 course"
-        style="font-size:25px; background:blue; border-color:darkblue"
-        data-course="6"
-      >
-        <i class="bi bi-square"></i>
-        BLS <span class="tex-muted">$65</span>
-      </button>
-    </p>
-    <div class="w-100">
-      <button id="buynow" type="submit" class="btn btn-outline-secondary">
+
+    <div class="row">
+      <!-- ACLS Card -->
+      <div class="col-md-4 mb-3">
+        <div
+          class="course-card selected"
+          data-course="2"
+          tabindex="0"
+          role="button"
+          aria-pressed="true"
+          aria-label="ACLS Provider Course $175"
+        >
+          <div class="course-card__body">
+            <div class="d-flex justify-content-between align-items-center">
+              <h5 class="course-card__title">ACLS PROVIDER</h5>
+              <span class="course-card__price">$175</span>
+            </div>
+            <p class="course-card__text">
+              ACLS provides skills to manage cardiopulmonary arrest or other cardiovascular emergencies, to recognize
+              and manage respiratory arrest, and to provide services in emergency situations.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- PALS Card -->
+      <div class="col-md-4 mb-3">
+        <div
+          class="course-card"
+          data-course="4"
+          tabindex="0"
+          role="button"
+          aria-pressed="false"
+          aria-label="PALS Provider Course $175"
+        >
+          <div class="course-card__body">
+            <div class="d-flex justify-content-between align-items-center">
+              <h5 class="course-card__title">PALS PROVIDER</h5>
+              <span class="course-card__price">$175</span>
+            </div>
+            <p class="course-card__text">
+              PALS is for those who respond to emergencies in children and infants, provide intensive care, emergency
+              medicine, and provide services in critical care units to pediatric patients.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- BLS Card -->
+      <div class="col-md-4 mb-3">
+        <div
+          class="course-card"
+          data-course="6"
+          tabindex="0"
+          role="button"
+          aria-pressed="false"
+          aria-label="BLS Provider Course $65"
+        >
+          <div class="course-card__body">
+            <div class="d-flex justify-content-between align-items-center">
+              <h5 class="course-card__title">BLS PROVIDER</h5>
+              <span class="course-card__price">$65</span>
+            </div>
+            <p class="course-card__text">
+              BLS course provides training for prompt recognition of several life-threatening emergencies, delivering
+              appropriate ventilations, and provision of high-quality chest compressions.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-center my-4 row">
+      <button id="buynow-btn" type="submit" class="col-9 col-xl-3 mx-auto btn btn-lg rounded-0">
         <i class="bi bi-cart-fill"></i> Buy now
       </button>
-      <em>10% off with 2 courses, 15% off with 3</em>
+
+      <p class="mt-4 h6">
+        <a class="text-decoration-underline text-black" href="https://www.acls.net/signup"
+          >See our other courses and group discounts</a
+        >
+      </p>
     </div>
-    <p>
-      <a href="https://www.acls.net/signup">... see our other courses and group discounts</a>
-    </p>
   </form>
 </div>
 
-<footer class="text-center">
+<hr>
+
+<footer class="text-center mt-4">
   <p>&copy; {{ 'now' | date: '%Y' }} RNMobility.com, a service of acls.net</p>
 </footer>
-<!-- javascript -->
+
 <script>
-  // Code below is used to include acls recertification in shopping cart
-  // When code is initially loaded (This is pre checked option)
   document.addEventListener('DOMContentLoaded', () => {
-    const courseHiddenInput = document.createElement('input');
-    courseHiddenInput.setAttribute('type', 'hidden');
-    courseHiddenInput.setAttribute('id', 'courseHidden2');
-    courseHiddenInput.setAttribute('name', 'courses[2][course_id]');
-    courseHiddenInput.setAttribute('class', 'courseHidden');
-    courseHiddenInput.setAttribute('value', '2');
-    document.querySelector('form.courses-btns-form').appendChild(courseHiddenInput);
+    // Initial setup for pre-checked ACLS course
+    addCourseToForm(2);
 
-    const courseHiddenQuantityInput = document.createElement('input');
-    courseHiddenQuantityInput.setAttribute('type', 'hidden');
-    courseHiddenQuantityInput.setAttribute('id', 'courseHiddenQuantity2');
-    courseHiddenQuantityInput.setAttribute('name', 'courses[2][quantity]');
-    courseHiddenQuantityInput.setAttribute('class', 'courseHidden');
-    courseHiddenQuantityInput.setAttribute('value', '1');
-    document.querySelector('form.courses-btns-form').appendChild(courseHiddenQuantityInput);
-  });
+    // Add click and keyboard handlers to all course cards
+    document.querySelectorAll('.course-card').forEach((card) => {
+      // Click handler
+      card.addEventListener('click', handleCardSelection);
 
-  // This code will only execute and create event for add to cart when prechecked course is bought.
-  document.querySelector('#buynow').addEventListener('click', () => {
-    if (document.querySelector('#prechecked i.fa-check-square-o')) {
-      const courseNum = 2;
-      // GA4
-      gtag('event', 'add_to_cart', {
-        currency: 'USD',
-        value: courses[courseNum]['price'],
-        items: [
-          {
-            item_id: 'course_' + courseNum,
-            item_name: courses[courseNum]['name'],
-            currency: 'USD',
-            price: courses[courseNum]['price'],
-            quantity: 1,
-          },
-        ],
+      // Keyboard handler
+      card.addEventListener('keydown', (event) => {
+        // Trigger selection on Space or Enter key
+        if (event.key === ' ' || event.key === 'Enter') {
+          event.preventDefault(); // Prevent page scroll on space
+          handleCardSelection.call(card);
+        }
       });
-    }
-  });
+    });
 
-  document.querySelectorAll('.courses-btns-form button[data-course]').forEach((button) => {
-    button.addEventListener('click', (event) => {
-      event.stopPropagation();
-      const courseNum = button.getAttribute('data-course');
+    function handleCardSelection() {
+      const courseId = this.dataset.course;
+      const isSelected = this.classList.toggle('selected');
 
-      if (document.querySelector('#courseHidden' + courseNum)) {
-        document.querySelector('#courseHidden' + courseNum).remove();
-        document.querySelector('#courseHiddenQuantity' + courseNum).remove();
-        button.querySelector('i').classList.remove('fa-check-square-o');
-        button.querySelector('i').classList.add('fa-square-o');
+      // Update ARIA state
+      this.setAttribute('aria-pressed', isSelected);
+
+      if (isSelected) {
+        addCourseToForm(courseId);
       } else {
+        removeCourseFromForm(courseId);
+      }
+    }
+
+    function addCourseToForm(courseNum) {
+      if (!document.querySelector('#courseHidden' + courseNum)) {
         const courseHiddenInput = document.createElement('input');
         courseHiddenInput.setAttribute('type', 'hidden');
         courseHiddenInput.setAttribute('id', 'courseHidden' + courseNum);
         courseHiddenInput.setAttribute('name', 'courses[' + courseNum + '][course_id]');
         courseHiddenInput.setAttribute('class', 'courseHidden');
         courseHiddenInput.setAttribute('value', courseNum);
-        document.querySelector('form.courses-btns-form').appendChild(courseHiddenInput);
 
         const courseHiddenQuantityInput = document.createElement('input');
         courseHiddenQuantityInput.setAttribute('type', 'hidden');
@@ -120,32 +155,42 @@
         courseHiddenQuantityInput.setAttribute('name', 'courses[' + courseNum + '][quantity]');
         courseHiddenQuantityInput.setAttribute('class', 'courseHidden');
         courseHiddenQuantityInput.setAttribute('value', '1');
-        document.querySelector('form.courses-btns-form').appendChild(courseHiddenQuantityInput);
 
-        button.querySelector('i').classList.remove('fa-square-o');
-        button.querySelector('i').classList.add('fa-check-square-o');
+        const form = document.querySelector('.courses-btns-form');
+        form.appendChild(courseHiddenInput);
+        form.appendChild(courseHiddenQuantityInput);
 
-        // GA4
-        gtag('event', 'add_to_cart', {
-          currency: 'USD',
-          value: courses[courseNum]['price'],
-          items: [
-            {
-              item_id: 'course_' + courseNum,
-              item_name: courses[courseNum]['name'],
-              currency: 'USD',
-              price: courses[courseNum]['price'],
-              quantity: 1,
-            },
-          ],
-        });
-
-        const buynowBtn = document.querySelector('.courses-btns-form #buynow');
-        for (let i = 0; i < 8; i++) {
-          setTimeout(() => {
-            buynow.style.opacity = i % 2;
-          }, i * 80);
+        // GA4 tracking
+        if (typeof gtag === 'function') {
+          gtag('event', 'add_to_cart', {
+            currency: 'USD',
+            value: courses[courseNum].price,
+            items: [
+              {
+                item_id: 'course_' + courseNum,
+                item_name: courses[courseNum].name,
+                currency: 'USD',
+                price: courses[courseNum].price,
+                quantity: 1,
+              },
+            ],
+          });
         }
+      }
+    }
+
+    function removeCourseFromForm(courseNum) {
+      document.querySelector('#courseHidden' + courseNum)?.remove();
+      document.querySelector('#courseHiddenQuantity' + courseNum)?.remove();
+    }
+
+    // Handle form submission
+    document.querySelector('#buynow-btn').addEventListener('click', () => {
+      const selectedCourses = document.querySelectorAll('.course-card.selected');
+      if (selectedCourses.length === 0) {
+        event.preventDefault();
+        alert('Please select at least one course');
+        return;
       }
     });
   });
