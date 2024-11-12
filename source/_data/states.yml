@@ -1,0 +1,137 @@
+A:
+  - name: "Alabama"
+    href: "alabamace"
+  - name: "Alaska"
+    href: "alaskace"
+  - name: "Arizona"
+    href: "arizonace"
+  - name: "Arkansas"
+    href: "arkansasce"
+
+C:
+  - name: "California"
+    href: "californiace"
+  - name: "Colorado"
+    href: "coloradoce"
+  - name: "Connecticut"
+    href: "connecticutce"
+
+D:
+  - name: "Delaware"
+    href: "delawarece"
+
+F:
+  - name: "Florida"
+    href: "floridace"
+
+G:
+  - name: "Georgia"
+    href: "georgiace"
+
+H:
+  - name: "Hawaii"
+    href: "hawaiice"
+
+I:
+  - name: "Idaho"
+    href: "idahoce"
+  - name: "Illinois"
+    href: "illinoisce"
+  - name: "Indiana"
+    href: "indianace"
+  - name: "Iowa"
+    href: "iowace"
+
+K:
+  - name: "Kansas"
+    href: "kansasce"
+  - name: "Kentucky"
+    href: "kentuckyce"
+
+L:
+  - name: "Louisiana"
+    href: "louisianace"
+
+M:
+  - name: "Maine"
+    href: "mainece"
+  - name: "Maryland"
+    href: "marylandce"
+  - name: "Massachusetts"
+    href: "massachusettsce"
+  - name: "Michigan"
+    href: "michigance"
+  - name: "Minnesota"
+    href: "minnesotace"
+  - name: "Mississippi"
+    href: "mississippice"
+  - name: "Missouri"
+    href: "missourice"
+  - name: "Montana"
+    href: "montanace"
+
+N:
+  - name: "Nebraska"
+    href: "nebraskace"
+  - name: "Nevada"
+    href: "nevadace"
+  - name: "New Hampshire"
+    href: "newhampshirece"
+  - name: "New Jersey"
+    href: "newjerseyce"
+  - name: "New Mexico"
+    href: "newmexicoce"
+  - name: "New York"
+    href: "newyorkce"
+  - name: "North Carolina"
+    href: "northcarolinace"
+  - name: "North Dakota"
+    href: "northdakotace"
+
+O:
+  - name: "Ohio"
+    href: "ohioce"
+  - name: "Oklahoma"
+    href: "oklahomace"
+  - name: "Oregon"
+    href: "oregonce"
+
+P:
+  - name: "Pennsylvania"
+    href: "pennsylvaniace"
+
+R:
+  - name: "Rhode Island"
+    href: "rhodeislandce"
+
+S:
+  - name: "South Carolina"
+    href: "southcarolinace"
+  - name: "South Dakota"
+    href: "southdakotace"
+
+T:
+  - name: "Tennessee"
+    href: "tennesseece"
+  - name: "Texas"
+    href: "texasce"
+
+U:
+  - name: "Utah"
+    href: "utahce"
+
+V:
+  - name: "Vermont"
+    href: "vermontce"
+  - name: "Virginia"
+    href: "virginiace"
+
+W:
+  - name: "Washington"
+    href: "washingtonce"
+  - name: "West Virginia"
+    href: "westvirginiace"
+  - name: "Wisconsin"
+    href: "wisconsince"
+  - name: "Wyoming"
+    href: "wyomingce"
