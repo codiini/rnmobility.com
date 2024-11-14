@@ -6,10 +6,12 @@
       <h1 class="page-header-container__heading">
         {{ page.heading }}
       </h1>
-      <h2 class="page-header-container__sub-heading">{{ page.subheading }}</h2>
-      {% if page.hasCTA %}
-        <a href="#states-section" type="button" class="btn btn-primary p-4 rounded-pill">Learn about your license</a>
-      {% endif %}
+      {% if page.subheading %}
+        <h2 class="page-header-container__sub-heading mt-3">{{ page.subheading }}</h2>
+      {%- endif -%}
+      {% if page.motto %}
+        <h2 class="page-header-container__sub-heading mt-3">{{ page.motto }}</h2>
+      {%- endif -%}
     </div>
   </div>
 </div>
