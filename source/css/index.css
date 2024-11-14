@@ -36,6 +36,10 @@
   width: 40%;
 }
 
+/*
+* States Section
+*/
+
 #states-section {
   padding: 50px 0;
 }
@@ -86,12 +90,16 @@
   text-decoration: underline;
 }
 
+/*
+* Features Section
+*/
+
 .features-section > .feature-one {
   margin-bottom: 100px !important;
 }
 
-.features-section > .feature-one h4,
-.features-section > .feature-two h4 {
+.features-section > .feature-one h3,
+.features-section > .feature-two h3 {
   font-weight: bold !important;
   font-size: 30px;
   padding: 0;
@@ -119,11 +127,20 @@
   padding-right: 75px;
 }
 
+/*
+* Courses Pricing Section
+*/
+
 .pricing-section {
   padding-bottom: 50px;
 }
 
-.pricing-section .pricing-section__header {
+.pricing-section .pricing-section__header > div {
+  color: #0000ff;
+  background-color: #dde3eb9d;
+}
+
+.pricing-section .pricing-section__header > h4 {
   font-weight: bold;
   font-size: 30px;
 }
@@ -137,7 +154,7 @@
 }
 
 .course-card.selected {
-  border-color: #0d6efd;
+  border-color: #0000ff;
 }
 
 .course-card:hover {
@@ -183,6 +200,37 @@
   background-color: #0b5ed7;
 }
 
+/*
+* About Page Section
+*/
+
+.about-section {
+  padding-top: 20px;
+}
+
+.about-section .about-section__text p {
+  width: 90%;
+  font-size: 18px;
+}
+
+/*
+* Multi-State License Section
+*/
+.multistate-section {
+  padding-top: 50px;
+}
+
+.multistate-section__two .section-two__feature {
+  background-color: #f2f2ff;
+  color: #5e5e82;
+  font-size: 18px;
+}
+
+.multistate-section__three .section-three__text--callout {
+  background-color: #f2f2ff;
+  color: #0000ff;
+}
+
 @media screen and (max-width: 992px) {
   .home-header-container__heading,
   .page-header-container__heading {
@@ -218,7 +266,7 @@
 
   .features-section > .feature-one .feature-one__text h4,
   .features-section > .feature-two .feature-two__text h4,
-  .pricing-section .pricing-section__header {
+  .pricing-section .pricing-section__header > h2 {
     font-size: 25px;
   }
 

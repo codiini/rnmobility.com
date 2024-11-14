@@ -8,20 +8,27 @@ subheading: Transfer or work across state lines.
 <div class="row container-md mx-auto">
   <div id="states-section" class="col-md-12">
     <div class="states-section__header text-center mx-auto">
-      <h3 class="mb-3">Everything you need to know about the state you want to work in is a click away.</h3>
+      <h3 class="mb-3">All the info you need about your desired work state is just a click away</h3>
 
       <p class="text-lg">Find your state below</p>
     </div>
 
     <div class="states-section__card-list py-4 mx-auto row justify-content-center gap-4">
-      {% for states in site.data.states %}
+      {% assign states_by_letter = site.pages
+        | where_exp: 'page', 'page.statename != nil'
+        | where_exp: 'page', 'page.published == true'
+        | group_by_exp: 'item', 'item.statename | slice: 0'
+      %}
+      {% for letter_group in states_by_letter %}
         <div class="states-section__card-list--item col-6 col-sm-4 col-lg-4 col-xl-3 px-0">
-          <div class="states-section__card-item--title">{{ states[0] }}</div>
+          <div class="states-section__card-item--title">{{ letter_group.name }}</div>
           <ul class="states-section__card-item--list list-unstyled d-flex flex-column gap-3">
-            {% for state in states[1] %}
-              <li>
-                <a href="{{ state.href }}">{{ state.name }}</a>
-              </li>
+            {% for state in letter_group.items %}
+              {% if state.statename %}
+                <li>
+                  <a href="{{ state.name | remove: '.md' }}">{{ state.statename }}</a>
+                </li>
+              {% endif %}
             {% endfor %}
           </ul>
         </div>
@@ -32,7 +39,7 @@ subheading: Transfer or work across state lines.
   <div class="features-section py-5 p-3">
     <div class="feature-one d-flex row mb-5">
       <div class="feature-one__text col-lg-6 row flex-column justify-content-center align-items-start">
-        <h4 class="mb-4">An easier path to working in another state as a registered nurse.</h4>
+        <h3 class="mb-4">An easier path to working in another state as a registered nurse.</h3>
 
         <p>
           Working in another state can be complicated due to conflicting regulations and confusing information. While
@@ -58,7 +65,7 @@ subheading: Transfer or work across state lines.
       <!-- Image sourced from: Pexels, accessed on 8th Nov, 2024. No license or attribution required. -->
 
       <div class="feature-two__text col-lg-6 d-flex row flex-column justify-content-center align-items-center">
-        <h4 class="mb-4 text-left">The research has been done for you</h4>
+        <h3 class="mb-4 text-left">The research has been done for you</h3>
 
         <p>
           Each state's page provides details on transferring your license (by endorsement or reciprocity), working
