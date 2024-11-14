@@ -188,6 +188,15 @@
   background-color: #0b5ed7;
 }
 
+.about-section {
+  padding-top: 20px;
+}
+
+.about-section .about-section__text p {
+  width: 90%;
+  font-size: 18px;
+}
+
 @media screen and (max-width: 992px) {
   .home-header-container__heading,
   .page-header-container__heading {
