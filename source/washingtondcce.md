@@ -7,7 +7,6 @@ state: DC
 statename: Washington DC
 published: true
 motto: Welcome to the Nation's capital!
-compact: true
 ---
 
 Each US jurisdiction needs a competent medical workforce to meet the needs of it's citizens. However, the requirements for some health care professions are not the same in each jurisdiction. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.
