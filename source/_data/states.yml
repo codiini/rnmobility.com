@@ -1,7 +1,7 @@
 A:
   - name: "Alabama"
     href: "alabamace"
-    nlc: false
+    nlc: true
   - name: "Alaska"
     href: "alaskace"
     nlc: false
@@ -31,12 +31,12 @@ D:
 F:
   - name: "Florida"
     href: "floridace"
-    nlc: false
+    nlc: true
 
 G:
   - name: "Georgia"
     href: "georgiace"
-    nlc: false
+    nlc: true
 
 H:
   - name: "Hawaii"
@@ -52,7 +52,7 @@ I:
     nlc: false
   - name: "Indiana"
     href: "indianace"
-    nlc: false
+    nlc: true
   - name: "Iowa"
     href: "iowace"
     nlc: true
@@ -60,7 +60,7 @@ I:
 K:
   - name: "Kansas"
     href: "kansasce"
-    nlc: false
+    nlc: true
   - name: "Kentucky"
     href: "kentuckyce"
     nlc: true 
@@ -68,7 +68,7 @@ K:
 L:
   - name: "Louisiana"
     href: "louisianace"
-    nlc: false
+    nlc: true
 
 M:
   - name: "Maine"
@@ -108,7 +108,7 @@ N:
     nlc: true 
   - name: "New Jersey"
     href: "newjerseyce"
-    nlc: false
+    nlc: true
   - name: "New Mexico"
     href: "newmexicoce"
     nlc: true 
@@ -125,10 +125,10 @@ N:
 O:
   - name: "Ohio"
     href: "ohioce"
-    nlc: false
+    nlc: true
   - name: "Oklahoma"
     href: "oklahomace"
-    nlc: false
+    nlc: true
   - name: "Oregon"
     href: "oregonce"
     nlc: false
@@ -136,7 +136,7 @@ O:
 P:
   - name: "Pennsylvania"
     href: "pennsylvaniace"
-    nlc: false
+    nlc: true
 
 R:
   - name: "Rhode Island"
@@ -167,7 +167,7 @@ U:
 V:
   - name: "Vermont"
     href: "vermontce"
-    nlc: false
+    nlc: true
   - name: "Virginia"
     href: "virginiace"
     nlc: true 
@@ -175,13 +175,13 @@ V:
 W:
   - name: "Washington"
     href: "washingtonce"
-    nlc: false
+    nlc: true
   - name: "West Virginia"
     href: "westvirginiace"
-    nlc: false
+    nlc: true
   - name: "Wisconsin"
     href: "wisconsince"
     nlc: true 
   - name: "Wyoming"
     href: "wyomingce"
-    nlc: false
+    nlc: true
