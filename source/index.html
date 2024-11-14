@@ -14,14 +14,21 @@ subheading: Transfer or work across state lines.
     </div>
 
     <div class="states-section__card-list py-4 mx-auto row justify-content-center gap-4">
-      {% for states in site.data.states %}
+      {% assign states_by_letter = site.pages
+        | where_exp: 'page', 'page.statename != nil'
+        | where_exp: 'page', 'page.published == true'
+        | group_by_exp: 'item', 'item.statename | slice: 0'
+      %}
+      {% for letter_group in states_by_letter %}
         <div class="states-section__card-list--item col-6 col-sm-4 col-lg-4 col-xl-3 px-0">
-          <div class="states-section__card-item--title">{{ states[0] }}</div>
+          <div class="states-section__card-item--title">{{ letter_group.name }}</div>
           <ul class="states-section__card-item--list list-unstyled d-flex flex-column gap-3">
-            {% for state in states[1] %}
-              <li>
-                <a href="{{ state.href }}">{{ state.name }}</a>
-              </li>
+            {% for state in letter_group.items %}
+              {% if state.statename %}
+                <li>
+                  <a href="{{ state.name | remove: '.md' }}">{{ state.statename }}</a>
+                </li>
+              {% endif %}
             {% endfor %}
           </ul>
         </div>

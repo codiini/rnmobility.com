@@ -14,9 +14,11 @@ subheading: Gain the freedom to work across state lines with a single multi-Stat
     >
     <!-- Image sourced from: Pexels, accessed on 8th Nov, 2024. No license or attribution required. -->
 
+    {%- assign compact_states_count = site.pages | where: 'compact', true | size -%}
+
     <div class="section-one__text bg-light col-lg-6 row flex-column m-0 pt-4 pt-lg-0 justify-content-center align-items-start">
       <h3 style="font-weight: bold;" class="section-one__text--heading mb-4">
-        The Nursing Licensure Compact: The key to your mobility throughout 39 states
+        The Nursing Licensure Compact: The key to your mobility throughout {{ compact_states_count }} states
       </h3>
 
       <p style="font-size: 18px;">
@@ -81,31 +83,25 @@ subheading: Gain the freedom to work across state lines with a single multi-Stat
   <div id="states-section">
     <h3 style="font-weight: bold;" class="mx-auto text-center">States that have Implemented the NLC</h3>
     <div class="states-section__card-list py-4 mx-auto row justify-content-center gap-4">
-      {% for states in site.data.states %}
-        {% assign has_nlc = false %}
-
-        <!-- Check if any state in the current group has nlc: true -->
-        {% for state in states[1] %}
-          {% if state.nlc %}
-            {% assign has_nlc = true %}
-          {% endif %}
-        {% endfor %}
-
-        <!-- Render the header only if there is at least one state with nlc: true -->
-        {% if has_nlc %}
-          <div class="states-section__card-list--item col-6 col-sm-4 col-lg-4 col-xl-3 px-0">
-            <div class="states-section__card-item--title">{{ states[0] }}</div>
-            <ul class="states-section__card-item--list list-unstyled d-flex flex-column gap-3">
-              {% for state in states[1] %}
-                {% if state.nlc %}
-                  <li>
-                    <a href="{{ state.href }}">{{ state.name }}</a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </div>
-        {% endif %}
+      {% assign states_by_letter = site.pages
+        | where_exp: 'page', 'page.statename != nil'
+        | where_exp: 'page', 'page.statename != nil'
+        | where_exp: 'page', 'page.compact == true'
+        | group_by_exp: 'item', 'item.statename | slice: 0'
+      %}
+      {% for letter_group in states_by_letter %}
+        <div class="states-section__card-list--item col-6 col-sm-4 col-lg-4 col-xl-3 px-0">
+          <div class="states-section__card-item--title">{{ letter_group.name }}</div>
+          <ul class="states-section__card-item--list list-unstyled d-flex flex-column gap-3">
+            {% for state in letter_group.items %}
+              {% if state.statename %}
+                <li>
+                  <a href="{{ state.name | remove: '.md' }}">{{ state.statename }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
       {% endfor %}
     </div>
   </div>
