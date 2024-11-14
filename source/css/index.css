@@ -36,6 +36,10 @@
   width: 40%;
 }
 
+/*
+* States Section
+*/
+
 #states-section {
   padding: 50px 0;
 }
@@ -86,6 +90,10 @@
   text-decoration: underline;
 }
 
+/*
+* Features Section
+*/
+
 .features-section > .feature-one {
   margin-bottom: 100px !important;
 }
@@ -118,6 +126,10 @@
 .features-section > .feature-one .feature-one__text {
   padding-right: 75px;
 }
+
+/*
+* Courses Pricing Section
+*/
 
 .pricing-section {
   padding-bottom: 50px;
@@ -188,6 +200,10 @@
   background-color: #0b5ed7;
 }
 
+/*
+* About Page Section
+*/
+
 .about-section {
   padding-top: 20px;
 }
@@ -195,6 +211,24 @@
 .about-section .about-section__text p {
   width: 90%;
   font-size: 18px;
+}
+
+/*
+* Multi-State License Section
+*/
+.multistate-section {
+  padding-top: 50px;
+}
+
+.multistate-section__two .section-two__feature {
+  background-color: #f2f2ff;
+  color: #5e5e82;
+  font-size: 18px;
+}
+
+.multistate-section__three .section-three__text--callout {
+  background-color: #f2f2ff;
+  color: #0000ff;
 }
 
 @media screen and (max-width: 992px) {
