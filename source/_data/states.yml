@@ -1,137 +1,187 @@
 A:
   - name: "Alabama"
     href: "alabamace"
+    nlc: false
   - name: "Alaska"
     href: "alaskace"
+    nlc: false
   - name: "Arizona"
     href: "arizonace"
+    nlc: true
   - name: "Arkansas"
     href: "arkansasce"
+    nlc: true
 
 C:
   - name: "California"
     href: "californiace"
+    nlc: false
   - name: "Colorado"
     href: "coloradoce"
+    nlc: true
   - name: "Connecticut"
     href: "connecticutce"
+    nlc: false
 
 D:
   - name: "Delaware"
     href: "delawarece"
+    nlc: true
 
 F:
   - name: "Florida"
     href: "floridace"
+    nlc: false
 
 G:
   - name: "Georgia"
     href: "georgiace"
+    nlc: false
 
 H:
   - name: "Hawaii"
     href: "hawaiice"
+    nlc: false
 
 I:
   - name: "Idaho"
     href: "idahoce"
+    nlc: true
   - name: "Illinois"
     href: "illinoisce"
+    nlc: false
   - name: "Indiana"
     href: "indianace"
+    nlc: false
   - name: "Iowa"
     href: "iowace"
+    nlc: true
 
 K:
   - name: "Kansas"
     href: "kansasce"
+    nlc: false
   - name: "Kentucky"
     href: "kentuckyce"
+    nlc: true 
 
 L:
   - name: "Louisiana"
     href: "louisianace"
+    nlc: false
 
 M:
   - name: "Maine"
     href: "mainece"
+    nlc: true 
   - name: "Maryland"
     href: "marylandce"
+    nlc: true 
   - name: "Massachusetts"
     href: "massachusettsce"
+    nlc: false
   - name: "Michigan"
     href: "michigance"
+    nlc: false
   - name: "Minnesota"
     href: "minnesotace"
+    nlc: false
   - name: "Mississippi"
     href: "mississippice"
+    nlc: true 
   - name: "Missouri"
     href: "missourice"
+    nlc: true 
   - name: "Montana"
     href: "montanace"
+    nlc: true 
 
 N:
   - name: "Nebraska"
     href: "nebraskace"
+    nlc: true 
   - name: "Nevada"
     href: "nevadace"
+    nlc: false
   - name: "New Hampshire"
     href: "newhampshirece"
+    nlc: true 
   - name: "New Jersey"
     href: "newjerseyce"
+    nlc: false
   - name: "New Mexico"
     href: "newmexicoce"
+    nlc: true 
   - name: "New York"
     href: "newyorkce"
+    nlc: false
   - name: "North Carolina"
     href: "northcarolinace"
+    nlc: true 
   - name: "North Dakota"
     href: "northdakotace"
+    nlc: true 
 
 O:
   - name: "Ohio"
     href: "ohioce"
+    nlc: false
   - name: "Oklahoma"
     href: "oklahomace"
+    nlc: false
   - name: "Oregon"
     href: "oregonce"
+    nlc: false
 
 P:
   - name: "Pennsylvania"
     href: "pennsylvaniace"
+    nlc: false
 
 R:
   - name: "Rhode Island"
     href: "rhodeislandce"
+    nlc: true 
 
 S:
   - name: "South Carolina"
     href: "southcarolinace"
+    nlc: true 
   - name: "South Dakota"
     href: "southdakotace"
+    nlc: true 
 
 T:
   - name: "Tennessee"
     href: "tennesseece"
+    nlc: true 
   - name: "Texas"
     href: "texasce"
+    nlc: true 
 
 U:
   - name: "Utah"
     href: "utahce"
+    nlc: true 
 
 V:
   - name: "Vermont"
     href: "vermontce"
+    nlc: false
   - name: "Virginia"
     href: "virginiace"
+    nlc: true 
 
 W:
   - name: "Washington"
     href: "washingtonce"
+    nlc: false
   - name: "West Virginia"
     href: "westvirginiace"
+    nlc: false
   - name: "Wisconsin"
     href: "wisconsince"
+    nlc: true 
   - name: "Wyoming"
     href: "wyomingce"
+    nlc: false
