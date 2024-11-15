@@ -13,13 +13,13 @@
 
 .home-header-container__heading,
 .page-header-container__heading {
-  font-size: 60px;
+  font-size: 3.75rem;
   font-weight: bold;
 }
 
 .home-header-container__sub-heading,
 .page-header-container__sub-heading {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #5e5e82;
 }
 
@@ -50,11 +50,11 @@
 
 #states-section > .states-section__header h3 {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 
 #states-section > .states-section__header p {
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 #states-section > .states-section__card-list {
@@ -72,7 +72,7 @@
   height: 70px;
   background-color: #f2f2ff;
   color: #0000ff;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: bold;
   padding: 20px;
 }
@@ -129,13 +129,13 @@
 .features-section > .feature-one h3,
 .features-section > .feature-two h3 {
   font-weight: bold !important;
-  font-size: 30px;
+  font-size: 1.875rem;
   padding: 0;
 }
 
 .features-section > .feature-one p,
 .features-section > .feature-two p {
-  font-size: 18px;
+  font-size: 1.125rem;
   color: #5e5e82;
   padding: 0;
 }
@@ -173,7 +173,7 @@
   color: #000;
   margin: 0;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.875rem;
 }
 
 .course-card {
@@ -241,7 +241,7 @@
 
 .about-section .about-section__text p {
   width: 90%;
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 /*
@@ -254,7 +254,7 @@
 .multistate-section__two .section-two__feature {
   background-color: #f2f2ff;
   color: #5e5e82;
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 .multistate-section__three .section-three__text--callout {
@@ -265,7 +265,7 @@
 @media screen and (max-width: 992px) {
   .home-header-container__heading,
   .page-header-container__heading {
-    font-size: 40px;
+    font-size: 2.5rem;
   }
 
   #states-section > .states-section__header {
@@ -273,7 +273,7 @@
   }
 
   #states-section > .states-section__header h3 {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 
   #states-section .states-section__card-list--item {
@@ -298,7 +298,7 @@
   .features-section > .feature-one .feature-one__text h4,
   .features-section > .feature-two .feature-two__text h4,
   .pricing-section .pricing-section__header > h2 {
-    font-size: 25px;
+    font-size: 1.5625rem;
   }
 
   .features-section > .feature-one .feature-one__text h4 {
