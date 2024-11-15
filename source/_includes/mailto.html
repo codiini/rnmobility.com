@@ -1,0 +1,12 @@
+{%- comment -%}
+  Parameters:
+  to: Email address
+  subject: Email subject line
+  body: Email body text
+  text: Link display text
+{%- endcomment -%}
+<!-- prettier-ignore -->
+<a
+  href="mailto:{{ include.to }}?subject={{ include.subject | url_encode }}&body={{ include.body | url_encode }}">
+  {{- include.text -}}
+</a>
