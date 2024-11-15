@@ -20,15 +20,9 @@
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#4D210A",
-    "titleBar.activeBackground": "#6B2F0E",
-    "titleBar.activeForeground": "#FEFAF7"
-  },
   "search.exclude": {
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
-  "cSpell.words": ["nursys", "rnmobility"]
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs"
 }
