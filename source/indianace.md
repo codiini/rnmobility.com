@@ -47,7 +47,13 @@ Professional Licensing Agency
 Indianapolis, Indiana 46204
 
 Phone: 317-234-2043  
-Email: <pla2@pla.IN.gov>
+Email: {% include mailto.html 
+      to="pla2@pla.IN.gov"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="pla2@pla.IN.gov"
+    %} 
+ 
 
 For more information, visit the [Indiana State Board of Nursing page](https://www.in.gov/pla/professions/nursing-home/).
 

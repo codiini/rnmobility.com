@@ -18,7 +18,12 @@ Iowa is a compact state. If you are moving to Iowa or claiming it as your primar
 
 - You must be a graduate of a Board-approved nursing school.
 - Passing NCLEX results are required.
-- Complete an [online application](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index) or request a paper application via email (<newnurse@iowa.gov>) or phone (515-281-4826).
+- Complete an [online application](https://amanda-portal.idph.state.ia.us/ibon/portal/#/dashboards/index) or request a paper application via email ({% include mailto.html 
+      to="newnurse@iowa.gov"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="newnurse@iowa.gov"
+    %}) or phone (515-281-4826).
 - The application fee is \$169 (which includes a \$50 criminal background check fee).
 - [Fingerprint cards](https://dial.iowa.gov/media/159/download?inline) and a background check are mandatory.
 - Submit an official transcript.
@@ -46,6 +51,11 @@ Des Moines, IA 50309
 
 **Phone:** 515-281-3255  
 **Fax:** 515-281-4825  
-**Email:** <nursing@sos.iowa.gov>
+**Email:** {% include mailto.html 
+      to="nursing@sos.iowa.gov"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="nursing@sos.iowa.gov"
+    %}
 
 **Hours of Operation:** 8:00 am– 4:30 pm Monday through Friday

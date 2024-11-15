@@ -56,7 +56,19 @@ Sacramento, CA 94244-2100
 
 **Phone inquiries**: 916-322-3350  
 **TTY for the Hearing Impaired**: 800-326-2297  
-**Email for Applicant Services**: <brn.licensing@dca.ca.gov>  
+**Email for Applicant Services**:
+{% include mailto.html 
+      to="brn.licensing@dca.ca.gov"
+      subject="State board nursing applicant enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="brn.licensing@dca.ca.gov"
+    %}   
 **Fax for Applicant Services**: 916-574-7697  
-**Email for Licensee Services**: <renewals.brn@dca.ca.gov>  
+**Email for Licensee Services**: 
+{% include mailto.html 
+      to="renewals.brn@dca.ca.gov"
+      subject="State board license enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="renewals.brn@dca.ca.gov"
+    %}  
 **Fax for Licensee Services**: 916-574-7699

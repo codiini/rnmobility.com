@@ -45,9 +45,13 @@ A link to approved distance programs can be found [here](https://wsbn.wyo.gov/ed
 
 #### Contact information
 
-Email questions for licensing to:
-
-<wsbn-info-licensing@wyo.gov>
+Email questions for licensing to:\
+{% include mailto.html 
+      to="wsbn-info-licensing@wyo.gov"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="wsbn-info-licensing@wyo.gov"
+    %}
 
 Address
 
