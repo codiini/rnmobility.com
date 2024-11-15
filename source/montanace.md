@@ -44,7 +44,7 @@ P.O. Box 200513
 Helena, MT 59620-0513
 
 **General Fax**: 406-841-2305  
-**General E-mail**: [nurse@mt.gov](mailto:nurse@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20found%20your%20email%20address%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20I%20have%20some%20questions%20about%20licensure%20in%20Montana)
+**General email**: [nurse@mt.gov](mailto:nurse@mt.gov?subject=License%20renewals%20and%20endorsements&body=Hi%2C%0A%0AI%20found%20your%20email%20address%20on%20the%20ACLS%20Training%20Center%20website%20RNMobility.com%20and%20I%20have%20some%20questions%20about%20licensure%20in%20Montana)
 
 **Telephone Numbers**:  
 - Information regarding endorsement: 406-841-2202  

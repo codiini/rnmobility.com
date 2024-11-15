@@ -63,12 +63,13 @@ P.O. Box 303900
 Montgomery, AL  
 36130-3900
 
-**General fax and email**  
-General E-mail: {% include mailto.html 
-      to="abn@abn.alabama.gov"
+**General fax and email**
+General email: {% include mailto.html
+      toUser="abn"
+      toDomain="abn.alabama.gov"
       subject="Alabama RN license questions"
       body="Hello, rnmobility.com mentioned that this email address is where I can send my registered nurse license questions."
-      text="abn@abn.alabama.gov"
+      text="send email"
     %}
 
 **Information regarding endorsement**  
@@ -77,29 +78,32 @@ Fax 334-293-5201
 
 Wendy Looney  
 Licensure by endorsement\
-{% include mailto.html 
-      to="Wendy.Looney@abn.alabama.gov"
+{% include mailto.html
+      toUser="Wendy.Looney"
+      toDomain="abn.alabama.gov"
       subject="Alabama RN license questions"
       body="Hello, rnmobility.com mentioned that you are the right person to contact regarding licensure by endorsement. I had a few questions about the process"
-      text="Wendy.Looney@abn.alabama.gov"
+      text="send email"
     %}  
 
 Alicia Nickelson  
 Licensing verification\
-{% include mailto.html 
-      to="Alicia.Nickelson@abn.alabama.gov"
+{% include mailto.html
+      toUser="Alicia.Nickelson"
+      toDomain="abn.alabama.gov"
       subject="Alabama license verification questions"
       body="Hello. rnmobility.com mentioned that you are the right person to contact regarding licensure verification. I had a few questions about the process"
-      text="Alicia.Nickelson@abn.alabama.gov"
+      text="send email"
     %}  
 
 Joyce Jeter MSN, RN  
 Director – Continuing education information\
-{% include mailto.html 
-      to="Joyce.Jeter@abn.alabama.gov"
+{% include mailto.html
+      toUser="Joyce.Jeter"
+      toDomain="abn.alabama.gov"
       subject="Alabama RN license verification questions"
       body="Hello. rnmobility.com mentioned that you are the right person to contact regarding continuing education. I had a few questions"
-      text="Joyce.Jeter@abn.alabama.gov"
+      text="send email"
     %}
 
 LaDonna Patton, MSN, RN, CEN ARNC Director
@@ -119,9 +123,10 @@ Please click [here](https://www.abn.alabama.gov/licensing/faqs/) for FAQs regard
 Your feedback can improve the quality of this site.
 
 Phone: Call us at 1-219-255-2255  
-Email: {% include mailto.html 
-      to="support@PacificMedicalTraining.com"
+Email: {% include mailto.html
+      toUser="support"
+      toDomain="PacificMedicalTraining.com"
       subject="Alabama state page"
       body="Hi. I had questions about the Alabama state page. I would also like to buy your ACLS, PALS, and BLS courses!"
-      text="support@PacificMedicalTraining.com"
+      text="send email"
     %}

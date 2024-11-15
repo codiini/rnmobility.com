@@ -93,11 +93,12 @@ Alaska Board of Nursing website address:
 
 Lisa Maroney  
 Records & Licensing Supervisor  
-{% include mailto.html 
-      to="lisa.maroney@alaska.gov"
+{% include mailto.html
+      toUser="lisa.maroney"
+      toDomain="alaska.gov"
       subject="License renewals and endorsements"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the Alaska State Board of Nursing here."
-      text="lisa.maroney@alaska.gov"
+      text="send email"
     %}  
 Phone: 907-268-8892  
 Fax: 907-269-8196

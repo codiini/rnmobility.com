@@ -49,11 +49,12 @@ Macon, GA 31217
 
 **Phone**: 478-207-2440  
 **Fax**: 877-371-5712  
-**Email**: {% include mailto.html 
-      to="nursing@sos.ga.gov"
+**Email**: {% include mailto.html
+      toUser="nursing"
+      toDomain="sos.ga.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="nursing@sos.ga.gov"
+      text="send email"
     %} 
 
 ---

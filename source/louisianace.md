@@ -50,43 +50,49 @@ Baton Rouge, LA 70810
 Phone: 225-755-7500  
 Fax: 225-755-7584  
 
-Email: {% include mailto.html 
-      to="lsbn@lsbn.state.la.us"
+Email: {% include mailto.html
+      toUser="lsbn"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="lsbn@lsbn.state.la.us"
+      text="send email"
     %}  
 
 For more specific inquiries:  
-- Education/Licensure: Patricia Dufrene 225-755-7522 {% include mailto.html 
-      to="dufrenep@lsbn.state.la.us"
+- Education/Licensure: Patricia Dufrene 225-755-7522 {% include mailto.html
+      toUser="dufrenep"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="dufrenep@lsbn.state.la.us"
+      text="send email"
     %}
-- Endorsements/Volunteer Nurses/Foreign Nurses: 225-755-7520 225-755-7581 {% include mailto.html 
-      to="endorsements@lsbn.state.la.us"
+- Endorsements/Volunteer Nurses/Foreign Nurses: 225-755-7520 225-755-7581 {% include mailto.html
+      toUser="endorsements"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="endorsements@lsbn.state.la.us"
+      text="send email"
     %}  
-- Education: Students & Continuing Education: 225-755-7522 225-755-7580 {% include mailto.html 
-      to="education@lsbn.state.la.us"
+- Education: Students & Continuing Education: 225-755-7522 225-755-7580 {% include mailto.html
+      toUser="education"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="education@lsbn.state.la.us"
+      text="send email"
     %}  
-- General Questions: 225-755-7500 225-755-7584 {% include mailto.html 
-      to="lsbn@lsbn.state.la.us"
+- General Questions: 225-755-7500 225-755-7584 {% include mailto.html
+      toUser="lsbn"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="lsbn@lsbn.state.la.us"
+      text="send email"
     %}  
-- License Renewal: 225-755-7500 225-755-7584 {% include mailto.html 
-      to="renewals@lsbn.state.la.us"
+- License Renewal: 225-755-7500 225-755-7584 {% include mailto.html
+      toUser="renewals"
+      toDomain="lsbn.state.la.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="renewals@lsbn.state.la.us"
+      text="send email"
     %}
 
 * * * * *

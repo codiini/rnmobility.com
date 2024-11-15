@@ -74,11 +74,12 @@ DCCA-PVL
 P.O. Box 3469
 Honolulu, HI 96801
 
-Professional and Vocational Licensing email: {% include mailto.html 
-      to="pvl@dcca.hawaii.gov"
+Professional and Vocational Licensing email: {% include mailto.html
+      toUser="pvl"
+      toDomain="dcca.hawaii.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="pvl@dcca.hawaii.gov"
+      text="send email"
     %} 
  
 
@@ -86,11 +87,12 @@ Phone number: 808.586.3000
 
 Fax number: 808.586.2689
 
-Email: {% include mailto.html 
-      to="nursing@dcca.hawaii.gov"
+Email: {% include mailto.html
+      toUser="nursing"
+      toDomain="dcca.hawaii.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="nursing@dcca.hawaii.gov"
+      text="send email"
     %} 
  
 

@@ -48,9 +48,10 @@ Madison, WI 53703
 
 Fax: 608-261-7083  
 Phone: 608-266-2112  
-E-Mail: {% include mailto.html 
-      to="dsps@wisconsin.gov"
+E-Mail: {% include mailto.html
+      toUser="dsps"
+      toDomain="wisconsin.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="dsps@wisconsin.gov"
+      text="send email"
     %}

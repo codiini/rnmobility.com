@@ -44,11 +44,12 @@ Phone: 208-577-2476
 TDD: 800-377-3529  
 Fax: 208-334-3262
 
-**Email:** {% include mailto.html 
-      to="info@ibn.idaho.gov"
+**Email:** {% include mailto.html
+      toUser="info"
+      toDomain="ibn.idaho.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="info@ibn.idaho.gov"
+      text="send email"
     %}  
 **Hours:** 8:00 AM to 5:00 PM, Monday through Friday
 

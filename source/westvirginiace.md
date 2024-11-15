@@ -39,10 +39,11 @@ Toll-Free: 1-877-743-NURS (6877)
 Fax: 304-558-3666  
 
 Web Address: [www.wvrnboard.com](https://wvrnboard.wv.gov/Pages/default.aspx)
-Email: {% include mailto.html 
-      to="rnboard@wv.gov"
+Email: {% include mailto.html
+      toUser="rnboard"
+      toDomain="wv.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="rnboard@wv.gov"
+      text="send email"
     %}
 

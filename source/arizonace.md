@@ -66,11 +66,12 @@ Phone number: 602-771-7800
 Fax number: 602-771-7888
 
 Email Address: 
-{% include mailto.html 
-      to="arizona@azbn.gov"
+{% include mailto.html
+      toUser="arizona"
+      toDomain="azbn.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="arizona@azbn.gov"
+      text="send email"
     %}   
 Office Hours: 8:00 AM - 5:00 PM Mon-Fri
 

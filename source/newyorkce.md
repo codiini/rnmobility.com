@@ -44,11 +44,12 @@ Albany, New York 12234-1000
 
 Phone: 518-474-3817, ext. 280  
 Fax: 518-474-3398  
-Email: {% include mailto.html 
-      to="opunit4@nysed.gov"
+Email: {% include mailto.html
+      toUser="opunit4"
+      toDomain="nysed.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="opunit4@nysed.gov"
+      text="send email"
     %}
 
 Office hours are from 8:30 am to 4:45 pm, EST, Monday - Friday, except on holidays.
@@ -62,9 +63,10 @@ Albany, New York 12234-1000
 
 Phone: 518-474-3817, ext. 570  
 Fax: 518-474-1449  
-Email:{% include mailto.html 
-      to="op4info@nysed.gov"
+Email:{% include mailto.html
+      toUser="op4info"
+      toDomain="nysed.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="op4info@nysed.gov"
+      text="send email"
     %}

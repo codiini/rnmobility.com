@@ -59,11 +59,12 @@ Tumwater, WA
 
 Email, phone, fax:
 
-* Email: {% include mailto.html 
-      to="nursing@doh.wa.gov"
+* Email: {% include mailto.html
+      toUser="nursing"
+      toDomain="doh.wa.gov"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="nursing@doh.wa.gov"
+      text="send email"
     %} 
 
 * Phone: 360-236-4700

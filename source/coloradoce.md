@@ -44,11 +44,12 @@ Phone number: 303-894-2430
 Alternate phone: 303-894-2458  
 Fax number: 303-894-2821
 
-Email:{% include mailto.html 
-      to="dora_nursingboard@state.co.us"
+Email:{% include mailto.html
+      toUser="dora_nursingboard"
+      toDomain="state.co.us"
       subject="State board nursing enuqiries"
       body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
-      text="dora_nursingboard@state.co.us"
+      text="send email"
     %} 
 
 Hours: Monday - Friday 8 a.m. to 5 p.m. MST
