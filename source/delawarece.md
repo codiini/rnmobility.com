@@ -44,7 +44,13 @@ Dover, DE 19904
 
 Phone: 302.744.4500  
 Fax: 302.739.2711  
-Email: <customerservice.dpr@state.de.us>
+Email: {% include mailto.html 
+      to="customerservice.dpr@state.de.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="customerservice.dpr@state.de.us"
+    %} 
+ 
 
 ---
 

@@ -64,23 +64,43 @@ Montgomery, AL
 36130-3900
 
 **General fax and email**  
-General E-mail: [abn@abn.alabama.gov](mailto:abn@abn.alabama.gov?subject=Alabama%20RN%20license%20questions&body=Hello.%20rnmobility.com%20mentioned%20that%20this%20email%20address%20is%20where%20I%20can%20send%20my%20registered%20nurse%20license%20questions.)
+General E-mail: {% include mailto.html 
+      to="abn@abn.alabama.gov"
+      subject="Alabama RN license questions"
+      body="Hello, rnmobility.com mentioned that this email address is where I can send my registered nurse license questions."
+      text="abn@abn.alabama.gov"
+    %}
 
 **Information regarding endorsement**  
 Phone 1-800-656-5318  
 Fax 334-293-5201
 
 Wendy Looney  
-Licensure by endorsement  
-[Wendy.Looney@abn.alabama.gov](mailto:Wendy.Looney@abn.alabama.gov?subject=Alabama%20RN%20license%20questions&body=Hello.%20rnmobility.com%20mentioned%20that%20you%20are%20the%20right%20person%20to%20contact%20regarding%20licensure%20by%20endorsement.%20I%20had%20a%20few%20questions%20about%20the%20process.)
+Licensure by endorsement\
+{% include mailto.html 
+      to="Wendy.Looney@abn.alabama.gov"
+      subject="Alabama RN license questions"
+      body="Hello, rnmobility.com mentioned that you are the right person to contact regarding licensure by endorsement. I had a few questions about the process"
+      text="Wendy.Looney@abn.alabama.gov"
+    %}  
 
 Alicia Nickelson  
-Licensing verification  
-[Alicia.Nickelson@abn.alabama.gov](mailto:Alicia.Nickelson@abn.alabama.gov?subject=Alabama%20RN%20license%20verification%20questions&body=Hello.%20rnmobility.com%20mentioned%20that%20you%20are%20the%20right%20person%20to%20contact%20regarding%20licensure%20verification.%20I%20had%20a%20few%20questions%20about%20the%20process.)
+Licensing verification\
+{% include mailto.html 
+      to="Alicia.Nickelson@abn.alabama.gov"
+      subject="Alabama license verification questions"
+      body="Hello. rnmobility.com mentioned that you are the right person to contact regarding licensure verification. I had a few questions about the process"
+      text="Alicia.Nickelson@abn.alabama.gov"
+    %}  
 
 Joyce Jeter MSN, RN  
-Director – Continuing education information  
-[Joyce.Jeter@abn.alabama.gov](mailto:Joyce.Jeter@abn.alabama.gov?subject=Alabama%20RN%20license%20verification%20questions&body=Hello.%20rnmobility.com%20mentioned%20that%20you%20are%20the%20right%20person%20to%20contact%20regarding%20continuing%20education.%20I%20had%20a%20few%20questions.)
+Director – Continuing education information\
+{% include mailto.html 
+      to="Joyce.Jeter@abn.alabama.gov"
+      subject="Alabama RN license verification questions"
+      body="Hello. rnmobility.com mentioned that you are the right person to contact regarding continuing education. I had a few questions"
+      text="Joyce.Jeter@abn.alabama.gov"
+    %}
 
 LaDonna Patton, MSN, RN, CEN ARNC Director
 
@@ -99,4 +119,9 @@ Please click [here](https://www.abn.alabama.gov/licensing/faqs/) for FAQs regard
 Your feedback can improve the quality of this site.
 
 Phone: Call us at 1-219-255-2255  
-Email: [support@PacificMedicalTraining.com](mailto:support@PacificMedicalTraining.com?subject=Alabama%20state%20page&body=Hi%2C%20I%20had%20questions%20about%20the%20Alabama%20state%20page.%20I%20would%20also%20like%20to%20buy%20your%20ACLS%2C%20PALS%2C%20and%20BLS%20courses!)
+Email: {% include mailto.html 
+      to="support@PacificMedicalTraining.com"
+      subject="Alabama state page"
+      body="Hi. I had questions about the Alabama state page. I would also like to buy your ACLS, PALS, and BLS courses!"
+      text="support@PacificMedicalTraining.com"
+    %}

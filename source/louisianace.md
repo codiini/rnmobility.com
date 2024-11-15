@@ -50,7 +50,12 @@ Baton Rouge, LA 70810
 Phone: 225-755-7500  
 Fax: 225-755-7584  
 
-Email: <lsbn@lsbn.state.la.us>  
+Email: {% include mailto.html 
+      to="lsbn@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="lsbn@lsbn.state.la.us"
+    %}  
 
 For more specific inquiries:  
 - Education/Licensure: Patricia Dufrene 225-755-7522 <dufrenep@lsbn.state.la.us>  

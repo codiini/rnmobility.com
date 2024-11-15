@@ -45,5 +45,11 @@ Hartford, CT 06134-0308
 
 Phone: **860-509-7603** (Menu Option 2)  
 Fax: **860-707-1984**  
-Email: <oplc.dph@ct.gov>  
+Email: {% include mailto.html 
+      to="oplc.dph@ct.gov"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="oplc.dph@ct.gov"
+    %} 
+   
 Office Hours: **Monday - Friday 8 a.m. to 5 p.m.**
