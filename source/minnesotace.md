@@ -52,7 +52,12 @@ Fax Number: 612-617-2190
 
 [Website](https://mn.gov/boards/nursing/)
 
-E-mail: [nursing.board@state.mn.us](mailto:nursing.board@state.mn.us)
+E-mail: {% include mailto.html 
+      to="nursing.board@state.mn.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="nursing.board@state.mn.us"
+    %}
 
 Address:
 

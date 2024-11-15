@@ -58,11 +58,36 @@ Email: {% include mailto.html
     %}  
 
 For more specific inquiries:  
-- Education/Licensure: Patricia Dufrene 225-755-7522 <dufrenep@lsbn.state.la.us>  
-- Endorsements/Volunteer Nurses/Foreign Nurses: 225-755-7520 225-755-7581 <endorsements@lsbn.state.la.us>  
-- Education: Students & Continuing Education: 225-755-7522 225-755-7580 <education@lsbn.state.la.us>  
-- General Questions: 225-755-7500 225-755-7584 <lsbn@lsbn.state.la.us>  
-- License Renewal: 225-755-7500 225-755-7584 <renewals@lsbn.state.la.us>  
+- Education/Licensure: Patricia Dufrene 225-755-7522 {% include mailto.html 
+      to="dufrenep@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="dufrenep@lsbn.state.la.us"
+    %}
+- Endorsements/Volunteer Nurses/Foreign Nurses: 225-755-7520 225-755-7581 {% include mailto.html 
+      to="endorsements@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="endorsements@lsbn.state.la.us"
+    %}  
+- Education: Students & Continuing Education: 225-755-7522 225-755-7580 {% include mailto.html 
+      to="education@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="education@lsbn.state.la.us"
+    %}  
+- General Questions: 225-755-7500 225-755-7584 {% include mailto.html 
+      to="lsbn@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="lsbn@lsbn.state.la.us"
+    %}  
+- License Renewal: 225-755-7500 225-755-7584 {% include mailto.html 
+      to="renewals@lsbn.state.la.us"
+      subject="State board nursing enuqiries"
+      body="Hi, I was on RNMobility.com and read that I can send my questions for the State Board of Nursing here"
+      text="renewals@lsbn.state.la.us"
+    %}
 
 * * * * *
 
