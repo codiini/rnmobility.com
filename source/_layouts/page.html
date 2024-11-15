@@ -7,13 +7,15 @@
       {%- include page-header.html -%}
     </div>
 
-    <div class="container">
+    <div class="state-content__container container mx-auto">
       <!-- Page content -->
-      {%- if page.compact -%}
-        {%- include compact-state.html -%}
-      {%- endif -%}
-      {{ content }}
-      {%- include public-feedback.html -%}
+      <div class="mt-5 mt-lg-1 container mx-auto p-lg-5">
+        {%- if page.compact -%}
+          {%- include compact-state.html -%}
+        {%- endif -%}
+        {{ content }}
+        {%- include public-feedback.html -%}
+      </div>
     </div>
     {%- include footer.html -%}
 

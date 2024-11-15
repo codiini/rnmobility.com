@@ -91,6 +91,34 @@
 }
 
 /*
+* State Content Section
+*/
+
+.state-content__container h2,
+.state-content__container h3,
+.state-content__container h4 {
+  margin: 50px 0 20px;
+  color: #0000ff;
+}
+
+.state-content__container p {
+  font-size: 1.125rem;
+}
+
+.state-content__container {
+  width: 75%;
+  border-left: 1px solid #d2d5d7;
+  border-right: 1px solid #d2d5d7;
+}
+
+@media screen and (max-width: 768px) {
+  .state-content__container {
+    width: 100%;
+    border: none;
+  }
+}
+
+/*
 * Features Section
 */
 
@@ -133,6 +161,7 @@
 
 .pricing-section {
   padding-bottom: 50px;
+  background-color: #f8f9fa;
 }
 
 .pricing-section .pricing-section__header > div {
@@ -141,6 +170,8 @@
 }
 
 .pricing-section .pricing-section__header > h4 {
+  color: #000;
+  margin: 0;
   font-weight: bold;
   font-size: 30px;
 }
