@@ -8,5 +8,5 @@
 <!-- prettier-ignore -->
 <a
   href="mailto:{{ include.to }}?subject={{ include.subject | url_encode }}&body={{ include.body | url_encode }}">
-  {{- include.text -}}
+  <{{- include.text -}}>
 </a>
