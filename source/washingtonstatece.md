@@ -7,6 +7,7 @@ state: WA
 statename: Washington State
 published: true
 motto: 'Welcome to the Evergreen state!'
+compact: true
 ---
 
 Each state needs a competent medical workforce to meet the needs of its citizens. However, the requirements for some health care professions are not the same in each state. That is why it is important to find out what is required of you as a future or current registered nurse before moving across state lines. Contact information is located at the bottom of this page.

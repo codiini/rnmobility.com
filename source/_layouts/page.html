@@ -7,19 +7,17 @@
       {%- include page-header.html -%}
     </div>
 
-    <div class="container">
+    <div class="state-content__container container mx-auto">
       <!-- Page content -->
-      <p class="lead">
-        {{ page.motto }}
-      </p>
-      <hr>
-      {%- if page.compact -%}
-        {%- include compact-state.html -%}
-      {%- endif -%}
-      {{ content }}
-      {%- include public-feedback.html -%}
-      {%- include footer.html -%}
+      <div class="mt-5 mt-lg-1 container mx-auto p-lg-5">
+        {%- if page.compact -%}
+          {%- include compact-state.html -%}
+        {%- endif -%}
+        {{ content }}
+        {%- include public-feedback.html -%}
+      </div>
     </div>
+    {%- include footer.html -%}
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"

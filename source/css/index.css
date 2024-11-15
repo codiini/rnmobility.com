@@ -13,13 +13,13 @@
 
 .home-header-container__heading,
 .page-header-container__heading {
-  font-size: 60px;
+  font-size: 3.75rem;
   font-weight: bold;
 }
 
 .home-header-container__sub-heading,
 .page-header-container__sub-heading {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #5e5e82;
 }
 
@@ -36,6 +36,10 @@
   width: 40%;
 }
 
+/*
+* States Section
+*/
+
 #states-section {
   padding: 50px 0;
 }
@@ -46,11 +50,11 @@
 
 #states-section > .states-section__header h3 {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 
 #states-section > .states-section__header p {
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 #states-section > .states-section__card-list {
@@ -68,7 +72,7 @@
   height: 70px;
   background-color: #f2f2ff;
   color: #0000ff;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: bold;
   padding: 20px;
 }
@@ -86,20 +90,52 @@
   text-decoration: underline;
 }
 
+/*
+* State Content Section
+*/
+
+.state-content__container h2,
+.state-content__container h3,
+.state-content__container h4 {
+  margin: 50px 0 20px;
+  color: #0000ff;
+}
+
+.state-content__container p {
+  font-size: 1.125rem;
+}
+
+.state-content__container {
+  width: 75%;
+  border-left: 1px solid #d2d5d7;
+  border-right: 1px solid #d2d5d7;
+}
+
+@media screen and (max-width: 768px) {
+  .state-content__container {
+    width: 100%;
+    border: none;
+  }
+}
+
+/*
+* Features Section
+*/
+
 .features-section > .feature-one {
   margin-bottom: 100px !important;
 }
 
-.features-section > .feature-one h4,
-.features-section > .feature-two h4 {
+.features-section > .feature-one h3,
+.features-section > .feature-two h3 {
   font-weight: bold !important;
-  font-size: 30px;
+  font-size: 1.875rem;
   padding: 0;
 }
 
 .features-section > .feature-one p,
 .features-section > .feature-two p {
-  font-size: 18px;
+  font-size: 1.125rem;
   color: #5e5e82;
   padding: 0;
 }
@@ -119,13 +155,25 @@
   padding-right: 75px;
 }
 
+/*
+* Courses Pricing Section
+*/
+
 .pricing-section {
   padding-bottom: 50px;
+  background-color: #f8f9fa;
 }
 
-.pricing-section .pricing-section__header {
+.pricing-section .pricing-section__header > div {
+  color: #0000ff;
+  background-color: #dde3eb9d;
+}
+
+.pricing-section .pricing-section__header > h4 {
+  color: #000;
+  margin: 0;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.875rem;
 }
 
 .course-card {
@@ -137,7 +185,7 @@
 }
 
 .course-card.selected {
-  border-color: #0d6efd;
+  border-color: #0000ff;
 }
 
 .course-card:hover {
@@ -183,10 +231,41 @@
   background-color: #0b5ed7;
 }
 
+/*
+* About Page Section
+*/
+
+.about-section {
+  padding-top: 20px;
+}
+
+.about-section .about-section__text p {
+  width: 90%;
+  font-size: 1.125rem;
+}
+
+/*
+* Multi-State License Section
+*/
+.multistate-section {
+  padding-top: 50px;
+}
+
+.multistate-section__two .section-two__feature {
+  background-color: #f2f2ff;
+  color: #5e5e82;
+  font-size: 1.125rem;
+}
+
+.multistate-section__three .section-three__text--callout {
+  background-color: #f2f2ff;
+  color: #0000ff;
+}
+
 @media screen and (max-width: 992px) {
   .home-header-container__heading,
   .page-header-container__heading {
-    font-size: 40px;
+    font-size: 2.5rem;
   }
 
   #states-section > .states-section__header {
@@ -194,7 +273,7 @@
   }
 
   #states-section > .states-section__header h3 {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 
   #states-section .states-section__card-list--item {
@@ -218,8 +297,8 @@
 
   .features-section > .feature-one .feature-one__text h4,
   .features-section > .feature-two .feature-two__text h4,
-  .pricing-section .pricing-section__header {
-    font-size: 25px;
+  .pricing-section .pricing-section__header > h2 {
+    font-size: 1.5625rem;
   }
 
   .features-section > .feature-one .feature-one__text h4 {
