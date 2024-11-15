@@ -1,104 +1,104 @@
-<div class="pricing-section container mt-5">
-  <div class="pricing-section__header d-flex flex-column align-items-center gap-2">
-    <div class="mt-2 p-1 px-3 rounded-0">
-      <em>10% off with 2 courses, 15% off with 3</em>
+<div class="pricing-section pt-5">
+  <div class="container mx-auto">
+    <div class="pricing-section__header d-flex flex-column align-items-center gap-2">
+      <div class="mt-2 p-1 px-3 rounded-0">
+        <em>10% off with 2 courses, 15% off with 3</em>
+      </div>
+      <h4 class="text-center mb-5 w-75 text-center mx-auto">Online ACLS recertification in 2-5 hours</h4>
     </div>
-    <h4 class="text-center mb-5 w-75 text-center mx-auto">Online ACLS recertification in 2-5 hours</h4>
+
+    <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="courses-btns-form">
+      <input
+        name="source_website"
+        type="hidden"
+        value="{%- if page.experiment -%}{{site.url}}{{page.url | escape}}{%- elsif page.canonical-link -%}{{site.url}}{{page.canonical-link | escape}}{%- else -%}{{site.url}}{{page.url | escape}}{%- endif -%}"
+      >
+
+      <div class="row">
+        <!-- ACLS Card -->
+        <div class="col-md-4 mb-3">
+          <div
+            class="course-card selected"
+            data-course="2"
+            tabindex="0"
+            role="button"
+            aria-pressed="true"
+            aria-label="ACLS Provider Course $175"
+          >
+            <div class="course-card__body">
+              <div class="d-flex justify-content-between align-items-center">
+                <h5 class="course-card__title">ACLS PROVIDER</h5>
+                <span class="course-card__price">$175</span>
+              </div>
+              <p class="course-card__text">
+                ACLS provides skills to manage cardiopulmonary arrest or other cardiovascular emergencies, to recognize
+                and manage respiratory arrest, and to provide services in emergency situations.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- PALS Card -->
+        <div class="col-md-4 mb-3">
+          <div
+            class="course-card"
+            data-course="4"
+            tabindex="0"
+            role="button"
+            aria-pressed="false"
+            aria-label="PALS Provider Course $175"
+          >
+            <div class="course-card__body">
+              <div class="d-flex justify-content-between align-items-center">
+                <h5 class="course-card__title">PALS PROVIDER</h5>
+                <span class="course-card__price">$175</span>
+              </div>
+              <p class="course-card__text">
+                PALS is for those who respond to emergencies in children and infants, provide intensive care, emergency
+                medicine, and provide services in critical care units to pediatric patients.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- BLS Card -->
+        <div class="col-md-4 mb-3">
+          <div
+            class="course-card"
+            data-course="6"
+            tabindex="0"
+            role="button"
+            aria-pressed="false"
+            aria-label="BLS Provider Course $65"
+          >
+            <div class="course-card__body">
+              <div class="d-flex justify-content-between align-items-center">
+                <h5 class="course-card__title">BLS PROVIDER</h5>
+                <span class="course-card__price">$65</span>
+              </div>
+              <p class="course-card__text">
+                BLS course provides training for prompt recognition of several life-threatening emergencies, delivering
+                appropriate ventilations, and provision of high-quality chest compressions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="text-center my-4 row">
+        <button id="buynow-btn" type="submit" class="col-9 col-xl-3 mx-auto btn btn-lg rounded-0">
+          <i class="bi bi-cart-fill"></i> Buy now
+        </button>
+
+        <p class="mt-4 h6">
+          <a class="text-decoration-underline text-black" href="https://www.acls.net/signup"
+            >See our other courses and group discounts</a
+          >
+        </p>
+      </div>
+    </form>
   </div>
-
-  <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="courses-btns-form">
-    <input
-      name="source_website"
-      type="hidden"
-      value="{%- if page.experiment -%}{{site.url}}{{page.url | escape}}{%- elsif page.canonical-link -%}{{site.url}}{{page.canonical-link | escape}}{%- else -%}{{site.url}}{{page.url | escape}}{%- endif -%}"
-    >
-
-    <div class="row">
-      <!-- ACLS Card -->
-      <div class="col-md-4 mb-3">
-        <div
-          class="course-card selected"
-          data-course="2"
-          tabindex="0"
-          role="button"
-          aria-pressed="true"
-          aria-label="ACLS Provider Course $175"
-        >
-          <div class="course-card__body">
-            <div class="d-flex justify-content-between align-items-center">
-              <h5 class="course-card__title">ACLS PROVIDER</h5>
-              <span class="course-card__price">$175</span>
-            </div>
-            <p class="course-card__text">
-              ACLS provides skills to manage cardiopulmonary arrest or other cardiovascular emergencies, to recognize
-              and manage respiratory arrest, and to provide services in emergency situations.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <!-- PALS Card -->
-      <div class="col-md-4 mb-3">
-        <div
-          class="course-card"
-          data-course="4"
-          tabindex="0"
-          role="button"
-          aria-pressed="false"
-          aria-label="PALS Provider Course $175"
-        >
-          <div class="course-card__body">
-            <div class="d-flex justify-content-between align-items-center">
-              <h5 class="course-card__title">PALS PROVIDER</h5>
-              <span class="course-card__price">$175</span>
-            </div>
-            <p class="course-card__text">
-              PALS is for those who respond to emergencies in children and infants, provide intensive care, emergency
-              medicine, and provide services in critical care units to pediatric patients.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <!-- BLS Card -->
-      <div class="col-md-4 mb-3">
-        <div
-          class="course-card"
-          data-course="6"
-          tabindex="0"
-          role="button"
-          aria-pressed="false"
-          aria-label="BLS Provider Course $65"
-        >
-          <div class="course-card__body">
-            <div class="d-flex justify-content-between align-items-center">
-              <h5 class="course-card__title">BLS PROVIDER</h5>
-              <span class="course-card__price">$65</span>
-            </div>
-            <p class="course-card__text">
-              BLS course provides training for prompt recognition of several life-threatening emergencies, delivering
-              appropriate ventilations, and provision of high-quality chest compressions.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="text-center my-4 row">
-      <button id="buynow-btn" type="submit" class="col-9 col-xl-3 mx-auto btn btn-lg rounded-0">
-        <i class="bi bi-cart-fill"></i> Buy now
-      </button>
-
-      <p class="mt-4 h6">
-        <a class="text-decoration-underline text-black" href="https://www.acls.net/signup"
-          >See our other courses and group discounts</a
-        >
-      </p>
-    </div>
-  </form>
 </div>
-
-<hr>
 
 <footer class="text-center mt-4">
   <p>&copy; {{ 'now' | date: '%Y' }} RNMobility.com, a service of acls.net</p>
