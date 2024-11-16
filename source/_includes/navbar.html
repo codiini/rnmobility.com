@@ -1,31 +1,197 @@
-<nav id="navbar" class="navbar navbar-expand-lg px-lg-5 py-3">
-  <div class="container">
-    <a style="font-weight: 700;" href="/index.html" class="navbar-brand text-uppercase">RN Mobility</a>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!-- Used to push items on lg screens to the far right -->
-      <span class="me-auto"></span>
+<div class="container-lg">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/" style="font-weight: 700;">
+        RN MOBILITY
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="animated-icon1"><span></span><span></span><span></span></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto">
+          <!-- Courses Dropdown -->
+          <li class="nav-item dropdown">
+            <button
+              class="nav-link dropdown-toggle"
+              id="coursesDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Courses
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="coursesDropdown">
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/acls"><i class="bi bi-heart-pulse"></i> ACLS certification</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/bls"><i class="bi bi-lungs"></i> BLS certification</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/pals"><i class="bi bi-hospital"></i> PALS certification</a>
+              </li>
+              <li><hr class="dropdown-divider"></li>
+              <li>
+                <a class="h2 dropdown-item" href="https://www.acls.net/monitor-tech">Monitor tech</a>
+              </li>
+              <li>
+                <ul class="list-unstyled ps-3">
+                  <li>
+                    <a class="dropdown-item" href="https://www.acls.net/arrhythmia-interpretation"
+                      ><i class="bi bi-clipboard-pulse"></i> Arrhythmia interpretation</a
+                    >
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="https://www.acls.net/12-lead-ecg"><i class="bi bi-activity"></i> 12-lead ECG</a>
+                  </li>
+                </ul>
+              </li>
+              <li><hr class="dropdown-divider"></li>
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/bbp"><i class="bi bi-virus"></i> Bloodborne pathogens OSHA course</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/cpr.html"><i class="bi bi-lungs"></i> CPR</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="https://www.acls.net/first-aid"><i class="bi bi-calendar-plus-fill"></i> First aid</a>
+              </li>
+            </ul>
+          </li>
 
-      <div class="d-flex">
-        <ul class="navbar-nav me-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="/nursinglicensurecompact.html">Multi-state licenses</a>
+          <!-- Resources Dropdown -->
+          <li class="nav-item dropdown">
+            <button
+              class="nav-link dropdown-toggle"
+              id="resourcesDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Resources
+            </button>
+            <div class="dropdown-menu" aria-labelledby="resourcesDropdown">
+              <div class="row g-0">
+                <div class="col-lg-6">
+                  <ul class="list-unstyled">
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/quiz"
+                        ><i class="bi bi-file-earmark-check"></i> ACLS pretest quizzes</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/acls-faq"><i class="bi bi-patch-question"></i> ACLS FAQ</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/quiz#bls-practice-quiz"
+                        ><i class="bi bi-file-earmark-check"></i> BLS practice quizzes</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/bls-faq"><i class="bi bi-patch-question"></i> BLS FAQ</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/palsquiz"
+                        ><i class="bi bi-file-earmark-check"></i> PALS practice quizzes</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/pals-faq"><i class="bi bi-patch-question"></i> PALS FAQ</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/bbp-faq"><i class="bi bi-patch-question"></i> BBP FAQ</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/quiz#just-for-ems"
+                        ><i class="bi bi-file-earmark-check"></i> EMS practice quizzes</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="/"
+                        ><i class="bi bi-file-earmark-check"></i> RN state licensing</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-lg-6">
+                  <ul class="list-unstyled ps-3">
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/acls-crash-cart"
+                        ><i class="bi bi-person-vcard"></i> Crash cart checklist</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/printed_products"
+                        ><i class="bi bi-person-vcard"></i> Crash cart/pocket cards</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/acls-crash-cart-faq"
+                        ><i class="bi bi-card-text"></i> ACLS crash FAQ</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/videos"><i class="bi bi-play-circle"></i> ACLS videos</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/icd-10-flashcards"
+                        ><i class="bi bi-card-heading"></i> ICD-10 flashcards (humor)</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="https://www.acls.net/sitemap#educational-articles"
+                        ><i class="bi bi-card-heading"></i> Educational articles</a
+                      >
+                    </li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="h2 dropdown-item" href="https://www.acls.net/nrp-prep/">Resources for NRP</a></li>
+                    <li>
+                      <ul class="list-unstyled ps-3">
+                        <li>
+                          <a class="dropdown-item" href="https://www.acls.net/quizzes/nrp/nrp"
+                            ><i class="bi bi-book"></i> NRP practice test</a
+                          >
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="https://www.acls.net/nrp-prep/curriculum"
+                            ><i class="bi bi-book"></i> NRP curriculum</a
+                          >
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="https://www.acls.net/nrp-prep/flashcard"
+                            ><i class="bi bi-book"></i> NRP flashcards</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/aboutrnmobility.html">About</a>
-          </li>
+        <li class="nav-item">
+          <a href="/aboutrnmobility" class="nav-link">About</a>
+        </li>
+        <li class="nav-item">
+          <a href="/#states-section" class="nav-link">Multi-state licenses</a>
+        </li>
         </ul>
       </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
+
+<script>
+  // Toggle class on navbar button to make a cool animation
+  document.querySelector('.navbar-toggler').addEventListener('click', function () {
+    document.querySelector('.animated-icon1').classList.toggle('open');
+  });
+</script>
