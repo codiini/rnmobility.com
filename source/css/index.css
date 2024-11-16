@@ -160,7 +160,6 @@
 */
 
 .pricing-section {
-  padding-bottom: 50px;
   background-color: #f8f9fa;
 }
 
@@ -320,4 +319,16 @@
     max-width: 100%;
     width: 100%;
   }
+}
+
+footer p,
+.footer-links a {
+  font-size: 18px;
+  line-height: 36px;
+  display: block;
+  color: #000000;
+  opacity: 0.8;
+}
+footer{
+  background-color: #f8f9fa;
 }
