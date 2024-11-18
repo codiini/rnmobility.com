@@ -5,13 +5,15 @@
   subject: Email subject line
   body: Email body text
   text: Link display text
+
+  The comments eat (see the `-`) the following whitespace which would mess up surrounding Markdown source.
+  See: https://github.com/jekyll/jekyll/issues/9691
 {%- endcomment -%}
 <a
+{%- comment -%}{%- endcomment -%}  
   href="mailto:{{ include.to }}?subject={{ include.subject | url_encode }}&body={{ include.body | url_encode }}"
+{%- comment -%}{%- endcomment -%}  
 >
   {{- include.text -}}
 </a>
-{%- comment -%}
-  This comment is here just to eat (see the `-`) the following whitespace which would mess up surrounding Markdown source.
-  See: https://github.com/jekyll/jekyll/issues/9691
-{%- endcomment -%}
+{%- comment -%}{%- endcomment -%}
