@@ -13,7 +13,7 @@
 {%- endcomment -%}
 <a
   {%- comment %} {%- endcomment %}
-  href="mailto:{{ include.to }}?subject={{ include.subject | url_encode }}&body={{ include.body | url_encode }}"
+  href="mailto:{{ include.toUser }}@{{include.toDomain}}?subject={{ include.subject | url_encode }}&body={{ include.body | url_encode }}"
   {%- comment -%}{%- endcomment -%}
 >
   {{- include.text -}}
