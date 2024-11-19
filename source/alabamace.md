@@ -127,6 +127,6 @@ Email: {% include mailto.html
       toUser="support"
       toDomain="PacificMedicalTraining.com"
       subject="Alabama state page"
-      body="Hi. I had questions about the Alabama state page. I would also like to buy your ACLS, PALS, and BLS courses!"
+      body="Hi. I had questions about the Alabama state page. I would also like to enroll in your ACLS, PALS, and BLS courses!"
       text="send email"
     %}
