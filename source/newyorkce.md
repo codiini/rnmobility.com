@@ -63,7 +63,7 @@ Albany, New York 12234-1000
 
 Phone: 518-474-3817, ext. 570  
 Fax: 518-474-1449  
-Email:{% include mailto.html
+Email: {% include mailto.html
       toUser="op4info"
       toDomain="nysed.gov"
       subject="State board nursing enuqiries"
