@@ -24,5 +24,10 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs"
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#581034",
+    "titleBar.activeBackground": "#7B1648",
+    "titleBar.activeForeground": "#FEFCFD"
+  }
 }
