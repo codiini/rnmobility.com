@@ -1,4 +1,3 @@
-
 // BUSINESS RULE:
 //
 // - All pages (.md, .html) in ./source/ must include a front matter at the top of the file:
