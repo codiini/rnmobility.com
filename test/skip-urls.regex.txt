@@ -1,4 +1,5 @@
 https://dont-check-this.example.com
 https://x.com/home\?status=.*
+# HOUSE RULE:
 # Do not put specific X, LinkedIn, Facebook pages in here
 # Instead let them generate an error and then manually check them with our broken link review tool

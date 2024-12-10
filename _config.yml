@@ -4,6 +4,7 @@ description: Learn the basics of registered nurse license endorsement, renewal, 
 url: https://rnmobility.com/
 permalink: "/:path"
 google_analytics_id: G-RJB2BBT9M7
+lang: en-US
 
 exclude:
   - README.md
