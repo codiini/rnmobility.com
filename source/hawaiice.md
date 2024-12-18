@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'Hawai&apos;i: RN license renewal & continuing ed'
-description: "Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Hawai&apos;i. Stay current in your nursing profession."
-heading: "Hawai&apos;i"
+title: "Hawai'i: RN license renewal & continuing ed"
+description: "Familiarize yourself with registered nurse license endorsement, renewal, and continuing education in Hawai'i. Stay current in your nursing profession."
+heading: "Hawai'i"
 state: HI
-statename: Hawai'i
+statename: "Hawai'i"
 published: true
 motto: 'Welcome to the Aloha state!'
 ---
