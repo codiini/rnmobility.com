@@ -7,9 +7,9 @@
       <h4 class="text-center mb-5 w-75 text-center mx-auto">Online ACLS recertification in 2-5 hours</h4>
     </div>
 
-    <form method="POST" action="https://lms.acls.net/my-shopping-cart-step-1/" class="courses-btns-form">
+    <form method="POST" action="https://api.acls.net/public/checkout" class="courses-btns-form">
       <input
-        name="source_website"
+        name="source_url"
         type="hidden"
         value="{%- if page.experiment -%}{{site.url}}{{page.url | escape}}{%- elsif page.canonical-link -%}{{site.url}}{{page.canonical-link | escape}}{%- else -%}{{site.url}}{{page.url | escape}}{%- endif -%}"
       >
@@ -19,7 +19,7 @@
         <div class="col-md-4 mb-3">
           <div
             class="course-card selected"
-            data-course="2"
+            data-course="46339924689133"
             tabindex="0"
             role="button"
             aria-pressed="true"
@@ -42,7 +42,7 @@
         <div class="col-md-4 mb-3">
           <div
             class="course-card"
-            data-course="4"
+            data-course="46339925278957"
             tabindex="0"
             role="button"
             aria-pressed="false"
@@ -65,7 +65,7 @@
         <div class="col-md-4 mb-3">
           <div
             class="course-card"
-            data-course="6"
+            data-course="46339924918509"
             tabindex="0"
             role="button"
             aria-pressed="false"
@@ -177,7 +177,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     // Initial setup for pre-checked ACLS course
-    addCourseToForm(2);
+    addCourseToForm(46339924689133);
 
     // Add click and keyboard handlers to all course cards
     document.querySelectorAll('.course-card').forEach((card) => {
@@ -208,25 +208,18 @@
       }
     }
 
+
     function addCourseToForm(courseNum) {
       if (!document.querySelector('#courseHidden' + courseNum)) {
         const courseHiddenInput = document.createElement('input');
         courseHiddenInput.setAttribute('type', 'hidden');
-        courseHiddenInput.setAttribute('id', 'courseHidden' + courseNum);
-        courseHiddenInput.setAttribute('name', 'courses[' + courseNum + '][course_id]');
+        courseHiddenInput.setAttribute('id', 'items[' + courseNum + ']');
+        courseHiddenInput.setAttribute('name', 'items[' + courseNum + ']');
         courseHiddenInput.setAttribute('class', 'courseHidden');
-        courseHiddenInput.setAttribute('value', courseNum);
-
-        const courseHiddenQuantityInput = document.createElement('input');
-        courseHiddenQuantityInput.setAttribute('type', 'hidden');
-        courseHiddenQuantityInput.setAttribute('id', 'courseHiddenQuantity' + courseNum);
-        courseHiddenQuantityInput.setAttribute('name', 'courses[' + courseNum + '][quantity]');
-        courseHiddenQuantityInput.setAttribute('class', 'courseHidden');
-        courseHiddenQuantityInput.setAttribute('value', '1');
+        courseHiddenInput.setAttribute('value', 1);
 
         const form = document.querySelector('.courses-btns-form');
         form.appendChild(courseHiddenInput);
-        form.appendChild(courseHiddenQuantityInput);
 
         // GA4 tracking
         if (typeof gtag === 'function') {
@@ -235,7 +228,7 @@
             value: courses[courseNum].price,
             items: [
               {
-                item_id: 'course_' + courseNum,
+                item_id: 'items[' + courseNum + ']',
                 item_name: courses[courseNum].name,
                 currency: 'USD',
                 price: courses[courseNum].price,
@@ -248,8 +241,9 @@
     }
 
     function removeCourseFromForm(courseNum) {
-      document.querySelector('#courseHidden' + courseNum)?.remove();
-      document.querySelector('#courseHiddenQuantity' + courseNum)?.remove();
+      // Escape special characters for valid selector
+      const courseId = `#items\\[${courseNum}\\]`;
+      document.querySelector(courseId)?.remove();
     }
 
     // Handle form submission
@@ -264,15 +258,15 @@
   });
 
   const courses = {
-    2: {
+    46339924689133: {
       name: 'ACLS Recertification Course',
       price: '175.0',
     },
-    6: {
+    46339924918509: {
       name: 'BLS Recertification Course',
       price: '65.0',
     },
-    4: {
+    46339925278957: {
       name: 'PALS Recertification Course',
       price: '175.0',
     },
