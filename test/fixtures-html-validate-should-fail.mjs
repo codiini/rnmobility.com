@@ -14,6 +14,13 @@ const htmlValidate = new HtmlValidate({
     "no-jquery": "error",
     "canonical-link": "error",
     "latest-packages": "error",
+    "wcag/h37": [
+      "error",
+      {
+        allowEmpty: false,
+        alias: [],
+      },
+    ],
   },
 });
 let allTestsPassed = true;
@@ -171,6 +178,22 @@ const specifications = [
         column: 6,
         size: 6,
         selector: "html > head > script",
+      },
+    ],
+  },
+  {
+    filePath: "test/fixtures/image-missing-alt.html",
+    messages: [
+      {
+        ruleId: "wcag/h37",
+        severity: 2,
+        message: '<img> cannot have empty "alt" attribute',
+        offset: 249,
+        line: 9,
+        column: 59,
+        size: 3,
+        selector: "html > body > img",
+        ruleUrl: "https://html-validate.org/rules/wcag/h37.html",
       },
     ],
   },

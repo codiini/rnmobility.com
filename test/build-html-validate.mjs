@@ -17,6 +17,13 @@ const htmlValidate = new HtmlValidate({
     "latest-packages": "error",
     "https-links": "error",
     "internal-links": "error",
+    "wcag/h37": [
+      "error",
+      {
+        allowEmpty: false,
+        alias: [],
+      },
+    ],
   },
 });
 

@@ -4,7 +4,7 @@ import path from "path";
 
 export default class CheckInternalLinks extends Rule {
   static ALTERNATIVE_EXTENSIONS = [".html", ".php"];
-  static EXTERNAL_LINK_PREFIXES = ["https://", "http://", "mailto:", "tel:"];
+  static EXTERNAL_LINK_PREFIXES = ["https://", "http://", "mailto:", "tel:", "data:"];
 
   documentation() {
     return {
