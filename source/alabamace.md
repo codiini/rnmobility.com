@@ -6,6 +6,7 @@ heading: 'Alabama'
 state: AL
 statename: Alabama
 published: true
+required_reviews: none
 motto: 'Welcome to the Yellowhammer state!'
 compact: true
 ---

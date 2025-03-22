@@ -6,6 +6,7 @@ heading: "Washington State"
 state: WA
 statename: Washington State
 published: true
+required_reviews: none
 motto: 'Welcome to the Evergreen state!'
 compact: true
 ---

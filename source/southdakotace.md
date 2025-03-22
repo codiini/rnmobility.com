@@ -6,6 +6,7 @@ heading: "South Dakota"
 state: SD
 statename: South Dakota
 published: true
+required_reviews: none
 motto: 'Welcome to the Mount Rushmore state!'
 compact: true
 ---

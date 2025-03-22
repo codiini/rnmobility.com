@@ -6,6 +6,7 @@ heading: "Hawai'i"
 state: HI
 statename: "Hawai'i"
 published: true
+required_reviews: none
 motto: 'Welcome to the Aloha state!'
 ---
 

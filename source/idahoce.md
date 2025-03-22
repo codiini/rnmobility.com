@@ -6,6 +6,7 @@ heading: "Idaho"
 state: ID
 statename: Idaho
 published: true
+required_reviews: none
 motto: "Welcome to the Gem state!"
 compact: true
 ---

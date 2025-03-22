@@ -6,6 +6,7 @@ heading: "New York"
 state: NY
 statename: New York
 published: true
+required_reviews: none
 motto: 'Welcome to the Empire state!'
 ---
 

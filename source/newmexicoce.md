@@ -6,6 +6,7 @@ heading: "New Mexico"
 state: NM
 statename: New Mexico
 published: true
+required_reviews: none
 motto: 'Welcome to the Land of Enchantment!'
 compact: true
 ---

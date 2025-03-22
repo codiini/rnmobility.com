@@ -6,6 +6,7 @@ heading: "Nevada"
 state: NV
 statename: Nevada
 published: true
+required_reviews: none
 motto: 'Welcome to the Silver state!'
 ---
 

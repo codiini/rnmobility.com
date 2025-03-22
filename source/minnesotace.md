@@ -6,6 +6,7 @@ heading: Minnesota
 state: MN
 statename: Minnesota
 published: true
+required_reviews: none
 motto: 'Welcome to the North Star State!'
 ---
 

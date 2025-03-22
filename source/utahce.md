@@ -6,6 +6,7 @@ heading: "Utah"
 state: UT
 statename: Utah
 published: true
+required_reviews: none
 motto: 'Welcome to the Beehive state!'
 compact: true
 ---

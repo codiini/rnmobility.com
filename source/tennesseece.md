@@ -6,6 +6,7 @@ heading: "Tennessee"
 state: TN
 statename: Tennessee
 published: true
+required_reviews: none
 motto: 'Welcome to the Volunteer state!'
 compact: true
 ---

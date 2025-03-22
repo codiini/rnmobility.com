@@ -6,6 +6,7 @@ heading: "Nebraska"
 state: NE
 statename: Nebraska
 published: true
+required_reviews: none
 motto: 'Welcome to the Cornhusker state!'
 compact: true
 ---

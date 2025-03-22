@@ -6,6 +6,7 @@ heading: "Louisiana"
 state: LA
 statename: Louisiana
 published: true
+required_reviews: none
 motto: 'Welcome to the Pelican state!'
 compact: true
 ---

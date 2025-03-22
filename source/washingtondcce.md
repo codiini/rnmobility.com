@@ -6,6 +6,7 @@ heading: "Washington DC"
 state: DC
 statename: Washington DC
 published: true
+required_reviews: none
 motto: Welcome to the Nation's capital!
 ---
 

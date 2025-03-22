@@ -6,6 +6,7 @@ heading: "Texas"
 state: TX
 statename: Texas
 published: true
+required_reviews: none
 motto: 'Welcome to the Lone Star state!'
 compact: true
 ---

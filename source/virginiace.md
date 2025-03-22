@@ -6,6 +6,7 @@ heading: "Virginia"
 state: VA
 statename: Virginia
 published: true
+required_reviews: none
 motto: 'Welcome to the Old Dominion!'
 compact: true
 ---

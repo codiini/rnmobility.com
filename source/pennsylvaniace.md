@@ -6,6 +6,7 @@ heading: "Pennsylvania"
 state: PA
 statename: Pennsylvania
 published: true
+required_reviews: none
 motto: 'Welcome to the Keystone state!'
 compact: true
 ---

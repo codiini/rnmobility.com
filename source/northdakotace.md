@@ -6,6 +6,7 @@ heading: "North Dakota"
 state: ND
 statename: North Dakota
 published: true
+required_reviews: none
 motto: 'Welcome to the Peace Garden state!'
 compact: true
 ---

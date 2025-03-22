@@ -6,6 +6,7 @@ heading: 'Colorado'
 state: CO
 statename: Colorado
 published: true
+required_reviews: none
 motto: 'Welcome to the Centennial state!'
 compact: true
 ---

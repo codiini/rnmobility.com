@@ -6,6 +6,7 @@ heading: 'Georgia'
 state: GA
 statename: Georgia
 published: true
+required_reviews: none
 motto: 'Welcome to the Peach State!'
 compact: true
 ---

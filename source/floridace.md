@@ -6,6 +6,7 @@ heading: 'Florida'
 state: FL
 statename: Florida
 published: true
+required_reviews: none
 motto: 'Welcome to the Sunshine state!'
 compact: true
 ---

@@ -6,6 +6,7 @@ heading: "West Virginia"
 state: WV
 statename: West Virginia
 published: true
+required_reviews: none
 motto: 'Welcome to the Mountain state!'
 compact: true
 ---

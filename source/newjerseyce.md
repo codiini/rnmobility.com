@@ -6,6 +6,7 @@ heading: "New Jersey"
 state: NJ
 statename: New Jersey
 published: true
+required_reviews: none
 motto: 'Welcome to the Garden state!'
 compact: true
 ---

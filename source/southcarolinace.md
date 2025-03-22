@@ -6,6 +6,7 @@ heading: "South Carolina"
 state: SC
 statename: South Carolina
 published: true
+required_reviews: none
 motto: 'Welcome to the Palmetto state!'
 compact: true
 ---

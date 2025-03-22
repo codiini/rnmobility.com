@@ -6,6 +6,7 @@ heading: "Oregon"
 state: OR
 statename: Oregon
 published: true
+required_reviews: none
 motto: 'Welcome to the Beaver state!'
 ---
 

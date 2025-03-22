@@ -6,6 +6,7 @@ heading: "Vermont"
 state: VT
 statename: Vermont
 published: true
+required_reviews: none
 motto: 'Welcome to the Green Mountain state!'
 compact: true
 ---

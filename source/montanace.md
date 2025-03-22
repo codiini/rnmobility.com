@@ -6,6 +6,7 @@ heading: "Montana"
 state: MT
 statename: Montana
 published: true
+required_reviews: none
 motto: 'Welcome to the Treasure State!'
 compact: true
 ---
