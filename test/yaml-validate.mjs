@@ -18,7 +18,7 @@ import fs from "fs";
 import yaml from "js-yaml";
 
 const targets = glob.sync("source/**/*.{md,html}").sort();
-const exemptions = ["source/_includes", "source/_layouts", "source/_medical-news"];
+const exemptions = ["source/_includes", "source/_layouts", "source/_medical-news", "source/README.md"];
 
 let allTestsPassed = true;
 
