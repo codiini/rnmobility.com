@@ -6,6 +6,7 @@ heading: "New Hampshire"
 state: NH
 statename: New Hampshire
 published: true
+required_reviews: none
 motto: 'Welcome to the Granite state!'
 compact: true
 ---

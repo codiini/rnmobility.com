@@ -6,6 +6,7 @@ heading: "Michigan"
 state: MI
 statename: Michigan
 published: true
+required_reviews: none
 motto: 'Welcome to the Great Lake state!'
 ---
 

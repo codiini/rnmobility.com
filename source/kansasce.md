@@ -6,6 +6,7 @@ heading: "Kansas"
 state: KS
 statename: Kansas
 published: true
+required_reviews: none
 motto: 'Welcome to the Sunflower state!'
 compact: true
 ---

@@ -6,6 +6,7 @@ heading: "North Carolina"
 state: NC
 statename: North Carolina
 published: true
+required_reviews: none
 motto: 'Welcome to the Tar Heel State!'
 compact: true
 ---

@@ -6,6 +6,7 @@ heading: "Massachusetts"
 state: MA
 statename: Massachusetts
 published: true
+required_reviews: none
 motto: 'Welcome to the Old Colony state!'
 ---
 

@@ -6,6 +6,7 @@ heading: "Indiana"
 state: IN
 statename: Indiana
 published: true
+required_reviews: none
 motto: 'Welcome to the Hoosier state!'
 compact: true
 ---

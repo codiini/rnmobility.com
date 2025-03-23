@@ -6,6 +6,7 @@ heading: "Wyoming"
 state: WY
 statename: Wyoming
 published: true
+required_reviews: none
 motto: 'Welcome to the Equality state!'
 compact: true
 ---

@@ -6,6 +6,7 @@ heading: "Mississippi"
 state: MS
 statename: Mississippi
 published: true
+required_reviews: none
 motto: 'Welcome to the Magnolia state!'
 compact: true
 ---

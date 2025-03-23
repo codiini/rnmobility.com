@@ -6,6 +6,7 @@ heading: "Wisconsin"
 state: WI
 statename: Wisconsin
 published: true
+required_reviews: none
 motto: 'Welcome to the Badger state!'
 compact: true
 ---

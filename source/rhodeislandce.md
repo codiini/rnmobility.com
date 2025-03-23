@@ -6,6 +6,7 @@ heading: "Rhode Island"
 state: RI
 statename: Rhode Island
 published: true
+required_reviews: none
 motto: 'Welcome to the Ocean state!'
 compact: true
 ---

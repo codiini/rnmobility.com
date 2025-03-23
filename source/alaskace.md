@@ -6,6 +6,7 @@ heading: 'Alaska'
 state: AK
 statename: Alaska
 published: true
+required_reviews: none
 motto: 'Welcome to Alaska: The Last Frontier!'
 ---
 

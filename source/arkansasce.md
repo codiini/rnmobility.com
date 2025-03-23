@@ -6,6 +6,7 @@ heading: 'Arkansas'
 state: AR
 statename: Arkansas
 published: true
+required_reviews: none
 motto: 'Welcome to the Natural state!'
 compact: true
 ---

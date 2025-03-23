@@ -6,6 +6,7 @@ heading: "Maine"
 state: ME
 statename: Maine
 published: true
+required_reviews: none
 motto: 'Welcome to the Pine Tree state!'
 compact: true
 ---

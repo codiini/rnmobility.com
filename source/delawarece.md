@@ -6,6 +6,7 @@ heading: 'Delaware'
 state: DE
 statename: Delaware
 published: true
+required_reviews: none
 motto: 'Welcome to The First State!'
 compact: true
 ---

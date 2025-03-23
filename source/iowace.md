@@ -6,6 +6,7 @@ heading: "Iowa"
 state: IA
 statename: Iowa
 published: true
+required_reviews: none
 motto: 'Welcome to the Hawkeye state!'
 compact: true
 ---

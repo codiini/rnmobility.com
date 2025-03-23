@@ -6,6 +6,7 @@ heading: 'Connecticut'
 state: CT
 statename: Connecticut
 published: true
+required_reviews: none
 motto: 'Welcome to the Constitution state!'
 ---
 

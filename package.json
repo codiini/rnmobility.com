@@ -12,7 +12,7 @@
     "shell-quote": "^1.8.2"
   },
   "scripts": {
-    "test": "node test/yaml-validate.mjs; node test/fixtures-html-validate-should-fail.mjs && node test/build-html-validate.mjs",
+    "test": "node test/yaml-validate.mjs && node test/fixtures-html-validate-should-fail.mjs && node test/build-html-validate.mjs",
     "generate-sitemap": "node scripts/generate-sitemap.mjs",
     "prettier-check": "yarn prettier --check .",
     "markdownlint-check": "yarn markdownlint-cli2 '**/*.md'",

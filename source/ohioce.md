@@ -6,6 +6,7 @@ heading: "Ohio"
 state: OH
 statename: Ohio
 published: true
+required_reviews: none
 motto: 'Welcome to the Buckeye state!'
 compact: true
 ---

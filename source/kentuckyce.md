@@ -6,6 +6,7 @@ heading: "Kentucky"
 state: KY
 statename: Kentucky
 published: true
+required_reviews: none
 motto: 'Welcome to the Bluegrass state!'
 compact: true
 ---

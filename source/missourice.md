@@ -6,6 +6,7 @@ heading: "Missouri"
 state: MO
 statename: Missouri
 published: true
+required_reviews: none
 motto: 'Welcome to the Show-Me state!'
 compact: true
 ---

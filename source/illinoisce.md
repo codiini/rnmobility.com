@@ -6,6 +6,7 @@ heading: "Illinois"
 state: IL
 statename: Illinois
 published: true
+required_reviews: none
 motto: "Welcome to The Land of Lincoln!"
 ---
 

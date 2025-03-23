@@ -6,6 +6,7 @@ heading: 'Arizona'
 state: AZ
 statename: Arizona
 published: true
+required_reviews: none
 motto: 'Welcome to the Grand Canyon state!'
 compact: true
 ---

@@ -6,6 +6,7 @@ heading: 'California'
 state: CA
 statename: California
 published: true
+required_reviews: none
 motto: 'Welcome to the Golden state!'
 ---
 

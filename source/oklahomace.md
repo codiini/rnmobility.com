@@ -6,6 +6,7 @@ heading: "Oklahoma"
 state: OK
 statename: Oklahoma
 published: true
+required_reviews: none
 motto: 'Welcome to the Sooner state!'
 compact: true
 ---

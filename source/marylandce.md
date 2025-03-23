@@ -6,6 +6,7 @@ heading: "Maryland"
 state: MD
 statename: Maryland
 published: true
+required_reviews: none
 motto: 'Welcome to the Old Line state!'
 compact: true
 ---
