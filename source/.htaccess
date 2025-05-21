@@ -16,3 +16,6 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [L]
+
+# Catchall redirect
+RewriteRule ^(.*)$ https://acls.net/rn-mobility [R=301,L]
