@@ -16,3 +16,59 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [L]
+
+# Redirects to https://acls.net/rn-mobility
+Redirect 301 https://rnmobility.com/alabamace https://acls.net/alabama-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/alaskace https://acls.net/alaska-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/arizonace https://acls.net/arizona-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/arkansasce https://acls.net/arkansas-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/californiace https://acls.net/california-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/coloradoce https://acls.net/colorado-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/connecticutce https://acls.net/connecticut-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/delawarece https://acls.net/delaware-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/floridace https://acls.net/florida-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/georgiace https://acls.net/georgia-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/hawaiice https://acls.net/hawaii-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/idahoce https://acls.net/idaho-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/illinoisce https://acls.net/illinois-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/indianace https://acls.net/indiana-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/iowace https://acls.net/iowa-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/kansasce https://acls.net/kansas-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/kentuckyce https://acls.net/kentucky-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/louisianace https://acls.net/louisiana-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/mainece https://acls.net/maine-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/marylandce https://acls.net/maryland-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/massachusettsce https://acls.net/massachusetts-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/michigance https://acls.net/michigan-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/minnesotace https://acls.net/minnesota-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/mississippice https://acls.net/mississippi-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/missourice https://acls.net/missouri-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/montanace https://acls.net/montana-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/nebraskace https://acls.net/nebraska-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/nevadace https://acls.net/nevada-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/newhampshirece https://acls.net/new-hampshire-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/newjerseyce https://acls.net/new-jersey-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/newmexicoce https://acls.net/new-mexico-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/newyorkce https://acls.net/new-york-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/northcarolinace https://acls.net/north-carolina-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/northdakotace https://acls.net/north-dakota-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/ohioce https://acls.net/ohio-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/oklahomace https://acls.net/oklahoma-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/oregonce https://acls.net/oregon-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/pennsylvaniace https://acls.net/pennsylvania-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/rhodeislandce https://acls.net/rhode-island-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/southcarolinace https://acls.net/south-carolina-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/southdakotace https://acls.net/south-dakota-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/tennesseece https://acls.net/tennessee-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/texasce https://acls.net/texas-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/utahce https://acls.net/utah-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/vermontce https://acls.net/vermont-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/virginiace https://acls.net/virginia-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/washingtondcce https://acls.net/washington-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/washingtonstatece https://acls.net/washington-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/westvirginiace https://acls.net/west-virginia-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/wisconsince https://acls.net/wisconsin-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+Redirect 301 https://rnmobility.com/wyomingce https://acls.net/wyoming-acls-pals-bls#rn-license-transfer-renewal-continuing-ed
+
+# Catchall redirect
+RewriteRule ^(.*)$ https://acls.net/rn-mobility [R=301,L]
